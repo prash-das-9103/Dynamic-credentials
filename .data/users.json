@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "updatedAt": "2026-08-06T14:28:39.761Z",
+  "users": [
+    {
+      "id": "user-admin-seed",
+      "email": "admin@example.com",
+      "name": "Platform Administrator",
+      "role": "administrator",
+      "passwordHash": "hE3CAAcRZHzCUseRH/3SYWhsZqgqNRbCzc8K3W20oCY=",
+      "passwordSalt": "Oz4aw9kqiC6atvaSadySwg==",
+      "createdAt": "2026-08-06T14:28:39.761Z",
+      "updatedAt": "2026-08-06T14:28:39.761Z",
+      "active": true
+    }
+  ]
+}
