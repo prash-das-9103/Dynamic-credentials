@@ -105,6 +105,12 @@ function BridgeChart({ chart }: { chart: Extract<ChartSpec, { kind: "bridge" }> 
   }
   levels.push(Math.max(level, 0.08));
 
+  // Normalize against the highest point the running level actually reaches — an
+  // uplift lever (e.g. a positive delta before the net reduction) can push the
+  // level above the starting bar's height of 1, which would otherwise overflow
+  // the fixed-height chart area.
+  const maxLevel = Math.max(...levels, 0.01);
+
   const chartH = 3.4; // cqw
   return (
     <div style={{ marginTop: "0.5cqw" }}>
@@ -121,8 +127,8 @@ function BridgeChart({ chart }: { chart: Extract<ChartSpec, { kind: "bridge" }> 
                   position: "absolute",
                   left: 0,
                   right: 0,
-                  bottom: `${(barBottom / 1) * 100}%`,
-                  height: `${Math.max((barHeight / 1) * 100, 5)}%`,
+                  bottom: `${(barBottom / maxLevel) * 100}%`,
+                  height: `${Math.max((barHeight / maxLevel) * 100, 5)}%`,
                   background: color,
                 }}
               />
@@ -133,7 +139,7 @@ function BridgeChart({ chart }: { chart: Extract<ChartSpec, { kind: "bridge" }> 
                     left: "-0.18cqw",
                     right: "50%",
                     borderTop: "1px dashed #bbb",
-                    top: `${100 - (levels[i - 1] / 1) * 100}%`,
+                    top: `${100 - (levels[i - 1] / maxLevel) * 100}%`,
                   }}
                 />
               )}

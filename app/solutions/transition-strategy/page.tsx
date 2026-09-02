@@ -12,8 +12,10 @@ import { getPracticeAreasForSolution } from "@/data/practice-areas";
 import { SolutionHero } from "@/components/solutions/SolutionHero";
 import { ProductsOverview } from "@/components/solutions/ProductsOverview";
 import { CaseAnalyticsPreview } from "@/components/solutions/CaseAnalyticsPreview";
+import { CaseExamplesStrip } from "@/components/solutions/CaseExamplesStrip";
 import { EcosystemPreview } from "@/components/solutions/EcosystemPreview";
 import { PracticeAreaSection } from "@/components/solutions/PracticeAreaSection";
+import { getCaseExamplesForSolutions } from "@/data/case-examples";
 
 const SOLUTION_ID = "transition-strategy" as const;
 const config = SOLUTION_CONFIGS[SOLUTION_ID];
@@ -23,6 +25,7 @@ const practiceAreas = getPracticeAreasForSolution(SOLUTION_ID);
 const partners = getPartnersForSolutions([SOLUTION_ID]);
 const publications = getPublicationsForSolutions([SOLUTION_ID]);
 const experts = getExpertsForSolutions([SOLUTION_ID]);
+const caseExamples = getCaseExamplesForSolutions([SOLUTION_ID]);
 
 export default function TransitionStrategyPage() {
   return (
@@ -56,6 +59,17 @@ export default function TransitionStrategyPage() {
             </h3>
             <CaseAnalyticsPreview caseSolutionLabel="Transition Strategy" />
           </section>
+
+          {/* ── Case examples ────────────────────────────────────────────── */}
+          {caseExamples.length > 0 && (
+            <section>
+              <h3 className="mb-3 text-[16px] font-semibold text-foreground">Case examples</h3>
+              <CaseExamplesStrip
+                examples={caseExamples}
+                basePath="/solutions/transition-strategy/case-examples"
+              />
+            </section>
+          )}
 
           {/* ── Practice areas ───────────────────────────────────────────── */}
           {practiceAreas.length > 0 && (
