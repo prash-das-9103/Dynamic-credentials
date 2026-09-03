@@ -1784,3 +1784,23 @@ export function getCaseExamplesForSolutions(solutionIds: string[]): CaseExample[
   if (solutionIds.length === 0) return CASE_EXAMPLES;
   return CASE_EXAMPLES.filter((c) => c.solutionIds.some((s) => solutionIds.includes(s)));
 }
+
+/**
+ * Selects a capped, most-recent-year-first subset for a solution page's
+ * preview strip. Fills from the newest year present first (e.g. 2026); if
+ * that year alone doesn't reach `max`, backfills with the next most recent
+ * year(s) until the cap is reached. Never truncates a year part-way through
+ * unless it's the last year needed to hit the cap.
+ */
+export function getFeaturedCaseExamples(examples: CaseExample[], max = 15): CaseExample[] {
+  const years = Array.from(new Set(examples.map((e) => e.year))).sort(
+    (a, b) => Number(b) - Number(a)
+  );
+  const result: CaseExample[] = [];
+  for (const year of years) {
+    if (result.length >= max) break;
+    const forYear = examples.filter((e) => e.year === year);
+    result.push(...forYear.slice(0, max - result.length));
+  }
+  return result;
+}
