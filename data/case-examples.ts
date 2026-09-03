@@ -1079,6 +1079,705 @@ export const CASE_EXAMPLES: CaseExample[] = [
       },
     ],
   },
+
+  {
+    id: "case-beauty-co-embedding-sustainability-commercial-excellence",
+    pageNumber: 32,
+    titleAccent: "Beauty Co",
+    titleRest: "Embedding Sustainability into Commercial Excellence",
+    year: "2026",
+    industry: "CP",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "**Beauty Co** is a multinational personal care company operating across cosmetics, haircare, and fragrance, leveraging **sustainability as a core value-creation driver** with retailers",
+      },
+      {
+        text: "The company sought to **embed sustainability more systematically into commercial operations and KAM¹** to drive joint value creation. However, **execution varied significantly** across markets and customers, with limited standardization, measurable impact, and retailer-specific tailoring",
+      },
+      {
+        text: "Bain was engaged to **strengthen customer centricity and commercial impact,** identifying concrete opportunities to standardize and elevate sustainability-led negotiations",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "The case was set-up with two key areas of analysis:",
+      },
+      {
+        heading: "1. Outside-in benchmarking of sustainability strategy, priorities, and initiatives of Beauty Co top 10 retailers, leveraging on Bain center of excellence. This included details on retailer's sustainability ambition, targets, initiatives, activities, sustainability labelling",
+        bullets: [
+          {
+            text: "Retailers' sustainability priorities were then compared to Beauty Co's sustainability agenda to provide a \"**cheat sheet**\" for the commercial teams to base negotiations",
+          },
+        ],
+      },
+      {
+        heading: "2. Linked commercial priorities and sustainability priorities of each of the retailer with relevant sustainability actions",
+      },
+      {
+        heading: "3. Interviews with ~15 members of Beauty Co commercial teams (KAMs, commercial directors, sustainability business leads, etc.) to complement outside in benchmarking, and collect insights on current best practices / improvement points for embedding sustainability in KAM",
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Identified **sustainability priorities** of top 10 retailers **around key pillars** relevant and coherent with Beauty Co priority areas",
+      },
+      {
+        icon: "check",
+        text: "Identified **key Beauty Co sustainability initiatives** per retailer based on the link between the specific retailer's commercial and sustainability priorities",
+      },
+      {
+        icon: "check",
+        text: "Provided a **diagnostic of current KAM and sustainability processes**, identifying **four key improvement areas**:",
+        subBullets: [
+          "Build compelling narrative to sustainability initiatives backed up with KPIs (e.g., repurchase rate for refill)",
+          "Include Sust JBP² as part of main JBP and have commercial KPIs on Sust JBP (e.g., basket size on labelled products)",
+          "Equip KAMs with tools to simplify data sharing with retailers, to get more recognition for our sustainability impact",
+          "Set up feedback loops to further tailor SKUs³ to requirements of retailers (e.g., to obtain labelling)",
+        ],
+      },
+    ],
+    footnote: "Note: (1) KAM – Key Account Management; (2) JBP – Joint Business Plan; (3) SKU – Stock Keeping Unit",
+  },
+
+  {
+    id: "case-chemical-co-sustainability-focused-sales-plays",
+    pageNumber: 33,
+    titleAccent: "Chemical Co",
+    titleRest: "Sustainability Focused Sales Plays",
+    year: "2025",
+    industry: "ENR",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Chemical Co is a leader in sustainability and has made major investments in circularity – focusing on chemical recycling for hard-to-recycle plastics",
+      },
+      {
+        text: "To accelerate their Commercial Excellence, Chemical Co needed to **develop sales plays for their key segments, closely track their pipeline, and improve their market activation plans for top opportunities**",
+      },
+      {
+        text: "Chemical Co faced strong headwinds as **demand for sustainable products was muted** by challenging market conditions (tariffs, inflation, etc.) – which required an assessment of their \"where to play\" choices and support in scaling **sales plays** across the BU",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          { text: "Conducted an **initial diagnostic to validate and refine \"where to play\" choices** for recycled offerings" },
+          { text: "Developed multiple **end-to-end sales plays and a cold outreach playbook**" },
+          { text: "Reset the **sales pipeline,** aligning on clear guidance to determine the true stage of each opportunity" },
+          {
+            text: "Supported **improvements to sales routines and accountability** (win rooms, Salesforce discipline, priority sales opportunity action plans, account plans, etc.)",
+          },
+          {
+            text: "Held **executive workshops** to identify priority projects for sales play implementation across the broader Business Unit (beyond recycled offerings)",
+          },
+          {
+            text: "Implemented **sales play capability** across the BU and developed ongoing routines to drive accountability, synthesize market insights, and review and adjust",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Launched **multiple sales plays for sustainable offerings** in both packaging and durables applications",
+      },
+      {
+        icon: "check",
+        text: "Identified **areas of improvements and key levers to instill sales discipline** in support of achieving revenue growth goals",
+      },
+      {
+        icon: "check",
+        text: "Implemented **routines to track and accelerate progress** with priority sales opportunities",
+      },
+      {
+        icon: "check",
+        text: "Built **visibility into progress of sales opportunities** within the funnel, nearly tripling the size of the business",
+      },
+      {
+        icon: "check",
+        text: "**Stood up sales play capability and routines** and kickstarted rollout with more than 10 projects",
+      },
+      {
+        icon: "check",
+        text: "**Developed six sales plays trainings** across Specialty Plastics division, focused on Marketing, Sales, Technology, and MarCom audiences",
+      },
+    ],
+  },
+
+  {
+    id: "case-paper-packaging-co-value-based-sales-plays",
+    pageNumber: 34,
+    titleAccent: "Paper & Packaging Co",
+    titleRest: "Value-based sales plays to unlock new growth",
+    year: "2025",
+    industry: "AMS",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Bain supported an international **Paper & Packaging Co** operating in a **declining market**, with **slow business momentum**, limited sales-hunting capability, and growth dependent on winning new customer segments",
+      },
+      {
+        text: "Bain engaged with client to:",
+        subBullets: [
+          "Confirm key **growth priorities**",
+          "**Obtain new volumes for 2026**",
+          "**Establish a sense of urgency** in the organisation",
+          "**Set foundation for med-term growth**",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          { text: "Quickly **diagnosed key growth areas**" },
+          {
+            text: "**Mobilized cross-functional teams to \"hunt volumes\"** by closer collaboration and quick roadblocks resolution",
+          },
+          { text: "Developed **plans for priority accounts and key growth region**" },
+          { text: "Launched **value-based sales plays**" },
+          { text: "Transformed how they **approach C-level customer meetings**" },
+          { text: "Launched a **customer-centric Retailer Sales Play embedding GenAI**" },
+        ],
+      },
+    ],
+    results: [
+      { icon: "badge", badgeValue: "+80%", text: "growth in opportunity pipeline" },
+      { icon: "badge", badgeValue: "40%", text: "of opportunities **moved or closed** during the project" },
+      { icon: "badge", badgeValue: "2-3x", text: "increased **volume ambition** for select accounts" },
+      { icon: "badge", badgeValue: "10+", text: "customer sales plays launched" },
+      { icon: "badge", badgeValue: "3", text: "retailers engaged successfully incl. **volume indications from one**" },
+      { icon: "badge", badgeValue: "20", text: "clients **adopted GenAI tool** in their day-to-day work" },
+    ],
+  },
+
+  {
+    id: "case-packaging-co-sustainability-driven-commercial-value-creation",
+    pageNumber: 35,
+    titleAccent: "Packaging Co",
+    titleRest: "Sustainability-driven Commercial Value Creation",
+    year: "2025",
+    industry: "AMS",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Packaging Co is a **leading global PE-owned packaging supplier** of plastic, glass, metal containers etc.",
+      },
+      {
+        text: "They faced challenges due to rapidly evolving market dynamics:",
+        subBullets: [
+          "**Regulatory changes** (e.g., PPWR) accelerated requirements for recyclability and sustainability",
+          "Customers demanded more proactive, strategic guidance from packaging suppliers **to meet ambitious sustainability goals**",
+        ],
+      },
+      {
+        text: "Bain was engaged to **develop a differentiated commercial strategy** focused on capturing value from sustainability-driven customer needs and regulatory shifts",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "The team conducted deep-dive interviews, data analysis, and internal capability assessments:",
+      },
+      {
+        bullets: [
+          {
+            text: "Identified **four key initiatives** to unlock value",
+            subBullets: [
+              "Winning value proposition",
+              "Sales operations aligned to value",
+              "Repeatable sales plays",
+              "Effective enablement with tools",
+            ],
+          },
+          { text: "**Mapped customer archetypes** by region, category, and sustainability maturity" },
+          {
+            text: "Designed differentiated **sales plays** for each customer archetype (compliance followers, sustainability optimizers & core sustainability brands) to achieve brand promise",
+          },
+          { text: "Conducted a sustainability-driven commercial excellence X-ray" },
+          { text: "Developed an **AI-enabled proof-of-concept** sales tool" },
+          { text: "Crafted a roadmap for commercial activation and internal enablement" },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Identified opportunity to drive **~10% revenue uplift** through various CE initiatives over 18-36 months",
+      },
+      {
+        icon: "check",
+        text: "Identified **+3–4% sustainable wallet share** in high-propensity subcategories through targeted campaigns in \"sustainability hotspots\"",
+      },
+    ],
+  },
+
+  {
+    id: "case-steel-co-green-steel-market-assessment",
+    pageNumber: 36,
+    titleAccent: "Steel Co",
+    titleRest: "Green Steel market assessment and decarbonization roadmap",
+    year: "2025",
+    industry: "AMS",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Steel Co's **strategy 20-30** was developed in 2019/20 and led to a comprehensive program centered around **portfolio changes, performance and transformation** regarding green steel",
+      },
+      {
+        text: "Hit by a **series of crises** (COVID, supply shortages, regulations, etc.), Steel Co has been **loss-making the past years**, asking Bain to conduct a **market assessment until 2035** to **update** their business model, which has been carried out in the first part of the project",
+      },
+      {
+        text: "The second part of the project was concerned with the **assessment of the green steel market**, deriving a view on Steel Co's green **expansion strategy** and possible **implications for its profitability** regarding the green steel transition",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "The Bain team assessed the green steel market development until 2035 looking at",
+        bullets: [
+          {
+            text: "**Green steel demand outlook from industries** (until 2035) and **development of the green price premium**;",
+          },
+          { text: "**Development of green steel supply** from key competitors (incl. import development);" },
+          { text: "**Effect** on Steel Co's **delivery volumes**;" },
+          { text: "**Effect** on Steel Co's **contribution margin**." },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Defined a **clear path** to Steel Co on their further decarbonization steps and ambition to become carbon neutral in 2045",
+      },
+      {
+        icon: "check",
+        text: "Evaluation of potential **2030 directions** and recommended **expansion strategies** for Steel Co, emphasizing the adoption of a price premium for green steel",
+      },
+      {
+        icon: "check",
+        text: "Provided guidance on the **next transformation steps** including funding and technology adoption",
+      },
+      {
+        icon: "check",
+        text: "Preparation of a **comprehensive map showcasing adaptation rates across various industries**, including Automotive, Household Products, Construction, Energy, and Industrial Goods.",
+      },
+      {
+        icon: "check",
+        text: "Creation of **detailed scenarios including margins and Opex costs** (particularly in energy and gas), to assist in strategic decision-making",
+      },
+    ],
+  },
+
+  {
+    id: "case-bank-co-voluntary-carbon-market-opportunities",
+    pageNumber: 37,
+    titleAccent: "Bank Co",
+    titleRest: "Voluntary Carbon Market (VCM) opportunities",
+    year: "2025",
+    industry: "FS",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Realignment of business model successfully completed – Now **Bank Co is looking for growth areas** that build on its strengths and are directly related to customer needs",
+      },
+      {
+        text: "**Voluntary carbon market identified** as an interesting future field allowing Bank Co to **leverage existing strengths in commodities** and **compliance carbon market**, among others",
+      },
+      {
+        text: "Bank Co also has **access to the potential supply and demand side for voluntary carbon credits** and can leverage its **expertise in project development**",
+      },
+      {
+        text: "**Positioning themselves in the field of VCM** is also interesting for Bank Co against the background of the ambitious **decarbonization plans of the main shareholder**",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "1. Carbon credits market screening",
+        bullets: [
+          {
+            text: "**Perspective on market size and future trajectory** of carbon markets as well as likely evolution of market and regulatory changes",
+          },
+          {
+            text: "**Market scan of carbon credits market**, incl. competitive landscape and key opportunities along value chain",
+          },
+          { text: "**Strategic recommendations** to navigate market landscape" },
+        ],
+      },
+      {
+        heading: "2. Strategic target picture identification",
+        bullets: [
+          {
+            text: "**Initial blueprint of strategic initiatives** needed to capture voluntary carbon markets opportunity to **jointly create first target picture**",
+          },
+          {
+            text: "**Overview of required capabilities** for successful participation in VCM and execution on target picture (incl. potential gaps)",
+          },
+        ],
+      },
+      {
+        heading: "3. Business case",
+        bullets: [
+          {
+            text: "**High level quantification** of associated opportunities for Bank Co incl. high-level business case (revenue potential)",
+          },
+          { text: "**Initial assessment of risk** (incl. reputation risk)" },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**~20 opportunities** identified for Bank Co to engage in the USD 15-30 bn VCM (2030)",
+      },
+      {
+        icon: "check",
+        text: "**~3 opportunities** prioritized for immediate implementation (2023/24) for Bank Co to participate in VCM",
+      },
+      {
+        icon: "check",
+        text: "**>$10m net profit** in 2030 derived from detailing prioritized opportunities",
+      },
+    ],
+  },
+
+  {
+    id: "case-energy-co-integrated-service-platform-decarbonization",
+    pageNumber: 38,
+    titleAccent: "Energy Co",
+    titleRest: "Integrated Service Platform for Decarbonization Services",
+    year: "2025",
+    industry: "ENR",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Energy Co operates in the **biogas, biomethane,** and renewables markets through **two subsidiaries,** and aims to become the **Italian leading player** in the energy transition",
+      },
+      {
+        text: "The **Italian market** has been undergoing several changes, including **shifts in regulations and demand,** impacting future scenario",
+      },
+      {
+        text: "Energy Co is currently exploring the **opportunity to establish an integrated platform** to leverage its existing B2B sales network with a unified approach",
+      },
+      {
+        text: "Energy Co **has engaged Bain to:**",
+        subBullets: [
+          "**Assess** the potential unlocked **value** generated by synergies from the integrated platform",
+          "**Develop** a **robust business plan** and an **actionable implementation roadmap**",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Client Mapping, Offer Scanning & Customer Life-Time Value",
+        bullets: [
+          {
+            text: "**Identification of customer needs**, mapping of customer profiles to product preferences (incl. ESG targets) and development of **customer segments**",
+          },
+          {
+            text: "**Assessment of fitting products** based on attractiveness and ability to win by customer segment and **quantification of customer lifetime value** through a robust proprietary tool",
+          },
+        ],
+      },
+      {
+        heading: "Go-to-Market Strategy",
+        bullets: [
+          { text: "**Definition of the sales channels** for each customer segment, product and geography" },
+          {
+            text: "**Design of sales management structure** (regional vs. national, key account managers, etc.) **and of the commercial and technical draft offers**",
+          },
+        ],
+      },
+      {
+        heading: "Operative Model",
+        bullets: [
+          {
+            text: "**Understanding** of the **operating model requirements** to support governance mechanisms and processes as-is and to-be.",
+          },
+          {
+            text: "**Design of next level organizational**, **decision-making framework** (rights / accountabilities for the major decisions) by defining key accountabilities for organizational entities, re-set ROCI and decision process roles and align expectations for how teams will work internally",
+          },
+        ],
+      },
+      {
+        heading: "Business Plan and Implementation Roadmap",
+        bullets: [
+          {
+            text: "Definition of **revenue streams, cost items and estimated breakdown of overall budget** and assessment of **profitability** for different segments and **scenarios**",
+          },
+          {
+            text: "**High level implementation roadmap** including risk plan, milestones, metrics to measure, communication plan, and governance plan",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Identified **potential clients** e.g. in terms of industry (Agri/Food/HTA), size and geography; and assessed the **ability to win**",
+      },
+      {
+        icon: "check",
+        text: "Assessed the **size of the prize** of the opportunity and defined **commercial strategies** on specific customer clusters",
+      },
+      {
+        icon: "check",
+        text: "Defined the **operating model** as-is, identified the key **pain-points** and **re-designed it** e.g. by optimizing key execution processes and internal roles functions",
+      },
+      {
+        icon: "check",
+        text: "Structured an **integrated implementation roadmap** for the new offering and overall P&L",
+      },
+    ],
+  },
+
+  {
+    id: "case-chemical-co-carbon-value-creation-plan-polymer-markets",
+    pageNumber: 39,
+    titleAccent: "Chemical Co",
+    titleRest: "Carbon value creation for circular and low-carbon polymers",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Chemical Co is a **global leader in polymer and chemical production**" },
+      {
+        text: "Chemical Co set an ambitious near-term target for its decarbonization journey: **~40% reduction of Scope 1&2 by 2030**",
+      },
+      {
+        text: "Chemical Co aspires to be a **value-oriented leader through the carbon transition** by capturing customer value and capitalizing on their circular and low carbon offerings",
+      },
+      {
+        text: "Bain supported Chemical Co in decarbonized polymer value creation by answering key questions:",
+        subBullets: [
+          "What are the key end markets that require circular and low carbon solutions?",
+          "What is the expected demand for circular and low carbon solutions across end-markets, geographies, and customer archetypes from 2030-2040?",
+          "What are future market dynamics and potential value that can be captured from low carbon solutions in the target markets?",
+          "What actions are needed to enable carbon value capture?",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "Developed **end market deep-dives on Scope 3 emissions reductions, circularity targets, and importance of plastics as a sustainability lever** through 50+ brand owner interviews and sustainability commitments",
+          },
+          {
+            text: "Defined **target end markets and customer archetypes** by prioritization of recycled and/or low carbon products",
+          },
+          {
+            text: "Built **demand model for circular and low carbon solutions from a customer-back perspective,** segmenting by geography, market, and customer archetype (leaders, aspiring leaders, followers, laggards)",
+            subBullets: [
+              "Investigated CO2 reduction from green plastics technology including recycled (mechanical recycling, advanced recycling) and low carbon solutions (scope 1&2 reductions, bio feedstock, combination of scope 1,2,&3 reductions)",
+              "Translated public, scope 3 CO2e and circularity targets across 200+ companies in 8 end-markets to model demand from 2030 onward for recycled and low-carbon plastic",
+            ],
+          },
+          {
+            text: "**Mapped low-carbon demand against anticipated supply** from upcoming low-carbon projects",
+          },
+          { text: "**Identified potential value capture,** linked to decarbonization costs" },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Alignment on priority PP/PE end-markets**",
+        subBullets: [
+          "Identified plastics importance for scope 3 decarbonization",
+          "Developed segmentation of end-markets based on their receptiveness to recycled and low-carbon solutions",
+        ],
+      },
+      {
+        icon: "check",
+        text: "**Identified 2030+ demand for green PP/PE**",
+        subBullets: [
+          "Developed demand model for PE/PP by geography, end-market, customer archetype, and by product (recycled and low carbon solutions)",
+          "Created view of supply / demand market dynamics",
+        ],
+      },
+      {
+        icon: "check",
+        text: "**Estimated decarbonization value for low carbon solutions for 2030 and 2035**",
+        subBullets: ["Optimized decarbonization plan based on required supply and cost to decarbonize"],
+      },
+      {
+        icon: "check",
+        text: "**Initiated adjustments in decarbonization strategy, marketing capabilities, and advocacy strategy** to enable carbon value capture",
+        subBullets: ["Prioritized PP/PE end markets", "2030+ view of recycled and low-carbon demand", "Potential $XXXM carbon value for low carbon solutions"],
+      },
+    ],
+  },
+
+  {
+    id: "case-esg-startup-co-product-footprinting-saas",
+    pageNumber: 40,
+    titleAccent: "ESG Start Up Co",
+    titleRest: "Designing a differentiated Product Footprinting SaaS tool",
+    year: "2024",
+    industry: "TCS",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "ESG Start Up Co has a comprehensive enterprise-level carbon accounting platform, but is **seeing competitors expand into more granular footprinting tools,** that size a product-level impact",
+      },
+      {
+        text: "They want to create a **differentiated product** that is easy-to-use but comprehensive – to capture market share away from established complex \"Life Cycle Assessment (LCA)\" tooling",
+      },
+      {
+        text: "ESG Start Up Co has only previously offered carbon footprinting, and wants an **understanding of most critical environmental factors for consumers**",
+      },
+    ],
+    whatWeDidHeading: "WHAT WE DID",
+    whatWeDid: [
+      {
+        body: "Bain helped ESG Start Up Co ideate, design and define the value proposition of carbon and environmental factor tooling – to the point of being ready to build and launch",
+      },
+      {
+        heading: "Market analysis and vision setting",
+        bullets: [
+          {
+            text: "Collaborative workshop to define vision for the tool, leveraging inspiration from customer needs, competitive offerings and existing proposition",
+          },
+        ],
+      },
+      {
+        heading: "Customer needs",
+        bullets: [
+          {
+            text: "Qualitative (market survey) and qualitative (customer and expert interviews) to understand customer (unmet) needs, objectives, and segments",
+          },
+        ],
+      },
+      {
+        heading: "Value proposition definition",
+        bullets: [
+          {
+            text: "Ideated and prioritized features to create an initial view of the value proposition for different end users, with basic mock-ups and customer journeys",
+          },
+          { text: "Set out and agreed 'Leap of Faith assumptions' to validate through test phase" },
+        ],
+      },
+      {
+        heading: "Test & learn",
+        bullets: [
+          {
+            text: "Leverage value proposition materials and clickable prototype to test tool with end users, iterating and increasing fidelity based on feedback",
+          },
+        ],
+      },
+      {
+        heading: "Detailed design",
+        bullets: [
+          { text: "Defined methodology approach and setup calculation frameworks for carbon, water and waste footprinting" },
+          { text: "Created detailed design artefacts including wireframes, information architecture, and service blueprint" },
+        ],
+      },
+      {
+        heading: "Planning and requirements",
+        bullets: [
+          {
+            text: "Prioritized features using a defined framework (across desirability, viability and feasibility) to define MVP and roadmap of enhancements",
+          },
+          {
+            text: "Built out delivery requirements (product backlog of epics and user stories) and handover packs to be leveraged by engineering teams in the build phase",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "badge", badgeValue: "$400m+", text: "in **incremental value** identified" },
+      { icon: "badge", badgeValue: "37", text: "Experts and end users **interviewed**" },
+      { icon: "badge", badgeValue: "19", text: "customer pilots with **clickable prototypes conducted**" },
+      { icon: "badge", badgeValue: "54", text: "**Product features defined**, sized and prioritized" },
+      { icon: "badge", badgeValue: "200+", text: "**Data points leveraged** to calculate product environmental footprints" },
+      { icon: "badge", badgeValue: "70", text: "**User stories written** to define build requirements" },
+      {
+        icon: "check",
+        text: "Defined **multi-release feature delivery roadmap** to deliver iterative user value",
+      },
+    ],
+  },
+
+  {
+    id: "case-food-co-launch-scale-low-carbon-food-product",
+    pageNumber: 41,
+    titleAccent: "Food Co",
+    titleRest: "Strategy to launch and scale a low carbon food product",
+    year: "2023",
+    industry: "SI / ENR",
+    product: "Sustainability Commercial Excellence (with Customer)",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Food Co, a **European crop processor company**, wanted to launch and scale a new low carbon food product to create a competitive advantage",
+      },
+      {
+        text: "Food co needed support in defining their low carbon food strategy and business model",
+      },
+      {
+        text: "Furthermore, Food co sought expertise to develop a long-term partnership strategy that would maximize the potential of their low carbon food offering and create a competitive advantage",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Developed a **strategy to launch and scale a low carbon food product**, guided by 4 key deliverables:",
+      },
+      {
+        heading: "1. Visibility on decarbonization potential, customer willingness to pay & corresponding business case",
+        bullets: [
+          { text: "E-curve: Created transparency on decarbonization levers & corresponding costs over time" },
+          {
+            text: "S-curve: Identified willingness to pay per customer segment (over time) and developed corresponding business case (i.e., based on future volumes, costs, prices and profits)",
+          },
+        ],
+      },
+      {
+        heading: "2. Long-term strategic partnerships to create a competitive advantage",
+        bullets: [
+          {
+            text: "Identified required partnerships, value propositions and contract terms to leverage low carbon product & stand out from competitors",
+          },
+        ],
+      },
+      {
+        heading: "3. Sustainability criteria and framework to drive low carbon journey forward",
+        bullets: [
+          { text: "Defined methods for carbon calculation/ verification and drove key sustainability decisions" },
+        ],
+      },
+      {
+        heading: "4. Communication strategy & organizational set-up to scale low carbon food products in market",
+        bullets: [
+          {
+            text: "Developed communication materials to engage upstream & downstream partners in low carbon food transformation and created governance & OP model frameworks to facilitate scaling",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "badge", badgeValue: "10-15%", text: "EBITDA growth by 2030" },
+      { icon: "badge", badgeValue: "50%", text: "of total food volumes will be low carbon by 2030" },
+    ],
+  },
 ];
 
 export function getCaseExamplesForSolutions(solutionIds: string[]): CaseExample[] {
