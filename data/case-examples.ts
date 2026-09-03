@@ -1778,6 +1778,1288 @@ export const CASE_EXAMPLES: CaseExample[] = [
       { icon: "badge", badgeValue: "50%", text: "of total food volumes will be low carbon by 2030" },
     ],
   },
+
+  {
+    id: "case-energy-co-voluntary-carbon-credit-scheme-feasibility",
+    pageNumber: 72,
+    titleAccent: "Energy Co",
+    titleRest: "National Voluntary Carbon Credit Scheme Feasibility Study",
+    year: "2023",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Rising pressure to reduce GHG emissions at a global and European level (Paris Agreement)" },
+      {
+        text: "Voluntary Carbon Market increasingly recognized as a key mean to achieve net zero strategies, expected to grow by 5-20x in 10 years ('20-'30)",
+      },
+      {
+        text: "Several players entering the VCM market along the value chain, with supply standards taking care of the certification process (midstream)",
+      },
+      {
+        text: "Global standards leading the market, while national/ domestic standards emerging to boost country-level decarbonization",
+      },
+      {
+        text: "Energy Co, together with public/ gov' institutions and local stock exchange, asked for Bain support in assessing the potential for the creation of a domestic scheme and trading platform",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "1. Greek Demand/ Supply assessment",
+        bullets: [
+          { text: "Reviewed global trends and implications for European markets" },
+          { text: "Quantified core demand and supply sources for Greece" },
+        ],
+      },
+      {
+        heading: "2. Best practices review and reason why",
+        bullets: [
+          {
+            text: "Assessed supply standard dynamics (incl. certification process, projects covered, methodologies adopted, …)",
+          },
+          { text: "Analyzed and defined trading model options (incl. infrastructure, customer served,…)" },
+        ],
+      },
+      {
+        heading: "3. Scheme design for Greece",
+        bullets: [
+          { text: "Defined key supply standard features and trading model choices for domestic market" },
+          {
+            text: "Prepared a lean and quick survey, to assess awareness, current adoption and future role of VCM for local top emitters, large CPG and financial services corporations",
+          },
+        ],
+      },
+      {
+        heading: "4. Operating model definition",
+        bullets: [
+          { text: "Designed operating model in terms of supply standard and trading model positioning along the value chain" },
+          { text: "Profiled key stakeholders and partners to potentially engage" },
+        ],
+      },
+      {
+        heading: "5. Roadmap design",
+        bullets: [
+          {
+            text: "Designed one-year roadmap for implementation (incl. guidelines, timeline, key milestones, stakeholders, enablers, …)",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Assessed **potential for Greek VCM**",
+        subBullets: [
+          "Local supply of 3-5MtCo2 by 2030, analyzing ~15 major use cases (e.g., afforestation, blue carbon, …)",
+          "Local demand of 4-7MtCo2 by 2030, based on country emissions trajectory and top emitters ambitions (~15 players representing >50% of total emissions)",
+        ],
+      },
+      {
+        icon: "check",
+        text: "Performed **benchmark along the full VCM value chain**, with focus on supply standard and trading models",
+        subBullets: [
+          "Identified 4 key supply standards archetypes based on geographical reach and methodologies adopted",
+          "Validated rising role of exchanges and opportunity for porting model with existing carbon-focused platforms",
+        ],
+      },
+      { icon: "check", text: "Defined new scheme **blueprint**, scheme **positioning** along the value chain and **strategic choices**" },
+      {
+        icon: "check",
+        text: "Designed one-year **roadmap** for **mobilization** with detailed activities to perform, owners/ actors to engage, key enablers and milestones to target",
+      },
+    ],
+  },
+
+  {
+    id: "case-wbcsd-corporate-sustainability-impact",
+    pageNumber: 69,
+    titleAccent: "World Business Council For Sustainable Development",
+    titleRest: "Defining and driving corporate sustainability impact",
+    year: "2024",
+    industry: "SI",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "WBCSD engaged Bain to:",
+        subBullets: [
+          "Outline the compelling business case today and a path forward to catalyze companies beyond value chain actions at scale",
+          "Create an educational guide that introduces key concepts on biodiversity credits and explains how companies may use them to serve their nature-positive strategies",
+          "Develop a practical tool with step-by-step instructions to help companies build carbon credit portfolios that support their net zero strategy",
+        ],
+      },
+      {
+        text: "The boundary of beyond value chain actions is **only starting to be defined for climate by SBTi, but not yet for nature and equity**. There is no clear business case for acting beyond the value chain, resulting in subscale actions vs the global ambition",
+      },
+      {
+        text: "**Biodiversity credit is a nascent concept** with an undefined global scope. As many businesses have only begun to focus on biodiversity following COP15, they are not yet interested in exploring actions beyond value chains",
+      },
+      {
+        text: "**Carbon credit portfolios need a deep understanding** of trends, credit types, and prioritization. Claiming credit usage has **public scrutiny and reputational risk**",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "Conducted **member surveys, interviews, and workshops** to obtain and cultivate current perspectives, as well as to collaboratively shape messaging and approach",
+          },
+          {
+            text: "Performed **market research** on climate, nature, and equity crises as well as the latest market developments to anticipate future trends",
+          },
+          {
+            text: "Developed **frameworks** for classifying beyond value chain actions, biodiversity types, and constructing carbon credit portfolios",
+          },
+          {
+            text: "Leveraged **conferences, publications, and webinars** to broaden the scope of advocacy efforts, thereby increasing their impact",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Drove broader corporate contribution beyond value chain among WBCSD members (~200 members) and more, leveraging global forums like the New York Climate Week roundtable and the COP28 report publication. Elevated WBCSD's requirement on member corporate actions and fostered agreement among business leaders on the importance of greater corporate contribution to address the climate, nature, and equity crises",
+      },
+      {
+        icon: "check",
+        text: "Empowered greater corporate participation in the voluntary carbon market by developing well-documented policies and market guidance, as well as a systematic methodology for carbon credit portfolio construction and related reporting and claiming",
+      },
+      {
+        icon: "check",
+        text: "Promoted WBCSD's brand name and established the organization as a thought leader on fast-evolving topics such as biodiversity credits",
+      },
+      {
+        icon: "check",
+        text: "Published reports: - The Case for Beyond-Value-Chain Actions",
+      },
+    ],
+  },
+
+  {
+    id: "case-conglomerate-co-screening-nbs-carbon-credit-projects",
+    pageNumber: 74,
+    titleAccent: "Conglomerate Co",
+    titleRest: "Screening NbS Carbon Credit Projects",
+    year: "2023",
+    industry: "AMS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "**Conglomerate Co** is looking to develop capability to source high quality carbon credits for:",
+        subBullets: ["Selling to its customers having decarbonization goals", "Meeting their own corporate emissions targets"],
+      },
+      {
+        text: "Accordingly, the client needed support in **understanding the current landscape of NbS project opportunities in Asia**, and to identify early-stage projects for potential investment.",
+      },
+      {
+        text: "**Complications:**",
+      },
+      { text: "The carbon markets landscape is a rapidly evolving space." },
+      { text: "Presently, there is no comprehensive database that consolidates all carbon credit-generating projects across markets." },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Bain worked for **1-month** to assess most **attractive markets for NbS project investments** featuring strong regulation, mitigation potential, and credible project pipelines. The approach included:",
+      },
+      {
+        bullets: [
+          { text: "Sourcing pre-issuance projects listed on carbon credit registries such as Verra and Gold Standard" },
+          { text: "Engaging developers to obtain information about their projects in the pipeline*" },
+          {
+            text: "Sense-checking of project list with experienced market participants (e.g., ex-project developers) to ensure that no major projects were missing",
+          },
+          {
+            text: "Applying a systematic approach to screen and score each project against 3 criteria – **market conditions, developer track record**, and **project feasibility & quality**",
+          },
+        ],
+      },
+      {
+        bullets: [{ text: "The highest-scoring projects were shortlisted and presented to the client for investment consideration." }],
+      },
+    ],
+    results: [
+      {
+        icon: "badge",
+        badgeValue: "19 projects",
+        text: "shortlisted from total ~300 projects — 10 projects in SEA and 9 projects in India for potential investment.",
+      },
+      {
+        icon: "check",
+        text: "Proposed **financial and technical due diligence** on key targets for the client to arrive at investment decision, and to further develop the client's overall nature-based solutions strategy.",
+      },
+    ],
+    footnote: "(*) some of the projects may not be publicly available yet",
+  },
+
+  {
+    id: "case-cpg-co-it-decarbonization-pathway",
+    pageNumber: 66,
+    titleAccent: "CPG Co",
+    titleRest: "IT Decarbonization Pathway",
+    year: "2024",
+    industry: "CP",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "**CPG Co** committed to a **28% carbon reduction by 2030 vs. 2019**, translating to ~50% vs. BaU, with implications across all business units.",
+      },
+      {
+        text: "Although IT currently contributes a **small share of emissions**, it is projected to **2–3x** due to increased cloud adoption and GenAI usage.",
+      },
+      {
+        text: "No specific decarbonization target or pathway had been set for IT. A focused **6-week sprint** aimed to establish the first IT carbon projection and action plan.",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Built a 2030 IT carbon projection under various growth and usage scenarios, including:",
+        bullets: [
+          {
+            text: "BaU modeling across IaaS, SaaS, PaaS, IT services, user environment, printing, telephony, networks, and on-prem data centers.",
+          },
+          {
+            text: "GenAI expansion scenarios, using both top-down (market + energy intensity per model) and bottom-up (employee-level usage) approaches.",
+          },
+        ],
+      },
+      { body: "Identified **carbon reduction levers** across cloud infrastructure, hardware lifecycle, suppliers' ecosystem." },
+      {
+        body: "Prioritized actions based on impact, feasibility, and alignment with existing IT strategic plans — categorized as:",
+        bullets: [
+          { text: "Strategic plan follow-through" },
+          { text: "Stretch initiatives" },
+          { text: "Bold moves" },
+        ],
+      },
+      {
+        body: "Developed a **preliminary IT decarbonization roadmap** and key recommendations to support internal alignment and decision-making.",
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Modeled **IT carbon footprint projected to 2–3x by 2030**, primarily driven by cloud growth and GenAI use.",
+      },
+      {
+        icon: "check",
+        text: "Delivered CPG Co.'s **first IT decarbonization pathway**, supporting Group-level sustainability commitments.",
+      },
+      {
+        icon: "check",
+        text: "Defined a clear reduction **potential of ~40–70%** vs. BaU, with majority of impact dependent on supplier engagement.",
+      },
+      { icon: "check", text: "Delivered a prioritized **list of decarbonization levers**" },
+    ],
+  },
+
+  {
+    id: "case-oil-gas-co-soil-carbon-offset-generation",
+    pageNumber: 73,
+    titleAccent: "Oil & Gas Co",
+    titleRest: "Soil Carbon Offset Generation",
+    year: "2023",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Oil & Gas Co set an ambitious **goal to offset XXM metric tons of emissions** from the use of their product(s) by 20XX; evaluating **regenerative agriculture** in North America (no-till & cover crops) to **sequester carbon and generate offsets**",
+      },
+      {
+        text: "The project involved analysis of the traditional economics of major crop types in North America (Corn, Soy, Wheat), the **impact of regenerative agriculture on those economics**, and other economic incentives for regenerative agriculture practices which can incentivize farmers to switch from traditional methods.",
+      },
+      {
+        text: "The project also relied heavily on getting farmer perspectives to help understand the psychological barriers to switching to these practices, which is one of the largest barriers to adoption to date.",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "Built regenerative agriculture economic model to assess impact of adopting regenerative agriculture on farm economics for key segments of interest",
+          },
+          {
+            text: "Conducted ~40 in-depth interviews (farmers, agronomists and industry experts) to further our understanding of carbon markets, existing carbon programs, and key drivers & barriers of adoption",
+          },
+          {
+            text: "Created a carbon program simulator to assess which segments & how many acreages are addressable at cost per tonne of carbon that the client is willing to pay",
+          },
+          {
+            text: "Assessed existing carbon programs and co-created a high-level structure of a potential carbon program that addresses farmers' needs while keeping cost per carbon at or below client's willingness to pay",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "**ECONOMICS:** Defined addressable market at the cost of carbon the client is willing to pay" },
+      {
+        icon: "check",
+        text: "**IMPACT:** Proved there is a significant opportunity (in both acreages & tonnes of carbon sequestration potential) in North American regenerative agriculture. Phase 2 decision has not been made, but will be focused on detailed offer design, capability mapping, and identifying potential partnerships to execute",
+      },
+      {
+        icon: "check",
+        text: "**INNOVATION:** Co-created a high-level structure of a carbon program with the client that better addresses farmer needs vs. competitor offerings while meeting client's target cost per carbon",
+      },
+    ],
+  },
+
+  {
+    id: "case-district-energy-co-future-ready-contract-database",
+    pageNumber: 71,
+    titleAccent: "District Energy Co",
+    titleRest:
+      "Prepared a future-ready contract database to incorporate strategic implications of decarbonization regulations; leading to 33% EBITDA uplift",
+    year: "2023",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "District Energy Co is a leading district energy provider in Country 1 offering reliable and cost-efficient cooling and heating solutions" },
+      {
+        text: "In 2023, one of the states that District Energy Co plays in, introduced a decarbonization regulation act to cap and reduce GHG emissions,",
+      },
+      {
+        text: "This is expected to introduce additional costs, **which would erode ~60-70% of District Energy Co's current EBITDA** in that state (in the form of cost-to-purchase allowances)",
+      },
+      {
+        text: "Further, there were discrepancies in District Energy Co's billing system which meant they were likely over/under-billing different customers",
+      },
+      {
+        text: "Bain support was needed to identify:",
+        subBullets: [
+          "The strategic implications of the decarbonization regulation, including pass-through contracts and milestones for renegotiation",
+          "Value of over/under billing in customer contracts, and adjustments needed for proper alignment with agreed-upon terms",
+          "Summary of commercial terms, strategic options they provide, and potential EBITDA upside",
+          "Way (if any) of communication to customers in a given timeframe",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Compiled data from across the organization to build contract database",
+        bullets: [
+          { text: "Summarized options to improve contract standardization" },
+          { text: "Recommended naming approach and organization of files" },
+        ],
+      },
+      {
+        heading: "Estimated EBITDA impact and potential levers to drive upside",
+        bullets: [
+          { text: "Quantify decarbonization regulation act exposure and ability to pass through costs" },
+          { text: "Quantify the impact of over-billing/under-billing by customers, due to contract to invoicing misalignment" },
+          { text: "Determine the variability in pricing/profitability" },
+        ],
+      },
+      { heading: "Developed a high-level communication plan and execution roadmap" },
+    ],
+    results: [
+      { icon: "check", text: "Created a future-ready contract database" },
+      {
+        icon: "check",
+        text: "Identified that **75%** of the additional costs from purchasing allowances, could be contractually passed through to customers",
+      },
+      { icon: "check", text: "Quantified the impact of over/under billing" },
+      {
+        icon: "check",
+        text: "Identified various levers to drive EBITDA upside across different scenarios – with a total gain of up to **+33% EBITDA improvement** on the current base (~$XM upside) in the most optimistic scenario vs. – **60-70% downside on the current base in 'do nothing scenario'**",
+        subBullets: [
+          "EBITDA gain net of both decarbonization cost pass-through costs and downside from resolving invoicing misalignment",
+        ],
+      },
+      { icon: "check", text: "Created a communication plan and execution roadmap" },
+    ],
+  },
+
+  {
+    id: "case-nature-co-full-potential-plan-conservation-carbon-land-use",
+    pageNumber: 75,
+    titleAccent: "Nature Co",
+    titleRest: "Full-potential plan development focusing on conservation, carbon market, and sustainable land use",
+    year: "2023",
+    industry: "SI",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Nature Co is a **global NGO** whose mission is to **conserve the land**" },
+      {
+        text: "Nature Co partner bought a production forest concession in Indonesia on landscape **critical landscape for conservation and biodiversity** that faces a **high risk of encroachment** from illegal logging & conversion",
+      },
+      {
+        text: "Nature Co sought to use the concession to demonstrate a **viable, scalable multi-asset business model** to sustain and thereby protect the production of forestland",
+      },
+      { text: "Bain was brought in to **define a full-potential plan** for the concession and strategy to drive impact at a system-level" },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          { text: "Built timber and carbon market fact bases to establish a POV on economic drivers, regulation, and value chains" },
+          { text: "Ran a \"Paint the Beach\" workshop with leadership to align on future vision and theory of change" },
+          { text: "Modeled cash flows from sustainable timber, carbon, and other interventions to assess profit uplift opportunities" },
+          { text: "Worked with local team to craft geospatial maps highlighting focal geographies based on conservation value and economic opportunity" },
+          { text: "Drafted philanthropic funding strategy and forest-positive narrative for high-potential target funders" },
+          {
+            text: "Created PMO & resourcing plan moving forward incl. recommendations on meeting cadence, team structure, operating budget, and partnerships",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "badge",
+        badgeValue: "$20+/ha/year",
+        text: "Unlocked new strategies to close the profit gap — incremental profit from selling carbon offsets and participating different in value chain",
+      },
+      {
+        icon: "badge",
+        badgeValue: "$10-30M",
+        text: "Created pathway for pipeline of forest-positive funds — in progress from corporate funders",
+      },
+      { icon: "check", text: "Recommended team restructuring to meet operational needs" },
+      { icon: "check", text: "Aligned leaders on near and long-term action moving forward" },
+    ],
+  },
+
+  {
+    id: "case-consumer-co-carbon-value-creation-plan",
+    pageNumber: 67,
+    titleAccent: "Consumer Co",
+    titleRest: "Carbon Value Creation Plan",
+    year: "2024",
+    industry: "CP",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Client was a mid-sized, European high-growth consumer products company with a broad portfolio across personal care and homecare" },
+      {
+        text: "Growing investor, regulatory and B2B customer pressure to share carbon data and demonstrate leadership created burning platform for action",
+      },
+      {
+        text: "Client had dual objective to:",
+        subBullets: [
+          "Build CSRD-compliant baseline and set first ever Science-Based Target",
+          "Identify value-creation potential from decarbonization, and build plan to implement key actions",
+        ],
+      },
+    ],
+    whatWeDidHeading: "APPROACH",
+    whatWeDid: [
+      {
+        heading: "Defined overall carbon ambition",
+        bullets: [
+          { text: "Built full-scope footprint baseline, and defined process to integrate into new ERP system" },
+          { text: "Defined targets based on ambition-level, peer benchmarking, and requirements from green ratings" },
+        ],
+      },
+      {
+        heading: "Developed plan to implement key value-creation levers",
+        bullets: [
+          { text: "Prioritized long-list of decarbonization levers, based on potential for cost-saving, risk-management and sales/ margin uplift" },
+          { text: "Engaged teams across R&D, marketing, procurement, supply chain, finance to own business case and implementation plan" },
+        ],
+      },
+      {
+        heading: "Prepared client for annual investor day",
+        bullets: [
+          { text: "Integrated carbon story into overall corporate mission and strategy" },
+          { text: "Created talking points for CEO, CFO as part of investor roadshow, with key milestones for 2025 - 2027" },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "**Value creation** — Successful launch at investor roadshow" },
+      { icon: "check", text: "External audit approval of carbon model for CSRD" },
+      {
+        icon: "check",
+        text: "**Commercial upside** — Double-digit margin uplift on key product lines from switch to lower-carbon packaging formats",
+      },
+      { icon: "check", text: "Cost-certainty from full-potential roll-out of on-site renewables and PPAs at key sites" },
+    ],
+  },
+
+  {
+    id: "case-cpg-co-carbon-credit-procurement-governance-model",
+    pageNumber: 68,
+    titleAccent: "CPG Co",
+    titleRest: "Carbon credit procurement governance model to secure credits for Net Zero targets",
+    year: "2024",
+    industry: "CP",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "CPG Co, a top global company (>150 countries, >35 brands), has committed to:",
+        subBullets: [
+          "Achieve Net Zero GHG emissions by 2050 and offset the residual 10% emissions in line with the Science Based Targets initiative",
+          "Start offsetting all emissions from 2035 onwards on a voluntary basis",
+        ],
+      },
+      {
+        text: "CPG Co's objective is to **secure the required carbon credits** for its **own consumption** while optimizing volume, quality, risk and costs",
+      },
+      {
+        text: "To enable this, the client asked Bain to develop a **governance for their carbon credit procurement**, e.g.:",
+        subBullets: [
+          "How to ensure strategic fit between sustainability ambition and credit procurement and retirement?",
+          "How to orchestrate different central and local stakeholders across the group and what are their roles and responsibilities?",
+          "What resources should CPG Co mobilize to run the necessary procurement activities?",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          { text: "Validated key design principles that should inform the carbon credit procurement governance" },
+          { text: "Identified key departments and roles to be involved and function holding the role of \"internal customer\"" },
+          { text: "Formalized the high-level end-to-end process and key decisions along the carbon credit procurement lifecycle" },
+          {
+            text: "Developed a recommendation on roles and responsibilities throughout the carbon credit management process (e.g., decision-making responsibilities, key activities and owners)",
+          },
+          {
+            text: "Shared best practices on carbon credit team setup and size, informed by industry case studies (based on specifically developed research and market participant interviews)",
+          },
+          {
+            text: "Assessed the financial and organizational implications of different potential short-/mid-term offset strategies and resulting volumes procured in the next 10 years",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Clear governance model, roles and responsibilities** validated by key stakeholders, allowing the client to hit the ground running when needed",
+      },
+      {
+        icon: "check",
+        text: "**Clear understanding of urgency** to clarify ramp-up trajectory upfront as it impacts the required governance and capabilities – incl. CEO-ready narrative",
+      },
+      { icon: "check", text: "**New internal IP developed** on carbon credit governance (industry best practices, process & RACI frameworks)" },
+      {
+        icon: "badge",
+        badgeValue: "15+",
+        text: "client stakeholders involved (of which key sustainability and finance decision makers)",
+      },
+      {
+        icon: "badge",
+        badgeValue: "8",
+        text: "market case studies of carbon credit governance models (of which 6 specifically developed for the client)",
+      },
+    ],
+    footnote: "Note: RACI – Responsible, Accountable, Consulted, Informed",
+  },
+
+  {
+    id: "case-chemical-co-internal-carbon-pricing-strategy",
+    pageNumber: 56,
+    titleAccent: "Chemical Co",
+    titleRest: "Internal Carbon Pricing (ICP) strategy for aligning pricing logic and supporting decarbonization efforts",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "**Global leader** in chemical and polymer production" },
+      {
+        text: "Chemical Co set an ambitious near-term target for its decarbonization journey: **~40% reduction of Scope 1 & 2 emissions by 2030**",
+      },
+      {
+        text: "Bain supported Chemical Co in its **ICP implementation and decarb journey** by answering four questions:",
+        subBullets: [
+          "What is the purpose of an ICP at Chemical Co?",
+          "How should ICP be applied within the organization?",
+          "What metrics should be used to triangulate and validate the price level?",
+          "What is the right governance to ensure ICP is deployed across the organization, updated annually, and implemented consistently?",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "**Interviewed key stakeholders** to understand current state, pain points, and establish an agreed upon point of departure",
+          },
+          {
+            text: "**Benchmarked competitor & customer ICPs** to understand sustainability ambitions and strategies",
+          },
+          {
+            text: "**Developed custom ICP model** that uses a variety of inputs to determine a current year price, future escalation, and is flexible through different scenarios",
+          },
+          {
+            text: "**Recommended price and piloted results** across projects in various stages of development to show efficacy on project financials",
+          },
+          {
+            text: "**Developed implementation plan and governance** to equip Chemical Co with the tools to launch ICP across the organization by mid-2024",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Alignment on ICP price logic and level**",
+        subBullets: [
+          "Developed an internal carbon price that enabled both Chemical Co's sustainability and growth ambitions",
+          "Built an ICP model to adjust the price based on key inputs and changes in signposts",
+        ],
+      },
+      {
+        icon: "check",
+        text: "**Developed roadmap** for initial implementation as well as annual update and review",
+        subBullets: [
+          "Created 6-month ICP implementation plan",
+          "Developed annual ICP price level and escalation refresh process",
+          "Created an ICP use assessment methodology to ensure proper & consistent utilization of ICP across the org",
+        ],
+      },
+      {
+        icon: "check",
+        text: "**Increased consideration** to move forward on decarbonization projects",
+        subBullets: [
+          "When including an ICP, several decarbonization project financials improved enough to be considered viable",
+        ],
+      },
+      { icon: "badge", badgeValue: "63%", text: "**closer to decarb goal***" },
+      { icon: "badge", badgeValue: "2.3 MMTCo2e", text: "**reduced***" },
+    ],
+    footnote: "Note: *If Chemical Co moves forward with the decarbonization projects that became viable with ICP",
+  },
+
+  {
+    id: "case-energy-co-gas-decarbonization-opportunity",
+    pageNumber: 57,
+    titleAccent: "Energy Co",
+    titleRest: "Gas Decarbonization Opportunity with initiatives and business models for portfolio decarbonization",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Client is a **main European Energy Player**, integrated along the value chain and managing one of the **largest L/T gas portfolio in Italy**, crucial to guarantee security of supply to the system in both power generation, industrial and retail sectors",
+      },
+      {
+        text: "Client is interested in **assessing possible levers to decarbonize its gas portfolio** looking also at examples emerging on the global markets and assessing applicability to the Italian and company-specific context",
+      },
+      {
+        text: "Key Questions:",
+        subBullets: [
+          "What are the **industry key trends** in gas decarbonization?",
+          "How are the **gas Midstreamers tackling portfolio decarbonization** and how are they **offering decarbonized solutions** on the market?",
+          "What are the opportunities to **trade green gas in Europe**?",
+          "What are the **most suitable gas decarbonization initiatives** for the Energy Co.?",
+          "What are the **business models** for the selected initiatives and the **value at stake** for Energy Co.?",
+          "What are the **operating models** for the selected initiatives?",
+          "What are **key enablers** allowing the initiatives implementation and how **possible risks** can be limited?",
+          "What is the **expected roadmap** to implement the selected initiatives? What are the **detailed steps** for the next year?",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "**Industry key trends and market benchmark** of main gas Midstreamers in EU and US in terms of gas portfolio decarbonization",
+          },
+          { text: "**Analysis** of ongoing / proposed decarbonization actions from gas producers (focus US)" },
+          {
+            text: "**Assessment of cross-border biomethane market** in EU with deep-dive on current regulatory context and possible evolution",
+          },
+          {
+            text: "**Gas decarbonization initiatives long-list and prioritization** based on company-specific context",
+          },
+          {
+            text: "**Definition of business and operating models** for the prioritized initiatives with identification of key processes, actors and responsibilities",
+          },
+          {
+            text: "**Assessment of key enablers and risks** for the identified initiatives as well as definition of de-risking actions",
+          },
+          {
+            text: "**Design of detailed roadmap** for initiatives' implementation, identifying activities participants, timing and deliverables",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**INNOVATION**: Defined a set of initiatives / business models to foster gas portfolio decarbonization",
+      },
+      {
+        icon: "check",
+        text: "**IMPACT**: Initiatives to support decarbonization of end-clients and of Italian system at large",
+      },
+      {
+        icon: "check",
+        text: "**ECONOMICS**: Business models with sustainable economics and unlocking synergies with downstream activities of Energy Co.",
+      },
+    ],
+  },
+
+  {
+    id: "case-oil-gas-co-low-carbon-business-unit-decision-quality",
+    pageNumber: 59,
+    titleAccent: "Oil & Gas Co",
+    titleRest: "Emerging 'low-carbon' business unit decision quality stand up",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "**Oil & Gas Co**, a company with strong historical performance in the mature Oil and Gas Exploration and Production market, is in the process of building capabilities in emerging **'Low-Carbon' markets** by **standing up a new Business Unit** within their established corporate structure",
+      },
+      {
+        text: "Oil & Gas Co engaged Bain to **diagnose and solve pain points** between their established capital projects planning service organization and their new 'Low-Carbon' Business Unit to **improve decision quality**",
+      },
+    ],
+    whatWeDidHeading: "WHAT WE DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "**Embedded within Oil & Gas Co service org working team** to observe issues at interface with new Business Unit",
+          },
+          {
+            text: "**Conducted three workshops with 20+ stakeholders** to focus work on answer-changing strategic decisions",
+          },
+          {
+            text: "**Leveraged tools** such as probabilistics, strategy tables, and excluding framing to aid major project decisions",
+          },
+          {
+            text: "**Codified system-wide observations** to enable the future implementation of learnings from this process to improve the operating model between legacy service organizations and Oil & Gas Co's Low-Carbon Business Unit",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Identified **six opportunities for system-level improvements** and proposed solutions to be shared throughout the internal Oil & Gas Co capital projects service organization",
+      },
+      {
+        icon: "check",
+        text: "Developed **recommendation for a major capital project strategy** in an emerging Carbon Capture market, **presenting findings to senior Business Unit leadership** – helping primary client map earn an internal award",
+      },
+      {
+        icon: "check",
+        text: "**Defined system objectives and strategies** and established clear responsibilities and workflows between the established service organization and new Low-Carbon Business Unit for high-priority Carbon Capture market",
+      },
+    ],
+  },
+
+  {
+    id: "case-energy-co-ccs-value-chain",
+    pageNumber: 60,
+    titleAccent: "Energy Co",
+    titleRest: "Building Carbon Capture & Storage (CCS) value chain with de-risking strategies and cost-effective solutions",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Energy Co is a **leading energy player headquartered in Europe** with high ambitions for CCS as an engine 2 business focused on **offshore storage and transport of CO2**",
+      },
+      {
+        text: "Energy Co is facing challenges in **developing the CCS value chain fast enough** due to high uncertainty and market immaturity resulting in a **\"Chicken and egg problem\"** where each part of the value chain needs to wait for the others before making capital commitments",
+      },
+    ],
+    whatWeDidHeading: "WHAT WE DID",
+    whatWeDid: [
+      {
+        heading: "Identified solutions",
+        body: "Building the **E2E value chain** with a **portfolio approach** to de-risk large transport investments and drive scale — portfolios of stores and customers matured in parallel with transport, so the totality de-risks large transport investments, with annual control points to assess progress of customer, stores and transport development to reach targeted capacity by 2030",
+      },
+      {
+        body: "**Defined project development model** adapted to offshore CO2 storage incl. optimized stage gate process, co-creating optimized ways of working to enable schedule-driven offshore CO2 storage projects in the prioritized store development scenarios",
+      },
+      {
+        body: "**Created cost-effective and flexible offshore facility and CO2 well concepts** to de-risk & accelerate value chain development — similar standardised subsea facilities as for O&G but with wells optimised for CO2 stores, enabling speed via pre-investment and pre-defined concepts, and reducing risk by enabling flexibility to reuse equipment between stores if one project is stopped; fit-for-purpose concepts enable ~20-30% CAPEX reduction",
+      },
+    ],
+    results: [
+      {
+        icon: "badge",
+        badgeValue: ">50%",
+        text: "**Lower B/E cost tariff** for CO2 by enabling investments in large transport projects",
+      },
+      {
+        icon: "badge",
+        badgeValue: "~2 years",
+        text: "**Shorter schedule** from pre-access to first injection (~6 years timeline for areas requiring appraisal with wells)",
+      },
+      { icon: "badge", badgeValue: "~20-30%", text: "**Lower CAPEX** for offshore CO2 storage" },
+    ],
+  },
+
+  {
+    id: "case-steel-co-strategic-plan-review-emissions-reduction",
+    pageNumber: 61,
+    titleAccent: "Steel Co",
+    titleRest: "Strategic plan review focusing on emissions reduction and business investment needs",
+    year: "2024",
+    industry: "AMS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "**Steel Co** is the leading European steelmaking company, specializing in **steel flat products**" },
+      {
+        text: "Steel Co is facing **significant environmental and economic challenges**, primarily due to their dependence on BOF technology, as there is a limited availability of green energy sources and difficulties in sourcing scrap metals",
+      },
+      {
+        text: "Additionally, steel production in Europe is expensive due to the **scarcity of raw materials** and the use of costly natural gases instead of green or blue hydrogen",
+      },
+      {
+        text: "The main objective of the case was to help Steel Co **update, refresh, and integrate its industrial plan**",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Bain worked for **6 weeks** to define Steel Co **long-term business plan** and assess the **need for government support** in terms of investment. This included:",
+      },
+      {
+        bullets: [
+          { text: "Analyzing **commercial and technological strategies** for the plant" },
+          {
+            text: "Exploring **alternative technologies** such as using gases or hydrogen instead of traditional fossil fuels to mitigate environmental impact",
+          },
+          {
+            text: "Analyzing factors like **staffing levels, technology transformation**, and **carbon emissions** reduction strategies",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "badge",
+        badgeValue: "~25%",
+        text: "**Emissions level reduction** by 2030, due to the deployment of the best available technologies",
+      },
+      {
+        icon: "badge",
+        badgeValue: "€1.2B",
+        text: "Identified **strategic paths** with this in **annual EBITDA increase** in the next 5 years mainly driven by volumes and margin increases",
+      },
+    ],
+  },
+
+  {
+    id: "case-port-co-esg-value-creation-plan",
+    pageNumber: 62,
+    titleAccent: "Port Co",
+    titleRest: "ESG Value Creation Plan",
+    year: "2024",
+    industry: "AMS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "**Port Co** operates **multiple cruise ports**, with a **varied portfolio** in terms of **geography, traffic**, and **port role** in cruise itineraries (i.e., turnaround vs. transit)",
+      },
+      {
+        text: "Port Co is in need of an **evolution of its operating model** to act as a **catalyst of decarbonization and service excellence** across the cruise industry",
+      },
+      {
+        text: "We have collaborated with Port Co to devise an **ESG Value Creation Plan**, with a strong focus on **infrastructural developments** (e.g., cold ironing, alternative fuels)",
+      },
+    ],
+    whatWeDidHeading: "APPROACH",
+    whatWeDid: [
+      {
+        body: "The **ESG Value Creation Plan** was devised following a **three-step approach**:",
+      },
+      {
+        heading: "1. Ambition & strategy",
+        bullets: [
+          { text: "Assessed **point of departure** across material areas and vs. peers" },
+          { text: "Understood ESG **priorities for investors**" },
+          { text: "Defined ESG **vision and ambition**" },
+        ],
+      },
+      {
+        heading: "2. Value roadmap",
+        bullets: [
+          {
+            text: "Identified key **value-accretive initiatives and needed management model improvements**, with a focus on **infrastructure plays** including but not limited to cold ironing, renewable capacity installation, and alternative fuels",
+          },
+          { text: "**Prioritized and planned initiatives** over time based on their ESG and economic impact" },
+          { text: "Identified needed boost in **internal capabilities and partnerships**" },
+        ],
+      },
+      {
+        heading: "3. Communication",
+        bullets: [
+          { text: "Assessed **communication / disclosure** vs. best-in-class practices" },
+          { text: "Identified **areas for improvement**" },
+          { text: "Defined **ESG narrative and communication plan**" },
+        ],
+      },
+    ],
+    results: [
+      { icon: "flag", text: "**Identified potential improvements**" },
+      { icon: "badge", badgeValue: "5+%", text: "**EBITDA improvement**" },
+      { icon: "badge", badgeValue: "1x", text: "**TEV/EBITDA multiple growth**" },
+      { icon: "check", text: "**Significant emission reduction** across Scope 1, 2, and 3" },
+    ],
+  },
+
+  {
+    id: "case-metal-packaging-co-carbon-transition-plan",
+    pageNumber: 63,
+    titleAccent: "Metal Packaging Co",
+    titleRest: "We assisted client in developing, costing, and executing a carbon transition plan",
+    year: "2024",
+    industry: "AMS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Packaging Co is a **Metal Packaging manufacturer** which aims to **lead the packaging industry on sustainability**",
+      },
+      {
+        text: "Packaging Co, which has an **industry-leading carbon transition plan**, requested our support **to fully cost their plan**, in order to optimize it and drive delivery acceleration",
+      },
+      {
+        text: "In order to assess decarbonization costs, the company also needed to **map relevant policies, regulations** (e.g. EU ETS, CBAM, PPWR) and their **impact on costs**",
+      },
+    ],
+    whatWeDidHeading: "WHAT WE DID",
+    whatWeDid: [
+      {
+        heading: "Reviewed and updated marginal abatement cost curve",
+        bullets: [
+          { text: "Review existing decarbonization levers, **identifying key areas to pressure test**" },
+          { text: "Assessed **investments and emissions reduction potential** for decarbonization levers" },
+          { text: "Identified potential **risks and opportunities** (market, technical, policy, regulatory, etc.)" },
+          {
+            text: "Modeled **MACC scenarios and sensitivities** based on regulatory uncertainty and ability to drive premiums/investment from customers",
+          },
+          { text: "**Prioritized decarbonization levers** for cost optimization" },
+        ],
+      },
+      {
+        heading: "Evaluate impact of regulation",
+        bullets: [
+          { text: "Identified **current and upcoming EU policies and subsidies** affecting the company" },
+          {
+            text: "Assessed **regulation impact across scenarios** on company's costs, abatement potential, and entire value chain",
+          },
+          {
+            text: "Conducted **sensitivity analysis of abatement costs** based on developed scenarios, potential risks and opportunities (market, technical, policy, regulatory, etc.)",
+          },
+          { text: "Assessed **impact on customer differentiation and source of funding**" },
+        ],
+      },
+      {
+        body: "Conducted a **top-down analysis of customer WTP** (e.g., green premium, co-investment potential) and government subsidies (e.g., CCfD) to identify the potential sources and funding MP Co can receive for decarbonization",
+      },
+      {
+        heading: "Developed an actionable plan and implementation timeline",
+        bullets: [
+          {
+            text: "Detailed key **abatement levers, NPVs of investments** against base case, readiness levels of technologies, critical organization actions to mobilize value chain, etc.",
+          },
+          {
+            text: "Engaged key stakeholders and broader organization to ensure **cross-functional buy-in and co-creation** of clear action plan",
+          },
+          {
+            text: "Developed **actionable plan with timeline** for executive team to implement moving forward, including line engagement to ensure ownership by the line",
+          },
+          { text: "Highlighted **implications for current decarbonization and cost plan**" },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "Calculated **cost impact of decarbonization plan** and various scenarios" },
+      {
+        icon: "check",
+        text: "Developed **high level activation plans** for the full carbon transformation of business",
+      },
+      {
+        icon: "check",
+        text: "**Dynamic and updatable MACC** to continuously optimize pathway over time",
+      },
+      {
+        icon: "check",
+        text: "Identified **potential source of funding** for decarbonisation journey",
+      },
+    ],
+  },
+
+  {
+    id: "case-agri-co-nbs-project-assessment",
+    pageNumber: 58,
+    titleAccent: "Agri Co",
+    titleRest: "NBS project assessment and implementation planning for decarbonization efforts",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Agri Co is a **global agricultural company** that aims to decarbonize its operations" },
+      {
+        text: "Agri Co seeks advice to",
+        subBullets: [
+          "Understand decarbonization levers focusing on **NBS projects**, light touch no-deforestation and traceability",
+          "Develop a **framework to prioritize NBS projects** to develop as carbon projects and gain experience with implementation",
+          "Understand how NBS projects contribute to its **decarbonization agenda**",
+        ],
+      },
+      {
+        text: "Major project types include **ARR, Regen Agri, AWD, Biochar** (Artisan and Industrial)",
+      },
+      {
+        text: "Key Questions:",
+        subBullets: [
+          "What are the key **eligibility criteria** for carbon projects according to the highest standards today?",
+          "What is eligible for **insetting vs. offsetting**?",
+          "How much is the **carbon mitigation and value creation potential** for each project? What are the key drivers?",
+          "How should Agri Co **prioritize NBS projects**? What are the **financing options** to fund the selected projects?",
+          "What does Agri Co's **2030 and 2050 decarbonization roadmap** look like?",
+          "What does the **implementation plan and timeline** look like?",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Bain developed a **framework** for Agri Co to evaluate NBS¹ projects – meet conditions for eligibility for carbon standards, scale, IRR > WACC, then prioritized using **feasibility** (ease of implementation), **carbon mitigation potential** and **value creation potential**",
+      },
+      {
+        body: "**Screened long-list** of Agri Co's potential NBS projects & select **top 3-5 priority projects** based on framework",
+      },
+      {
+        body: "Developed **archetype investment cases**, proposed **financing options** and drafted **implementation plans**. Refined **2030 decarbonization roadmap**. Also, developed **carbon models and value creation models** with expert input",
+      },
+      {
+        heading: "Key Analysis",
+        bullets: [
+          {
+            text: "Create **minimum boundary conditions**: suitability against carbon standards, able to generate high quality carbon credits, SBTi eligibility to reduce Scope 3, technically viable and creating value to Agri Co",
+          },
+          {
+            text: "Helped in **carbon mitigation potential**, **project value creation** (e.g., credits etc.), **ease of implementation** (e.g., stakeholder management etc.), **financing options** and **implementation roadmap**",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Prioritized 5 archetype projects** resulting in **1.5 Mt CO2e** carbon mitigation potential and **~$800M net value creation** (NPV)",
+      },
+      {
+        icon: "check",
+        text: "**Shortlisted NBS projects** at full potential and no deforestation commitment give **16 Mt CO2e** in carbon mitigation in 2030",
+      },
+      {
+        icon: "check",
+        text: "**BU CEOs onboard** to pilot and learn from archetype projects, and commit to short term decarbonization targets",
+      },
+    ],
+    footnote:
+      "Note: NBS = Nature Based Solutions, IRR = Internal Rate of Return, WACC = Weighted Average Cost of Capital, SBTi = Science Based Targets initiative",
+  },
+
+  {
+    id: "case-asset-management-co-sea-climate-investment-strategy",
+    pageNumber: 65,
+    titleAccent: "Asset Management Co",
+    titleRest: "SEA Climate Investment Strategy",
+    year: "2024",
+    industry: "PE",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "The client, a **US-based global family office investor**, was looking to develop its climate investing strategy",
+      },
+      { text: "**SEA** was selected as the initial geographical region of focus" },
+      {
+        text: "The client hired Bain to help develop its **climate investment strategy**, inclusive of ambition, investment focus areas, investment opportunities and mobilization plan",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "Developed **client's climate investment ambition, strategic priorities and targets**, including guiding principles and KPIs to measure success and ensure delivery",
+          },
+          {
+            text: "Assessed **landscape of climate investing opportunities** and developed **robust framework** for prioritization and thematic investment",
+          },
+          {
+            text: "Developed **portfolio allocation strategy** based on prioritized sectors and strategic focus areas, and identified potential investment opportunities, including funds, startups, project developers etc.",
+          },
+          {
+            text: "Conducted **workshop with leadership team** to socialize key findings, achieve global alignment and buy-in",
+          },
+          {
+            text: "Conducted **light touch commercial and impact due diligences** for select opportunities for near-term investment",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Fund vision & ambition**: Overall objectives of the fund, including quantified goals and targets",
+      },
+      {
+        icon: "check",
+        text: "**Climate investment strategy**: Methodical framework to prioritize highest impact sectors and focus areas within sectors to invest in",
+      },
+      {
+        icon: "check",
+        text: "**Investment opportunities**: List of potential investment opportunities in the short and long term, including innovative 'blue sky' ideas",
+      },
+    ],
+  },
+
+  {
+    id: "case-swf-co-net-zero-operationalization",
+    pageNumber: 64,
+    titleAccent: "SWF Co",
+    titleRest: "Net Zero Operationalization",
+    year: "2024",
+    industry: "PE",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "SWF Co aims to **achieve Net Zero by 2050** across corporate and portfolio emissions, **balancing real-world decarbonization with financial returns**",
+      },
+      {
+        text: "Now, SWF Co seeks to **operationalize this ambition** and ensure that both existing and new investments move towards this target",
+        subBullets: [
+          "**Transition framework:** Framework for 'brown-to-green' assets/portfolio",
+          "**Carbon wallets:** Model to guide investment decisions in line with path to Net Zero and manage expected emissions by investment unit along decarbonization trajectory",
+        ],
+      },
+      {
+        text: "To enable this, SWF Co asked Bain for support with the to **operationalize Net Zero**, e.g.:",
+        subBullets: [
+          "What is the best way to structure an **internal transition framework** to drive brown-to-green investments?",
+          "How to ensure **real-world decarbonization impact** while making appropriate financial returns?",
+          "How to **integrate carbon emissions** into the investment decision making of financial investors?",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "① Developed Transition Framework",
+        bullets: [
+          {
+            text: "**Reviewed transition philosophy**, cornerstones, targets and shortlisted transition approaches with SWF Co",
+          },
+          { text: "Evaluated **financial feasibility** and **benchmarked against global industry best practices**" },
+          {
+            text: "Assessed **peer strategies and transition scenarios** (e.g., IEA, GFANZ, SBTi) to define the most suitable pathways",
+          },
+          { text: "Defined **sector-specific decarbonization pathways** (e.g., Aluminum, Energy, Chemicals)" },
+        ],
+      },
+      {
+        heading: "② Designed Carbon Wallets",
+        bullets: [
+          { text: "Developed **governance and decision-making principles** for carbon management" },
+          { text: "**Benchmarked peer approaches** and evaluated alternative steering mechanisms" },
+          {
+            text: "Enhanced **carbon emissions modeling**, integrating scenario analysis and sensitivity assessments",
+          },
+          { text: "Built an **automated carbon wallet tool** for tracking, analyzing, and managing carbon-linked investments" },
+          { text: "Conducted **pilot testing** with select investments and refined functionalities based on feedback" },
+        ],
+      },
+      {
+        heading: "③ Supported internal socialization",
+        bullets: [
+          { text: "**Supported and developed materials** for socialization / key stakeholders' involvement" },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Structured Transition Framework** with defined governance, investment principles, and asset exit strategies",
+      },
+      {
+        icon: "check",
+        text: "**Clear decarbonization pathways** for key sectors, integrating top-down and bottom-up analyses",
+      },
+      {
+        icon: "check",
+        text: "Developed a **Carbon Wallet Model** to manage emissions at fund and sector levels",
+      },
+      {
+        icon: "check",
+        text: "**Enhanced decision-making mechanisms**, ensuring SWF Co's Net Zero strategy is actionable and scalable",
+      },
+      {
+        icon: "badge",
+        badgeValue: "~10",
+        text: "**benchmarks case studies** leveraged, including best practices on offset procurement models",
+      },
+    ],
+  },
+
+  {
+    id: "case-tech-co-net-zero-value-creation-business-case",
+    pageNumber: 70,
+    titleAccent: "Tech Co",
+    titleRest: "Net Zero Value Creation by Bain, building a business case for Tech Co's ambitious decarbonization plan",
+    year: "2024",
+    industry: "TCS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "**Tech Co committed to Net Zero by 2030 and has a plan** to achieve this reduction both through improving operations and catalyzing systems change",
+      },
+      {
+        text: "Their Climate Ops team sought support to **build the quantified business case** for achieving Net Zero across a **range of future scenarios** (e.g., impact from policy, tech, consumer behavior, competitive dynamics, growth)",
+      },
+      {
+        text: "Bain was brought in to **quantify outside-in** how Tech Co's Net Zero plan drives value–with a **focus on return** (i.e., not looking at required investments)",
+      },
+    ],
+    whatWeDidHeading: "WHAT WE DID",
+    whatWeDid: [
+      {
+        body: "Built NZ value framework to prioritize and quantify 11 levers that drive value to the client and society at large, as well as a longer list of other benefits we did not quantify",
+      },
+      {
+        body: "We dimensionalized what the World could look like with scenarios across the pace of carbon transition, Tech Co's position on decarb. and growth rates with/without AI",
+      },
+      {
+        body: "Based on the scenarios, we built a range of outcomes for the business case for Net Zero to inform strategic decisions and provided select deep dives (e.g., case studies) to make the \"how\" of value capture more tangible",
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Identified **$XB in gross profit impact** to Tech Co and **$YB in catalyzed system value** in expected case",
+      },
+      { icon: "check", text: "Identified the key levers with **highest impact** on business case and **sensitivity to** different scenarios" },
+      { icon: "check", text: "Synthesized **strategic implications** for Tech Co on e.g., commercial and policy advocacy topics" },
+      { icon: "check", text: "Built a **leave-behind, scenario-based model** for the client to use going forward" },
+    ],
+  },
 ];
 
 export function getCaseExamplesForSolutions(solutionIds: string[]): CaseExample[] {

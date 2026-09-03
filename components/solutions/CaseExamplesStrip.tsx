@@ -43,6 +43,7 @@ export function CaseExamplesStrip({ examples, basePath }: Props) {
               title: `${example.titleAccent} — ${example.titleRest}`,
               subtitle: `${example.industry} · ${example.year}`,
               section: "relevant-credentials",
+              exportRestricted: false,
             });
           }
         }
