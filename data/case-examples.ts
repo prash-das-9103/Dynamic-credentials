@@ -3058,6 +3058,606 @@ export const CASE_EXAMPLES: CaseExample[] = [
       { icon: "check", text: "Identified the key levers with **highest impact** on business case and **sensitivity to** different scenarios" },
       { icon: "check", text: "Synthesized **strategic implications** for Tech Co on e.g., commercial and policy advocacy topics" },
       { icon: "check", text: "Built a **leave-behind, scenario-based model** for the client to use going forward" },
+      ],
+  },
+
+  {
+    id: "case-investment-co-real-estate-sustainability-strategy",
+    pageNumber: 49,
+    titleAccent: "Investment Co",
+    titleRest: "Real Estate Sustainability Strategy",
+    year: "2025",
+    industry: "PE",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Investment Co invests **globally across public and private markets**, with a large real estate investment footprint",
+      },
+      {
+        text: "Investment Co was seeking to:",
+        subBullets: [
+          "Build a unified, scalable real estate portfolio strategy with sustainability integrated across the investment lifecycle",
+          "Link decarbonization and climate risks to value creation through standardized, region-specific assessments",
+          "Enable execution by strengthening data systems, governance structures, and stakeholder engagement for consistency across the portfolio",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          { text: "**Assessed baseline** of current physical and transition risk of the portfolio and associated risk exposure" },
+          {
+            text: "**Defined a global sustainability strategy** to create and preserve value from physical and transition risk, including:",
+            subBullets: [
+              "How each risk type can drive value for Investment Co",
+              "Building a strategy to address the risk and a roadmap to capture the highest pockets of opportunity",
+            ],
+          },
+          {
+            text: "**Created action heatmap to operationalize the strategy**, based on areas of most impact, including estimated \"size of prize\"",
+          },
+          {
+            text: "**Shaped a strategy mobilization plan** to integrate sustainability across the full investment lifecycle - including diligence, ownership, and exit - through clearer guidance, sharper risk/opportunity assessment by region / asset class, and consistent application",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "flag", text: "Optimizing portfolio for sustainability would deliver **~4-6% increase** in property value" },
+      { icon: "check", text: "**10-20% lower insurance premium** for high physical risk assets" },
+      { icon: "check", text: "**40-60% reduced energy usage** through transition to green energy" },
+      { icon: "check", text: "**60-120 bps lower cap rates** for green vs. brown buildings (excluded from value estimate)" },
+      { icon: "check", text: "**5-15% higher rent** for greener / more resilient assets" },
+      { icon: "flag", text: "Defined **asset-level plans** and aligned approach to integrate sustainability into investment lifecycle" },
+    ],
+  },
+
+  {
+    id: "case-chemicals-co-low-carbon-advocacy-strategy",
+    pageNumber: 47,
+    titleAccent: "Chemicals Co",
+    titleRest: "Low Carbon Advocacy Strategy",
+    year: "2025",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Chemicals Co is a **large plastics producer** with operations around the world." },
+      {
+        text: "Chemicals Co is considering several **large investments to grow production of low carbon polyolefins** in the United States and Germany",
+      },
+      {
+        text: "The attractiveness of these investments depends in part on **government regulation** in the United States, in Germany, and by the EU",
+      },
+      { text: "Government policies that could potentially affect low carbon business outcomes are **numerous and evolving rapidly**" },
+      { text: "Chemicals Co was not sure **which policies to prioritize** in advocacy or what positions to take" },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          { text: "**Assessed the impact** on low carbon business investments and Chemicals Co **ability to influence** outcomes for key policies" },
+          { text: "**Defined potential future-state policy scenarios** and identified the one(s) that would be best and worst for Chemicals Co" },
+          { text: "Estimated the **value at stake** associated with achieving desired policy outcomes (~$3B+)" },
+          { text: "**Developed hypothesis on key stakeholders** to advocate with" },
+          { text: "**Identified gaps** in Chemicals Co coverage of key stakeholders" },
+          {
+            text: "Helped Chemicals Co government relations team to **create advocacy playbooks** that provide key messaging and tactical plan for advocacy with key stakeholders",
+          },
+          {
+            text: "**Diagnosed issues with Chemicals Co operating model** (e.g., key activities, process, and accountabilities) and recommended targeted improvements",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "**Prioritized policies** for Chemicals Co advocacy efforts" },
+      { icon: "check", text: "**Defined policy positions** and aligned internal stakeholders on key messages" },
+      { icon: "check", text: "**Motivated re-allocation of resources** to stakeholders that would matter most" },
+      {
+        icon: "check",
+        text: "**Developed Chemicals Co capabilities** to run an efficient, agile process to develop advocacy priorities, positions, and tactical plans",
+      },
+    ],
+  },
+
+  {
+    id: "case-defence-co-climate-scenario-analysis",
+    pageNumber: 48,
+    titleAccent: "Defence Co",
+    titleRest: "Climate Scenario Analysis",
+    year: "2025",
+    industry: "AMS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Defence Co is a **leading Aerospace & Defence player** operating in multiple market segments" },
+      {
+        text: "The company has made a **strong commitment to sustainability**, adopting science-based targets and embedding these goals into its industrial plan to **build a strategy resilient to evolving climate futures**",
+      },
+      {
+        text: "To support these ambitions, Bain was engaged to help **develop a comprehensive framework** for assessing:",
+        subBullets: [
+          "**Physical risks**: Evaluate the potential impact of climate-related hazards and future damages to assets and operations under different global warming scenarios through 20XX",
+          "**Transition risks**: Analyze exposure to policy, market, and technological shifts—and the potential associated costs",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Bain supported the client in developing a **comprehensive analytical framework to assess climate-related risks and define appropriate mitigation strategies** across two key dimensions",
+      },
+      {
+        heading: "Physical risk analysis",
+        bullets: [
+          { text: "**Selected critical sites** based on a set of strategic criteria, leveraging site-specific data and a structured screening process" },
+          { text: "**Assessed company's footprint risk exposure** against chronic and acute perils using Jupiter's climate data and scenario modeling" },
+          {
+            text: "**Quantified the potential economic impact** under future climate scenarios through 20XX, focusing on operational disruptions and asset damage to manufacturing sites and offices",
+          },
+          {
+            text: "**Established mitigation roadmap** with a cross-functional team to develop an action plan addressing identified risks, with measures embedded into the Enterprise Risk Management (ERM) framework to strengthen business resilience",
+          },
+        ],
+      },
+      {
+        heading: "Transition risk analysis",
+        bullets: [
+          {
+            text: "**Identified three key risk levers**—Policy & Legal, Market, and Technology—based on the ESRS framework and their potential strategic impact on Defence Co",
+          },
+          {
+            text: "**Prioritization of levers** using Defence Co's Double Materiality matrix and benchmarked against industry peers and leading practices",
+          },
+          {
+            text: "**Deployed dimension-specific approaches**:",
+            subBullets: [
+              "**Policy & Legal**: Applied scenario analysis (based on IPCC trajectories to 20XX) to estimate potential costs from carbon pricing and energy pass through",
+              "**Market**: Used a mixed qualitative and quantitative approach to assess the impact of ESG requirements in public procurement processes on EBITA",
+              "**Technology**: Identified technology trends specific to the industry and with a potential impact from a climate mitigation / climate adaptation perspective, conducted interviews with strategy and divisional leads to evaluate alignment of the product portfolio and technology readiness vs emerging technologies and to identify future business opportunities",
+            ],
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "flag", text: "Revealed that **risk-adjusted annual climate losses could be ~5x** the current damages recorded" },
+      { icon: "flag", text: "Projected **future expected annual losses from climate events** to be equivalent to **~8% of Defence Co's EBITA¹**" },
+      { icon: "check", text: "**Established a cross-functional physical risk task force** to embed climate risk analysis into corporate risk management" },
+      { icon: "flag", text: "Estimated potential **carbon-related costs reaching up to ~7% of EBITA¹ annually** driven by Policy & Legal risk exposure" },
+      { icon: "flag", text: "Estimated a potential **EBITA¹ impact of +6% or -2% in future tenders**, depending on Defence Co's ESG performance" },
+      { icon: "check", text: "**Mapped current technology maturity against emerging industry trends** to identify climate-resilient opportunities, highlighting potential revenue upsides" },
+    ],
+    footnote: "Note: (1) EBITA is a KPI used by the client, it is the EBITDA + (D)epreciation",
+  },
+
+  {
+    id: "case-utility-co-transmission-generation-strategic-due-diligence",
+    pageNumber: 55,
+    titleAccent: "Utility Co",
+    titleRest: "Transmission and generation strategic due diligence for evaluating renewable energy investments",
+    year: "2024",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Utility Co is an **US regulated utility** that has been providing electric and gas service for more than 100 years" },
+      { text: "The company has an **ambitious goal of reaching net-zero by 2045**, with specificity around 2030 and 2040 targets" },
+      {
+        text: "To enable their rapid decarbonization, Utility Co is **exploring major transmission and renewable generation projects,** with a strategic focus on a **potential multi-billion-dollar investment** that would span multiple geographic footprints",
+      },
+      { text: "**Utility Co asked Bain to provide a diligence assessment,** working with the Chief Renewable Officer and the broader C-Suite" },
+    ],
+    whatWeDidHeading: "WHAT WE DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "Developed an **investment thesis to evaluate the desirability and feasibility of the project** across key focus areas including customers, shareholders, policy & regulation, developability, deliverability, and risk",
+          },
+          {
+            text: "**Synthesized 2+ years of prior diligence** across legal, environmental, and financial areas to create a clear view of all work done to date within the organization and by independent consultants",
+          },
+          {
+            text: "Reviewed **20+ similar transmission and generation case studies** to identify themes that enabled project success and common pitfalls that delayed or ultimately terminated projects",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "**Preliminary \"go / no go\" answer** on whether utility should invest in the renewable energy generation facility and transmission line" },
+      { icon: "check", text: "**Identification of key investment stage gates** and the associated commitments and opportunity costs for each" },
+      { icon: "check", text: "**Creation of strategic risk register and risk mitigation strategies**" },
+      { icon: "check", text: "**Repeatable diligence and multi-department PMO model** for Utility Co to use in the future" },
+    ],
+  },
+
+  {
+    id: "case-investment-fund-co-sustainability-strategy",
+    pageNumber: 54,
+    titleAccent: "Investment Fund Co",
+    titleRest: "Sustainability Strategy",
+    year: "2025",
+    industry: "FS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "The Investment Fund Co seeks support on two key modules as part of its ESG Strategy development:",
+        subBullets: [
+          "**Carbon reduction framework and plan:** Developing the carbon reduction framework and plan through appropriate levers for Investment Fund Co's portfolio of investments",
+          "**Carbon markets and advisory services:** Assessing opportunity to set-up viable Net-Zero advisory and carbon trading desks at Investment Fund Co as part of service offering",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "1. Carbon reduction framework and plan:",
+        bullets: [
+          { text: "Benchmarked carbon reduction frameworks and extracted key lessons" },
+          { text: "Defined reporting approach (including scopes 1, 2, 3 coverage) and established Investment Fund Co's emissions baseline (operational + financed)" },
+          { text: "Set target-setting methodology and emissions scoring guidelines" },
+          { text: "Assessed key decarbonization levers by subsector and developed marginal abatement cost curves" },
+          { text: "Developed high-level action plan with signposts for monitoring" },
+        ],
+      },
+      {
+        heading: "Carbon markets and advisory services:",
+        bullets: [
+          { text: "Benchmarked service offerings and carbon market trends across leading financial institutions" },
+          {
+            text: "Evaluated client demand via survey and expert interviews and prioritized service offerings based on market attractiveness and Investment Fund Co's ability to win",
+          },
+          { text: "Performed scenario analysis and defined key market development signposts" },
+          {
+            text: "Proposed changes to Investment Fund Co's operating model to support carbon market opportunities, including capabilities required, organizational structure changes, strategic partnerships, and engagement approach",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**Carbon reduction framework and plan:** Framework developed for Investment Fund Co's operational and financed emissions, including a high-level action plan and necessary implementation tools",
+      },
+      {
+        icon: "check",
+        text: "**Carbon markets and advisory services:** Services offerings prioritized with proposed changes to the operating model and a high-level action plan (including immediate next steps for Investment Fund Co)",
+      },
+    ],
+  },
+
+  {
+    id: "case-asset-manager-co-climate-transition-approach-transition-model-review",
+    pageNumber: 46,
+    titleAccent: "Asset Manager Co",
+    titleRest: "Climate Transition Approach and Transition Model Review",
+    year: "2026",
+    industry: "PE",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Asset Manager Co, a **US alternatives-focused financial services firm (with > 450bn AuM)**, is seeking outside-in validation and support to strengthen its proprietary **climate transition program and transition model**",
+      },
+      {
+        text: "**Complications:**",
+        subBullets: [
+          "Increasing investor interest and scrutiny, not consistent use of tool or application of climate in investment program across asset classes",
+          "Interest to benchmark the program against peers and the tool against industry best practices (incl. PMDR)",
+          "Desire to differentiate with a credible and authentic approach and framework",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Conducted a **hypothesis-driven review** of the climate transition program to **deliver pragmatic, decision-relevant insights** on how it can be strengthened and scaled",
+      },
+      {
+        heading: "1. Assessed the climate program through desk review and dedicated interviews",
+        bullets: [
+          { text: "Engaged deal teams and the climate specialists" },
+          { text: "Pinpointed key strengths, gaps, and execution challenges" },
+        ],
+      },
+      {
+        heading: "2. Developed a firm-wide climate maturity framework to assess how Asset Manager Co ranks vs key peers (informed by benchmarking)",
+        bullets: [
+          { text: "Evaluated how climate considerations are embedded across the investment lifecycle" },
+          { text: "Reviewed supporting frameworks, tools, and governance" },
+        ],
+      },
+      {
+        heading: "3. Conducted an in-depth review of the transition model and supporting framework",
+        bullets: [
+          { text: "Assessed strengths, limitations, and role within the broader program and vs. PMDR" },
+          { text: "Evaluated usability, scalability, and execution readiness" },
+        ],
+      },
+      {
+        heading: "4. Synthesized findings into program recommendations, including tactical tool refinements and operating model improvements",
+      },
+    ],
+    results: [
+      { icon: "check", text: "Defined a **prioritized set of targeted refinements** to strengthen program impact and adoption" },
+      { icon: "check", text: "Identified **tactical enhancements to the tool** and associated framework to improve consistency, comparability and adoption" },
+      { icon: "check", text: "Developed a **maturity journey framework** and benchmarked firm-wide positioning to clarify pathways for progression" },
+    ],
+  },
+
+  {
+    id: "case-bank-co-climate-change-strategy-transition-approach",
+    pageNumber: 53,
+    titleAccent: "Bank Co",
+    titleRest: "Climate change strategy and transition approach",
+    year: "2025",
+    industry: "FS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      { text: "Client is a **leading Bank in MENA region** with core presence in Qatar, Egypt, and Türkiye" },
+      {
+        text: "The bank is under pressure to develop and announce its **climate change ambition and transition approach**, driven by:",
+        subBullets: [
+          "**Investor expectations** leading to impact on **cost of funding**",
+          "Potential impact on ESG/ credit ratings",
+          "**Growing regulatory action and pressure** across core markets, especially Türkiye",
+          "**Increased momentum from regional and global peer banks** announcing climate commitments",
+        ],
+      },
+      {
+        text: "Bain was engaged to support the development of the Bank's **climate ambition**, define **decarbonization strategy for the key sectors**, and outline an **execution roadmap**",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Aspiration-setting",
+        bullets: [
+          { text: "Conducted **leadership interviews**, established **baseline of current efforts**, and **benchmarked regional and global peers**" },
+          {
+            text: "Detailed recommendation on Bank Co's **climate change ambition**, including recommendation on **external commitment**, **NZBA membership**, and **Net Zero operationalization** requirements",
+          },
+        ],
+      },
+      {
+        heading: "Decarbonization strategy",
+        bullets: [
+          { text: "**Identified 10 priority sectors across 3 core markets** with most material impact on bank's loan portfolio and financed emissions mix" },
+          {
+            text: "Outlined **key decarbonization enablers** for each of the prioritized sectors, developed **decarbonization pathways** and aligned on the **interim 2030 targets**",
+          },
+          { text: "Outline the ambition and **action plan for** decarbonization of the bank's **operational emissions**" },
+          { text: "Identified **transition finance opportunities** from Bank's climate change ambition across priority sectors and markets" },
+        ],
+      },
+      {
+        heading: "Execution roadmap",
+        bullets: [
+          {
+            text: "Detailed **execution roadmap to operationalize** the Bank's climate change ambition (incl. designing delivery engine, outlining data mgmt. approach, etc.)",
+          },
+          { text: "Proposed **changes to Risk Appetite Statement** to align with new climate change ambition" },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "Aligned on Bank Co's **Group-level climate change ambition**, cascaded down to core markets: overall **Net Zero commitment by 2050**" },
+      { icon: "check", text: "**Net Zero commitment for Scope 1 and 2 emissions by 2035**" },
+      { icon: "check", text: "Detailed recommendation on **NZBA membership** and **external commitment**" },
+      { icon: "flag", text: "Prioritized **10 sectors across 3 core markets**, setting **interim 2030 targets** and defining **decarbonization pathways** for each sector" },
+      { icon: "flag", text: "Sized **decarbonization levers** and **transition finance opportunities** across priority sectors and markets" },
+      { icon: "flag", text: "Developed **detailed execution roadmap** to operationalize Bank Co's climate change ambition" },
+    ],
+  },
+
+  {
+    id: "case-choco-co-sbti-operationalization-program",
+    pageNumber: 50,
+    titleAccent: "Choco Co",
+    titleRest: "SBTi Operationalization Program to implement decarbonization action across countries and business functions",
+    year: "2025",
+    industry: "CP",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Choco Co committed to the **Science Based Targets initiative (SBTi)** to reduce emissions in line with requirements for a **1.5ºC pathway**",
+      },
+      {
+        text: "Operationalizing this commitment, across 20+ countries and multiple business functions, requires a **structured approach** as well as the support of a **fit-for-case operating model**",
+      },
+      {
+        text: "Setting-up and launching a company-wide decarbonization effort requires **dedicated expertise**, a **rapid rollout** and **operationalization of the SBT principles**, which is where Bain came into support",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Actions and targets",
+        bullets: [
+          {
+            text: "**Developed decarbonization action model** across countries and levers (e.g., cocoa, energy, …) to be used by countries for local plan creation, and centrally for global plan consolidation",
+          },
+          { text: "**Defined sprints and phases for program rollout** and supported 4 countries in the end-to-end set-up of country plans (pilot phase)" },
+        ],
+      },
+      {
+        heading: "Operating model",
+        bullets: [
+          { text: "Set-up **SBT decarbonization approach** to enable Choco Co decarbonization pathway (e.g., governance, resources, risks, tools, etc.)" },
+          { text: "**Coordinated multiple kickoff sessions** and **drove weekly interactions** to ensure engagement and results-delivery" },
+          { text: "Defined the **approach for decarbonization target setting,** incl. review and mechanism for potential gap vs. guidance allocation" },
+          { text: "Created an **approach to review the carbon footprint** of countries' product portfolio (at SKU level) with marketing & sales functions" },
+          { text: "**Mapped current processes** relevant for SBT and **integrated SBT tradeoffs** decisions into existing processes" },
+        ],
+      },
+      {
+        heading: "Change management and communication",
+        bullets: [
+          {
+            text: "Supported Carbon Program Manager to **engage with key stakeholders** on program deployment (e.g., created communication material, checklists, educational material, etc.)",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "**1. Targets & actions**",
+        subBullets: ["Target guidance for **~20 countries**", "Country GHG reduction plans (55+ actions, time & resources)", "Energy actions for 12 locations, 1 on-site audit pilot"],
+      },
+      {
+        icon: "check",
+        text: "**2. Operating model**",
+        subBullets: ["Roles/ responsibilities & FTEs", "Processes & governance (budget, investment, SBT setting)", "Accountability & incentive guidelines", "Pragmatic tools for execution"],
+      },
+      {
+        icon: "check",
+        text: "**3. Test, learn, scale-up**",
+        subBullets: ["Piloted approach in **4 countries**", "Built capabilities: playbooks, training materials, 11 videos", "Engaged **100+ employees** in ~20 countries, over 7 months"],
+      },
+    ],
+  },
+
+  {
+    id: "case-bank-co-decarbonization-strategy-co2-advisory-tool-development",
+    pageNumber: 51,
+    titleAccent: "Bank Co",
+    titleRest: "Decarbonization Strategy and CO2 Advisory Tool Development",
+    year: "2025",
+    industry: "FS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Leading European Bank launched a multi-year initiative to develop an end-to-end **CO2 advisory tool** aligned with its 20XX–20XX Industrial Plan and its ambition to support **SMEs and agribusiness clients** in their **Net Zero transition**",
+      },
+      { text: "The **goal** of the tool is **emissions measurement (Scope 1 & 2)**, target setting, and decarbonization actions" },
+      {
+        text: "Key challenges for Bank Co included:",
+        subBullets: [
+          "Evolving **SBTi and regulatory landscape**",
+          "Need for **sector-specific methodologies** tailored to Agribusiness sub-sectors",
+          "Alignment with **banking frameworks (e.g., NZBA)** for financed emissions",
+          "Coordination across **multiple stakeholders** and managing delivery complexity",
+        ],
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Regulatory and methodological assessment",
+        bullets: [
+          { text: "Supported Bank Co in analyzing **SBTi target-setting methodologies** and ensured alignment with **EU and local regulations**" },
+          { text: "Identified potential divergences across frameworks" },
+        ],
+      },
+      {
+        heading: "Sector-specific decarbonization methodology design",
+        bullets: [
+          { text: "Defined **sector-level emission reduction pathways** and translated them into **company-level target-setting approaches** for SMEs" },
+          { text: "Collaborated closely with the **local agribusiness body** to validate assumptions and reflect sector-specific emission drivers" },
+        ],
+      },
+      {
+        heading: "Alignment with banking frameworks (NZBA)",
+        bullets: [
+          { text: "Assessed **leading banking practices** under NZBA" },
+          { text: "Conducted **scenario analyses** to evaluate portfolio-level implications of sectoral decarbonization pathways" },
+          { text: "Assessed coherence between **client-level target-setting approaches** and **banking financed-emissions frameworks**" },
+        ],
+      },
+      {
+        heading: "Tool development and Proof of Concept",
+        bullets: [
+          { text: "Defined **data collection and input models** supporting the calculation of sectoral reduction curves" },
+          {
+            text: "Developed an **Excel-based Proof of Concept**, integrating:",
+            subBullets: ["Module 1: Emissions calculation", "Module 2: Target setting logic", "Module 3: Decarbonization action prioritization"],
+          },
+          { text: "Defined **user experience and functional architecture** for tool deployment" },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "End-to-end **CO₂ tool design (Modules 1–3)**, including user experience, functional logic, and integration with the emissions calculation framework",
+      },
+      { icon: "check", text: "**Module 1 successfully deployed**, enabling live emissions calculation usage" },
+      { icon: "check", text: "An **Excel-based Proof of Concept** developed to support SME target setting and prioritization of decarbonization actions" },
+      { icon: "check", text: "**Sector-specific decarbonization methodologies** established for agribusiness, addressing key data and methodological gaps" },
+      { icon: "check", text: "Enhanced **ESG and decarbonization capabilities**, particularly in GHG target setting and sector-specific approaches" },
+    ],
+  },
+
+  {
+    id: "case-bank-co-net-zero-integration-credit-portfolio-steering",
+    pageNumber: 52,
+    titleAccent: "Bank Co",
+    titleRest: "Net Zero Integration into Credit and Portfolio Steering",
+    year: "2025",
+    industry: "FS",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Bank Co has defined a clear net zero ambition and was looking to **translate that ambition into practical steering across credit and portfolio decisions**",
+      },
+      { text: "The bank wanted to move beyond emissions monitoring toward a more **actionable model**." },
+      {
+        text: "The goal was to **link transaction-level lending decisions with portfolio-level decarbonization** objectives, while remaining aligned with growth and risk-management priorities",
+      },
+      {
+        text: "The work focused on **embedding net zero considerations across the lending lifecycle**, from origination through monitoring, limit utilization, and portfolio rebalancing",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Designed an **integrated net zero steering model** across both credit and portfolio processes. The work included:",
+      },
+      {
+        bullets: [
+          {
+            text: "**Mapping key credit and portfolio decision points** where net zero factors could be embedded, including data collection, transaction impact assessment, pricing, limit setting, utilization monitoring, and portfolio rebalancing",
+          },
+          {
+            text: "Developing a **carbon-led steering concept** to **quantify each transaction's impact versus decarbonization pathways** and connect loan-level decisions to sector-level portfolio outcomes",
+          },
+          {
+            text: "Recommending a **phased implementation path**, a monitoring approach in the near term and tighter integration into business decisions over time as data and operating readiness mature",
+          },
+          {
+            text: "Designing **governance across Risk, Sustainability, Business Units, and Credit Allocation** to clarify ownership, reporting cadence, monitoring, and escalation",
+          },
+          {
+            text: "Defining supporting **KPIs, and dashboards to reinforce adoption**, improve data quality, and **track alignment of credit decisions** with net zero objectives across functions",
+          },
+        ],
+      },
+    ],
+    results: [
+      { icon: "check", text: "Mapping for **end-to-end net zero integration** across credit lifecycle and portfolio steering processes" },
+      {
+        icon: "check",
+        text: "**Carbon-led steering methodology** linking transaction-related decision making to sector pathway alignment and portfolio emission intensity outcomes",
+      },
+      {
+        icon: "check",
+        text: "Phased roadmap **defining near-term monitoring actions and long-term decision integration** across pricing and portfolio rebalancing",
+      },
+      { icon: "check", text: "**Excel-based simulation and dashboard prototype** to monitor impacts, updated portfolio intensity, and potential limit-allocation effects" },
+      {
+        icon: "check",
+        text: "**Performance management framework** with prioritized scorecard metrics and OKR structure to support bank-wide adoption and behavioral change",
+      },
     ],
   },
 ];
