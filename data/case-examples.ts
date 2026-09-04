@@ -1780,6 +1780,223 @@ export const CASE_EXAMPLES: CaseExample[] = [
   },
 
   {
+    id: "case-oil-gas-co-sustainability-value-methodology",
+    pageNumber: 43,
+    titleAccent: "Oil & Gas Co",
+    titleRest: "Sustainability Value Methodology",
+    year: "2026",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Oil & Gas Co, a regional tanker and gas shipping company, sought to define its **long-term strategic ambition** and modernize its **fleet and commercial strategy**",
+      },
+      {
+        text: "With strong **financial and operational foundations**, leadership required clearer strategic direction, including:",
+        subBullets: [
+          "Clarifying \"where to play\" and \"how to win\" across asset classes, market segments, capital structure, and commercial deployment",
+          "Establishing a **fit-for-purpose governance framework** with clear decision rights and delegation of authority",
+          "Translating strategy into an **execution-ready operating model** with redesigned committees, organizational structure, and performance management",
+        ],
+      },
+      {
+        text: "Bain was engaged to support a **20-week strategy, governance, and operating model transformation**",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        heading: "Current-state assessment:",
+        bullets: [
+          { text: "Built structured fact base across **strategy, governance, operating model, organization, KPIs,** and **processes**" },
+          {
+            text: "Reviewed **200+ documents**, conducted **30+ BoD / management interviews**, launched multiple organization-wide **employee survey**, benchmarked **15+ peers**, and engaged **20+ local and global experts**",
+          },
+          { text: "Identified strategic, governance, and operating model gaps shaping the future-state design agenda" },
+        ],
+      },
+      {
+        heading: "Strategy & commercial design:",
+        bullets: [
+          { text: "Refined **vision, mission, values,** and **strategic guardrails** to anchor long-term ambition and sustainability priorities" },
+          {
+            text: "Evaluated \"where to play\" choices across market segments (VLGCs, LR2s/Aframax, MGCs), customers, and commercial deployment models",
+          },
+          { text: "Assessed \"how to win\" levers across fleet expansion, client acquisition strategy, and decarbonization" },
+          {
+            text: "Defined **optimal capital deployment approach** and surplus cash prioritization framework, and **modelled fleet expansion scenarios** across alternative financing structure",
+          },
+        ],
+      },
+      {
+        heading: "Governance & operating model:",
+        bullets: [
+          { text: "Assessed **existing committee mandates**, **decision rights**, and **escalation paths** to identify overlap, gaps, and formalization deficiencies" },
+          { text: "Benchmarked **governance structures** and DoA practices against peers" },
+          { text: "Designed **target organizational structure** and clarified division-level **mandates and responsibilities** until N-2" },
+          { text: "Developed **KPI framework** linked to strategic objectives and built an integrated implementation roadmap to sequence and govern delivery" },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Developed integrated transformation fact-base across **strategy, governance,** and **operating model**",
+      },
+      {
+        icon: "check",
+        text: "Defined **optimal capital structure and fleet expansion strategy** across alternative financing structures and growth scenarios",
+      },
+      {
+        icon: "check",
+        text: "Designed **fit-for-purpose governance model** with rationalized management committees, Board charters, and Delegation of Authority framework",
+      },
+      {
+        icon: "check",
+        text: "Translated strategy into an **execution-ready operating model** to support competitiveness, agility and value creation",
+      },
+    ],
+    footnote: "Note: VLGCs - very large gas carriers, MGCs – medium gas carriers",
+  },
+
+  {
+    id: "case-mining-co-sustainability-value-methodology",
+    pageNumber: 44,
+    titleAccent: "Mining Co",
+    titleRest: "Sustainability Value Methodology",
+    year: "2026",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "Mining Co, a **global diversified miner**, recently launched an updated sustainability strategy and was focused on ensuring sustainability adds measurable value",
+      },
+      {
+        text: "Mining Co sought **a more structured way to assess the value of its sustainability initiatives** to focus investment, align decision-making and demonstrate outcomes",
+      },
+      {
+        text: "Bain was engaged to develop a **consistent, transferable methodology** and supporting **calculation toolkit**, complemented by **case examples**, **narrative**, and **training materials** to enable effective business uptake",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        bullets: [
+          {
+            text: "Defined the **value taxonomy across four commercial drivers** with sub-levers for each: revenue uplift, cost savings, risk avoidance and liability reduction, and future opportunity",
+          },
+          {
+            text: "Built the **value trees by lever and developed a distinct calculation approach** for every value type, so each initiative is assessed on a consistent basis regardless of how it creates value",
+          },
+          {
+            text: "Codified a **repeatable five-step process per initiative**: (1) Scope and cost, (2) Define sustainability outcomes and impact, (3) Define project type, discretionary status and value driver, (4) Assess financial value, (5) Review and optimise",
+          },
+          { text: "Ran multiple **working sessions** to co-create the approach with regional teams" },
+          {
+            text: "Collected and standardized **reference data** (e.g. daily revenue and EBITDA per site, discount rates, industry disruption benchmarks, closure provisions) so teams start from a credible baseline",
+          },
+          {
+            text: "Built an **Excel tool for regional teams** that captures inputs, holds the reference data, runs the calculation by value type, and generates initiative and portfolio outputs for appraisal",
+          },
+          {
+            text: "Delivered a clear **guidebook** with detailed guidance and templates to embed and maintain the approach",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Developed a consistent & repeatable **methodology and an Excel tool** that link initiatives to financial value",
+      },
+      {
+        icon: "check",
+        text: "Collaborated closely with the central sustainability team and a regional business, and **built the ground for ongoing collaboration**",
+      },
+      {
+        icon: "check",
+        text: "Shared the methodology with organization leadership team and **proved which value levers are most material**, with risk and liability reduction and future opportunity carrying the largest value at stake",
+      },
+    ],
+  },
+
+  {
+    id: "case-energy-co-ccs-business-case-de-risking-ecosystem-development",
+    pageNumber: 45,
+    titleAccent: "Energy Co",
+    titleRest: "CCS Business Case De-risking and Ecosystem Development",
+    year: "2026",
+    industry: "ENR",
+    product: "Sustainability Value Creation Plan",
+    solutionIds: ["sustainability-value-creation"],
+    situation: [
+      {
+        text: "As part of expected legislation change, Energy Co needed to decarbonize its waste-to-energy operations and saw **carbon capture and storage (CCS) as the key solution**",
+      },
+      {
+        text: "Energy Co needed CCS project to meet commercial and technical maturity milestones, including preparation for an **EU Innovation Fund** subsidy application",
+      },
+      {
+        text: "To make the commercials work, the client also needed to assess if there is enough **interest from emitters** in the country, and if the local government would be supporting the projects via subsidies",
+      },
+      {
+        text: "Bain supported Energy Co towards **final investment decision**, **de-risking the business case** and **strengthening the path to a value-accretive investment**",
+      },
+    ],
+    whatWeDidHeading: "WHAT BAIN DID",
+    whatWeDid: [
+      {
+        body: "Bain supported Energy Co through a focused sprint to advance both commercial and technical maturity of the CCS project:",
+      },
+      {
+        bullets: [
+          {
+            text: "Developed value proposition materials to support engagement with the stakeholders including local government, 10+ industrial emitters, prospective CO2 removal offtakers, infrastructure developers, and investors",
+          },
+          {
+            text: "Participated with the client team in stakeholder discussions to validate ecosystem interest and strengthen project positioning across the CCS value chain",
+          },
+          {
+            text: "Modeled the business case and key sensitivities to identify priority levers for risk reduction and value creation",
+          },
+          {
+            text: "Tested the feasibility of establishing a CCUS ecosystem with support from infrastructure development partners and assessed local emitter interest to evaluate potential CO2 pooling opportunities and scale benefits",
+          },
+          {
+            text: "Recommended an **EPCm model** with turnkey scopes, in line with the client's risk preferences and internal capabilities",
+          },
+          {
+            text: "Supported alignment on next steps toward continued de-risking and preparation for a planned EU Innovation Fund application",
+          },
+        ],
+      },
+    ],
+    results: [
+      {
+        icon: "check",
+        text: "Positive reception from local government, supporting a strong case for participation in the country's planned CCUS funding scheme",
+      },
+      {
+        icon: "check",
+        text: "Raised interest from industrial emitters, indicating potential to pool volumes and unlock scale benefits across value chain",
+      },
+      {
+        icon: "check",
+        text: "Preliminary **CDR\u00b9 certification process** initiated with a leading certification company",
+      },
+      { icon: "check", text: "Mature business case with clearer sensitivity priorities and risk-reduction focus areas" },
+      { icon: "check", text: "Refined procurement approach centered on **EPCm** with selective turnkey scopes" },
+      {
+        icon: "check",
+        text: "Aligned project organization on next steps toward further business case de-risking and EU Innovation Fund application preparation",
+      },
+    ],
+    footnote: "Note: 1. CDR \u2013 Carbon Dioxide Removal",
+  },
+
+  {
     id: "case-energy-co-voluntary-carbon-credit-scheme-feasibility",
     pageNumber: 72,
     titleAccent: "Energy Co",

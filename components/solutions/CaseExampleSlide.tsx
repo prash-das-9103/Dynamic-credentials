@@ -49,7 +49,7 @@ function BulletBlock({ bullets, size = 1 }: { bullets: RichBullet[]; size?: numb
               {b.subBullets.map((sub, si) => (
                 <li key={si} style={{ position: "relative", paddingLeft: `${0.85 * size}cqw`, marginBottom: `${0.25 * size}cqw` }}>
                   <span style={{ position: "absolute", left: 0, top: "0.15em" }}>–</span>
-                  {sub}
+                  <RichText text={sub} />
                 </li>
               ))}
             </ul>
@@ -260,7 +260,7 @@ function ResultsColumn({ example }: { example: CaseExample }) {
                 {item.subBullets.map((sub, si) => (
                   <li key={si} style={{ position: "relative", paddingLeft: "0.9cqw", marginBottom: "0.2cqw" }}>
                     <span style={{ position: "absolute", left: 0, top: "0.1em" }}>–</span>
-                    {sub}
+                    <RichText text={sub} />
                   </li>
                 ))}
               </ul>
