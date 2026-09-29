@@ -46,14 +46,14 @@ export function renderSourceRegisterSlide(
   // Table header — column widths are proportions of CONTENT_W (not fixed
   // inches), so the table always fills the full canvas width regardless of
   // slide size instead of leaving a blank strip on the right.
-  const colRatios = [0.9, 3.2, 2.0, 2.8]; // Type | Label | Source slides | Notes
+  const colRatios = [1.0, 4.5, 3.5]; // Type | Record | Notes
   const ratioSum = colRatios.reduce((a, b) => a + b, 0);
   const colWidths = colRatios.map((r) => (r / ratioSum) * CONTENT_W);
   const colX = colWidths.reduce<number[]>((acc, w, i) => {
     acc.push(i === 0 ? MARGIN_L : acc[i - 1] + colWidths[i - 1]);
     return acc;
   }, []);
-  const headers = ["Type", "Record", "Source slides", "Notes"];
+  const headers = ["Type", "Record", "Notes"];
 
   // Header row background
   slide.addShape(pptx.ShapeType.rect, {
@@ -83,7 +83,6 @@ export function renderSourceRegisterSlide(
     const cells = [
       TYPE_LABEL[src.type] ?? src.type,
       src.label,
-      src.sourceSlides?.join(", ") ?? "—",
       src.workbookRef
         ? `Workbook: ${src.workbookRef.filename} (${src.workbookRef.importedAt})`
         : "",

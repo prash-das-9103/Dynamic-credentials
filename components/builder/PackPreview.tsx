@@ -111,12 +111,43 @@ function BulletList({ entries }: { entries: SectionBulletEntry[] }) {
   );
 }
 
-// ─── Expert table ─────────────────────────────────────────────────────────────
+// ─── Expert roster ────────────────────────────────────────────────────────────
 // Experts never get a shared/full-roster reference-slide exhibit — see the
 // note on resolveReferenceSlideNumbers in lib/pack-slide-content.ts. Instead
-// they always render as this compact table of exactly who was selected.
+// they always render this way: a Bain-format labeled section box containing
+// one Name / Title / Related-credentials stack per expert, matching the
+// visual language of the actual reference slides (e.g. the "Leadership
+// team" slide's labeled section boxes) rather than a generic spreadsheet
+// table with a solid header row and striped rows.
 
-function ExpertTable({ rows }: { rows: ExpertTableRow[] }) {
+/** Display initials, matching how the reference-slide avatars are authored: first letter of the first and last name. */
+function initialsOf(name: string): string {
+  const words = name.trim().split(/\s+/).filter(Boolean);
+  if (words.length === 0) return "";
+  const first = words[0][0] ?? "";
+  const last = words.length > 1 ? words[words.length - 1][0] ?? "" : "";
+  return (first + last).toUpperCase();
+}
+
+function ExpertAvatar({ initials }: { initials: string }) {
+  return (
+    <div
+      className="flex shrink-0 items-center justify-center rounded-full font-bold"
+      style={{
+        width: "2.6cqw",
+        height: "2.6cqw",
+        background: "linear-gradient(135deg, #cac6c1 0%, #a6a29d 100%)",
+        border: "1px solid #ddd9d4",
+        color: "#ffffff",
+        fontSize: "0.75cqw",
+      }}
+    >
+      {initials}
+    </div>
+  );
+}
+
+function ExpertRoster({ rows }: { rows: ExpertTableRow[] }) {
   if (rows.length === 0) {
     return (
       <p className="italic" style={{ color: "#999999", fontSize: "1cqw" }}>
@@ -125,30 +156,46 @@ function ExpertTable({ rows }: { rows: ExpertTableRow[] }) {
     );
   }
   return (
-    <table className="w-full border-collapse" style={{ fontSize: `${ptToCqw(9)}cqw` }}>
-      <thead>
-        <tr style={{ backgroundColor: hex("222222") }}>
-          {["Expert", "Title", "Related credentials"].map((h) => (
-            <th
-              key={h}
-              className="px-2 py-1.5 text-left font-bold"
-              style={{ color: hex("FFFFFF"), fontSize: `${ptToCqw(9)}cqw` }}
-            >
-              {h}
-            </th>
-          ))}
-        </tr>
-      </thead>
-      <tbody>
-        {rows.map((row, i) => (
-          <tr key={row.id} style={{ backgroundColor: i % 2 === 0 ? "#FFFFFF" : "#F7F7F7" }}>
-            <td className="px-2 py-1.5 font-bold" style={{ color: hex("111111") }}>{row.name}</td>
-            <td className="px-2 py-1.5" style={{ color: hex(TEXT.BODY_COLOR) }}>{row.title || "—"}</td>
-            <td className="px-2 py-1.5" style={{ color: hex(TEXT.BODY_COLOR) }}>{row.credentials}</td>
-          </tr>
+    <div
+      className="relative rounded"
+      style={{ border: "1px solid #b0aca8", padding: "1.6cqw 1.2cqw 1cqw", marginTop: "0.9cqw" }}
+    >
+      <div
+        className="absolute font-bold uppercase"
+        style={{
+          top: "-0.9cqw",
+          left: "1.6cqw",
+          background: "#ffffff",
+          paddingLeft: "0.3cqw",
+          paddingRight: "0.3cqw",
+          fontSize: "0.75cqw",
+          color: hex("CC0000"),
+          textDecoration: "underline",
+          textUnderlineOffset: "2px",
+          letterSpacing: "0.02em",
+        }}
+      >
+        Selected Experts
+      </div>
+      <div className="flex flex-wrap justify-center" style={{ gap: "1.4cqw 0.8cqw" }}>
+        {rows.map((row) => (
+          <div key={row.id} className="flex flex-col items-center text-center" style={{ width: "10.5cqw" }}>
+            <ExpertAvatar initials={initialsOf(row.name)} />
+            <p className="mt-[0.35cqw] font-bold leading-tight" style={{ fontSize: "0.85cqw", color: hex("111111") }}>
+              {row.name}
+            </p>
+            <p className="leading-tight" style={{ fontSize: "0.8cqw", color: "#444444" }}>
+              {row.title || "—"}
+            </p>
+            {row.credentials !== "—" && (
+              <p className="italic leading-tight" style={{ fontSize: "0.7cqw", color: "#888888" }}>
+                {row.credentials}
+              </p>
+            )}
+          </div>
         ))}
-      </tbody>
-    </table>
+      </div>
+    </div>
   );
 }
 
@@ -159,7 +206,7 @@ function SourceRegisterTable({ rows }: { rows: SourceRow[] }) {
     <table className="w-full border-collapse" style={{ fontSize: `${ptToCqw(7.5)}cqw` }}>
       <thead>
         <tr style={{ backgroundColor: hex("222222") }}>
-          {["Type", "Record", "Source slides"].map((h) => (
+          {["Type", "Record"].map((h) => (
             <th
               key={h}
               className="px-2 py-1 text-left font-bold"
@@ -175,7 +222,6 @@ function SourceRegisterTable({ rows }: { rows: SourceRow[] }) {
           <tr key={`${row.type}-${row.label}-${i}`} style={{ backgroundColor: i % 2 === 0 ? "#FFFFFF" : "#F7F7F7" }}>
             <td className="px-2 py-1" style={{ color: hex(TEXT.BODY_COLOR) }}>{row.type}</td>
             <td className="px-2 py-1" style={{ color: hex(TEXT.BODY_COLOR) }}>{row.label}</td>
-            <td className="px-2 py-1" style={{ color: hex(TEXT.BODY_COLOR) }}>{row.sourceSlides?.join(", ") ?? "—"}</td>
           </tr>
         ))}
       </tbody>
@@ -359,11 +405,11 @@ export function PackPreview({ pack, onExitPreview }: PackPreviewProps) {
                 <SlideFrame header={slide.header} pageNumber={slide.pageNumber}>
                   <BulletList entries={slide.entries} />
                 </SlideFrame>
-              ) : slide.kind === "expertTable" ? (
-                <SlideFrame header={slide.header} pageNumber={slide.pageNumber}>
-                  <ExpertTable rows={slide.rows} />
-                </SlideFrame>
-              ) : slide.kind === "exhibit" ? (
+  ) : slide.kind === "expertTable" ? (
+  <SlideFrame header={slide.header} pageNumber={slide.pageNumber}>
+  <ExpertRoster rows={slide.rows} />
+  </SlideFrame>
+  ) : slide.kind === "exhibit" ? (
                 // The reference slide already carries its own header/red rule/footer —
                 // render it directly rather than nesting it inside another SlideFrame.
                 <ReferenceSlideExhibit slideNumber={slide.slideNumber} />
