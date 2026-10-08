@@ -1,11 +1,63 @@
 "use client";
 
+import { Plus, Check } from "lucide-react";
 import {
   CEO_PRIORITY_INDEX,
   CEO_SAY_DATA,
   CEO_SAY_SOURCE,
 } from "@/data/overview";
 import { BAIN_COLORS } from "@/lib/chart-colors";
+import { usePackContext } from "@/lib/pack-context";
+import { cn } from "@/lib/utils";
+
+// ------------------------------------------------------------------
+// Add-to-pack toggle — same pattern as ExpertCard / CredentialCard
+// ------------------------------------------------------------------
+
+function AddChartToPackButton({
+  id,
+  title,
+  subtitle,
+}: {
+  id: string;
+  title: string;
+  subtitle: string;
+}) {
+  const { addItem, removeItem, hasItem } = usePackContext();
+  const inPack = hasItem(id);
+
+  function toggle() {
+    if (inPack) {
+      removeItem(id);
+    } else {
+      addItem({
+        id,
+        itemType: "chart",
+        title,
+        subtitle,
+        exportRestricted: false,
+        section: "overview",
+      });
+    }
+  }
+
+  return (
+    <button
+      type="button"
+      onClick={toggle}
+      aria-pressed={inPack}
+      className={cn(
+        "flex items-center gap-1.5 rounded border px-2.5 py-1 text-[11px] font-medium transition-colors",
+        inPack
+          ? "border-[#CC0000]/30 bg-[#CC0000]/10 text-[#CC0000]"
+          : "border-border text-muted-foreground hover:border-foreground/30 hover:text-foreground",
+      )}
+    >
+      {inPack ? <Check className="h-3 w-3" /> : <Plus className="h-3 w-3" />}
+      {inPack ? "Added to pack" : "Add to pack"}
+    </button>
+  );
+}
 
 // ------------------------------------------------------------------
 // Inline sparkline — no chart library dependency
@@ -210,9 +262,16 @@ export function MarketContext() {
       <div className="grid grid-cols-1 gap-6 lg:grid-cols-2">
         {/* Priority index chart */}
         <div className="border border-border bg-card p-5">
-          <p className="mb-1 text-[13px] font-semibold text-foreground">
-            {CEO_PRIORITY_INDEX.title}
-          </p>
+          <div className="mb-1 flex items-start justify-between gap-3">
+            <p className="text-[13px] font-semibold text-foreground">
+              {CEO_PRIORITY_INDEX.title}
+            </p>
+            <AddChartToPackButton
+              id="ov-chart-ceo-priority-index"
+              title={CEO_PRIORITY_INDEX.title}
+              subtitle={CEO_PRIORITY_INDEX.subtitle}
+            />
+          </div>
           <p className="mb-4 text-[11px] text-muted-foreground">
             {CEO_PRIORITY_INDEX.subtitle}
           </p>
@@ -224,9 +283,16 @@ export function MarketContext() {
 
         {/* CEO Say stacked bars */}
         <div className="border border-border bg-card p-5">
-          <p className="mb-1 text-[13px] font-semibold text-foreground">
-            CEOs increasingly link sustainability to business performance
-          </p>
+          <div className="mb-1 flex items-start justify-between gap-3">
+            <p className="text-[13px] font-semibold text-foreground">
+              CEOs increasingly link sustainability to business performance
+            </p>
+            <AddChartToPackButton
+              id="ov-chart-ceo-say"
+              title="CEOs increasingly link sustainability to business performance"
+              subtitle="Share of sustainability mentions by CEOs, by framing"
+            />
+          </div>
           <p className="mb-4 text-[11px] text-muted-foreground">
             Share of sustainability mentions by CEOs, by framing
           </p>
