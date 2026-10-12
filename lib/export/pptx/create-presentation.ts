@@ -48,6 +48,16 @@ export interface CreatePresentationOptions {
   analyticsSnapshot?: AnalyticsSnapshot;
 }
 
+/** See the comment at the `pptx.company` assignment below for why this exists. */
+function escapeForUnescapedCompanyField(value: string): string {
+  return value
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&apos;");
+}
+
 // Canonical group order for per-solution export sections: the four solutions
 // in their standard display order, followed by items that span more than one
 // solution (or have none tagged, e.g. chart items).
@@ -108,7 +118,15 @@ export async function createPresentation(
   const pptx = new PptxGenJS();
   pptx.layout = "LAYOUT_WIDE"; // 16:9, 13.333 × 7.5 in — must match SLIDE_W/SLIDE_H in presentation-theme.ts
   pptx.author = "Bain & Company — Sustainability Practice";
-  pptx.company = "Bain & Company";
+  // pptxgenjs writes `company` into docProps/app.xml's <Company> tag via raw
+  // string interpolation with NO XML escaping (unlike title/author/subject,
+  // which it does escape, into docProps/core.xml). An unescaped "&" here
+  // produces invalid XML in every single export regardless of slide content
+  // — exactly what makes PowerPoint report "found a problem with some
+  // content" and repair/drop slides on open. Escape it ourselves before
+  // handing it to pptxgenjs; do NOT apply this to author/title/subject below,
+  // which pptxgenjs already escapes — doing so would double-escape them.
+  pptx.company = escapeForUnescapedCompanyField("Bain & Company");
   pptx.title = pack.metadata.packTitle || "Sustainability Credentials Pack";
   pptx.subject = pack.metadata.clientAlias
     ? `Prepared for ${pack.metadata.clientAlias}`
