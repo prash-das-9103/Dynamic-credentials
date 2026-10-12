@@ -40,11 +40,13 @@ export interface ExportSlide {
 }
 
 export interface SourceRecord {
-  type: "credential" | "expert" | "partner" | "publication" | "chart" | "reference-slide";
+  type: "credential" | "expert" | "partner" | "publication" | "chart" | "reference-slide" | "narrative-slide";
   id: string;
   label: string;
   /** Slide numbers in the source deck */
   sourceSlides?: number[];
+  /** For type "narrative-slide" — the single source-deck slide number reproduced. */
+  slideNumber?: number;
   workbookRef?: WorkbookRef;
 }
 

@@ -2,7 +2,7 @@
 
 import { AppShell } from "@/components/AppShell";
 import { OverviewHero } from "@/components/overview/OverviewHero";
-import { MarketContext } from "@/components/overview/MarketContext";
+import { NarrativeGallery } from "@/components/overview/NarrativeGallery";
 import { ActionFramework } from "@/components/overview/ActionFramework";
 import { SolutionGateway } from "@/components/overview/SolutionGateway";
 import { OverviewDifferentiators } from "@/components/overview/OverviewDifferentiators";
@@ -23,8 +23,8 @@ export default function OverviewPage() {
           {/* 1 — Hero */}
           <OverviewHero />
 
-          {/* 2 — Market context: Do–Say gap + CEO priority index */}
-          <MarketContext />
+      {/* 2 — Market context: real source-deck narrative slides, 1:1 */}
+      <NarrativeGallery />
 
           {/* 3 — Four Solutions gateway */}
           <SolutionGateway />

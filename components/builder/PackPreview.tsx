@@ -32,6 +32,8 @@ import {
 } from "@/components/builder/SlideFrame";
 import { CoverSlide } from "@/components/builder/CoverSlide";
 import { ReferenceSlideExhibit } from "@/components/builder/ReferenceSlideExhibit";
+import { NarrativeSlideCanvas } from "@/components/narrative-slide/NarrativeSlideCanvas";
+import { getNarrativeSlide } from "@/data/narrative-slides";
 
 // ─── Shared grouping, mirrors lib/export/pptx/create-presentation.ts ─────────
 
@@ -247,7 +249,8 @@ export function PackPreview({ pack, onExitPreview }: PackPreviewProps) {
     | { kind: "section"; header: string; entries: SectionBulletEntry[]; pageNumber: number }
     | { kind: "expertTable"; header: string; rows: ExpertTableRow[]; pageNumber: number }
     | { kind: "chart"; header: string; title: string; pageNumber: number }
-    | { kind: "exhibit"; slideNumber: number; pageNumber: number };
+    | { kind: "exhibit"; slideNumber: number; pageNumber: number }
+  | { kind: "narrativeSlide"; slideNumber: number; pageNumber: number };
 
   const slides: Slide[] = [];
 
@@ -288,8 +291,9 @@ export function PackPreview({ pack, onExitPreview }: PackPreviewProps) {
       const groupItems = nonExpertItems.filter((i) => resolveItemSolutionGroup(i) === group);
       const header = groupsPresent.length > 1 ? `${section.label} — ${groupLabel(group)}` : section.label;
 
-      const textItems = groupItems.filter((i) => i.itemType !== "chart");
+      const textItems = groupItems.filter((i) => i.itemType !== "chart" && i.itemType !== "narrative-slide");
       const chartItems = groupItems.filter((i) => i.itemType === "chart");
+      const narrativeSlideItems = groupItems.filter((i) => i.itemType === "narrative-slide");
 
       const entries: SectionBulletEntry[] = [];
       // Items whose sourceSlides cite an actual reference slide (data/reference-slides.ts)
@@ -341,6 +345,15 @@ export function PackPreview({ pack, onExitPreview }: PackPreviewProps) {
       for (const item of chartItems) {
         slides.push({ kind: "chart", header: `${header} — Chart`, title: item.title, pageNumber: nextPageNumber() });
         sourceRows.push({ type: "Chart / Analytics", label: item.title });
+      }
+
+      // Narrative slides reproduce the exact source-deck slide verbatim —
+      // same as the "exhibit" case above, rendered directly without being
+      // nested inside another SlideFrame.
+      for (const item of narrativeSlideItems) {
+        if (item.slideNumber === undefined || !getNarrativeSlide(item.slideNumber)) continue;
+        slides.push({ kind: "narrativeSlide", slideNumber: item.slideNumber, pageNumber: nextPageNumber() });
+        sourceRows.push({ type: "Credential", label: item.title });
       }
     }
 
@@ -409,10 +422,17 @@ export function PackPreview({ pack, onExitPreview }: PackPreviewProps) {
   <SlideFrame header={slide.header} pageNumber={slide.pageNumber}>
   <ExpertRoster rows={slide.rows} />
   </SlideFrame>
-  ) : slide.kind === "exhibit" ? (
+              ) : slide.kind === "exhibit" ? (
                 // The reference slide already carries its own header/red rule/footer —
                 // render it directly rather than nesting it inside another SlideFrame.
                 <ReferenceSlideExhibit slideNumber={slide.slideNumber} />
+              ) : slide.kind === "narrativeSlide" ? (
+                // Narrative slides are an extracted 1:1 reproduction of the exact
+                // source-deck slide — no SlideFrame chrome, same as an exhibit.
+                (() => {
+                  const entry = getNarrativeSlide(slide.slideNumber);
+                  return entry ? <NarrativeSlideCanvas slide={entry.data} /> : null;
+                })()
               ) : (
                 <SlideFrame header={slide.header} pageNumber={slide.pageNumber}>
                   <p className="italic" style={{ color: "#888888", fontSize: "1cqw" }}>

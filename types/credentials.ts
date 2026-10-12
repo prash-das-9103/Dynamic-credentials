@@ -155,7 +155,7 @@ export interface Publication {
   url?: string;
 }
 
-export type PackItemType = "credential" | "expert" | "partner" | "publication" | "chart";
+export type PackItemType = "credential" | "expert" | "partner" | "publication" | "chart" | "narrative-slide";
 
 export interface PackItem {
   id: string;
@@ -169,6 +169,8 @@ export interface PackItem {
   // Builder-specific
   note?: string;
   priority?: boolean;
+  /** For itemType "narrative-slide" — the source-deck slide number to render (see data/narrative-slides.ts). */
+  slideNumber?: number;
 }
 
 export interface PackSection {

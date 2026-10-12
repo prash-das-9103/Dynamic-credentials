@@ -20,6 +20,7 @@ const TYPE_LABEL: Record<SourceRecord["type"], string> = {
   "publication": "Publication",
   "chart": "Chart / Analytics",
   "reference-slide": "Reference slide",
+  "narrative-slide": "Narrative slide",
 };
 
 export function renderSourceRegisterSlide(

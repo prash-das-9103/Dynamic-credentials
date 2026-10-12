@@ -34,6 +34,7 @@ export const DEFAULT_SECTION_FOR_TYPE: Record<PackItem["itemType"], string> = {
   partner: "ecosystem",
   publication: "thought-leadership",
   chart: "analytics",
+  "narrative-slide": "overview",
 };
 
 export const DEFAULT_SECTIONS: PackSection[] = [

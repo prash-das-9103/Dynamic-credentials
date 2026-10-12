@@ -30,8 +30,10 @@ import { renderCoverSlide } from "./render-cover-slide";
 import { renderSectionSlides } from "./render-section-slide";
 import { renderAnalyticsSlide } from "./render-analytics-slide";
 import { renderReferenceSlide } from "./render-reference-slide";
+import { renderNarrativeSlide } from "./render-narrative-slide";
 import { renderExpertTableSlide } from "./render-expert-table-slide";
 import { renderSourceRegisterSlide } from "./render-source-register";
+import { getNarrativeSlide } from "@/data/narrative-slides";
 import { validatePackForExport, validateExportGeometry } from "./validate-presentation";
 import {
   buildBulletEntry,
@@ -187,11 +189,12 @@ export async function createPresentation(
       const header =
         groupsPresent.length > 1 ? `${section.label} — ${groupLabel(group)}` : section.label;
 
-      // Chart items render as their own dedicated slide (they're the
-      // template's "<Images>/<Framework>" content, not a text bullet), so
-      // they're rendered separately from the section's bulleted text items.
-      const textItems = groupItems.filter((i) => i.itemType !== "chart");
+      // Chart items and narrative slides each render as their own dedicated
+      // slide rather than a text bullet, so they're pulled out of the
+      // section's bulleted text items the same way.
+      const textItems = groupItems.filter((i) => i.itemType !== "chart" && i.itemType !== "narrative-slide");
       const chartItems = groupItems.filter((i) => i.itemType === "chart");
+      const narrativeSlideItems = groupItems.filter((i) => i.itemType === "narrative-slide");
 
       const entries: SectionBulletEntry[] = [];
       // Items whose sourceSlides cite a registered reference slide skip the
@@ -260,6 +263,24 @@ export async function createPresentation(
               uniqueId: "Case Code",
             },
           },
+        });
+      }
+
+      // Narrative slides are rendered as a 1:1 reproduction of the exact
+      // source-deck slide they cite (data/narrative-slides.ts) — not a
+      // bullet summary and not this deck's own chart template.
+      for (const item of narrativeSlideItems) {
+        const entry = item.slideNumber !== undefined ? getNarrativeSlide(item.slideNumber) : undefined;
+        if (!entry) {
+          warnings.push(`Narrative slide ${item.slideNumber ?? item.id} not found; skipped.`);
+          continue;
+        }
+        renderNarrativeSlide(pptx, entry.data);
+        sourceRecords.push({
+          type: "narrative-slide",
+          id: item.id,
+          label: item.title,
+          slideNumber: entry.data.slideNumber,
         });
       }
     }

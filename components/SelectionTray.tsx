@@ -13,6 +13,7 @@ const ITEM_TYPE_LABELS: Record<PackItem["itemType"], string> = {
   partner: "Partner",
   publication: "Pub",
   chart: "Chart",
+  "narrative-slide": "Slide",
 };
 
 export function SelectionTray() {
