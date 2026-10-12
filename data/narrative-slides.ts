@@ -31,6 +31,22 @@ import slide17 from "./narrative-slides/slide-017.json";
 import slide18 from "./narrative-slides/slide-018.json";
 import slide19 from "./narrative-slides/slide-019.json";
 import slide20 from "./narrative-slides/slide-020.json";
+import slide21 from "./narrative-slides/slide-021.json";
+import slide22 from "./narrative-slides/slide-022.json";
+import slide23 from "./narrative-slides/slide-023.json";
+import slide24 from "./narrative-slides/slide-024.json";
+import slide25 from "./narrative-slides/slide-025.json";
+import slide30 from "./narrative-slides/slide-030.json";
+import slide31 from "./narrative-slides/slide-031.json";
+import slide32 from "./narrative-slides/slide-032.json";
+import slide33 from "./narrative-slides/slide-033.json";
+import slide34 from "./narrative-slides/slide-034.json";
+import slide35 from "./narrative-slides/slide-035.json";
+import slide36 from "./narrative-slides/slide-036.json";
+import slide37 from "./narrative-slides/slide-037.json";
+import slide38 from "./narrative-slides/slide-038.json";
+import slide39 from "./narrative-slides/slide-039.json";
+import slide40 from "./narrative-slides/slide-040.json";
 
 const ENTRIES: NarrativeSlideEntry[] = [
   {
@@ -112,6 +128,86 @@ const ENTRIES: NarrativeSlideEntry[] = [
     data: slide20 as NarrativeSlideData,
     label: "Over time we have built and formalized 9 Centers of Excellence",
     description: "Our expert partners and the specialist capabilities behind each Center of Excellence.",
+  },
+  {
+    data: slide21 as NarrativeSlideData,
+    label: "INTERSECT: our full ecosystem of partners",
+    description: "Joint product development, joint client delivery, and partner-led transition costs modelling.",
+  },
+  {
+    data: slide22 as NarrativeSlideData,
+    label: "Bain is leading the way, with a deeply committed and inspired team",
+    description: "3,750+ cases, 3,200+ insights published, and 3,200+ sustainability practitioners — the five-year view.",
+  },
+  {
+    data: slide23 as NarrativeSlideData,
+    label: "Bain is leading the way, with a deeply committed and inspired team",
+    description: "1,450+ cases, 1,000+ insights published, and 2,300+ sustainability practitioners — the two-year view.",
+  },
+  {
+    data: slide24 as NarrativeSlideData,
+    label: "Bain has extensive experience in sustainability with more than 3,750 projects",
+    description: "Case volume across industries and sustainability solutions.",
+  },
+  {
+    data: slide25 as NarrativeSlideData,
+    label: "Bain has global experience across all industries and sustainability solutions",
+    description: "Recent sustainability cases by solution and industry.",
+  },
+  {
+    data: slide30 as NarrativeSlideData,
+    label: "We are a respected thought leader on sustainability (1/2)",
+    description: "Published perspectives including Circular Transformation of Industries.",
+  },
+  {
+    data: slide31 as NarrativeSlideData,
+    label: "We are a respected thought leader on sustainability (2/2)",
+    description: "Published perspectives including Decarbonization That Works: Five Imperatives.",
+  },
+  {
+    data: slide32 as NarrativeSlideData,
+    label: "Our IP and research on Diversity, Equity, and Inclusion, and the S in ESG",
+    description: "Global thought leadership spanning social equity themes.",
+  },
+  {
+    data: slide33 as NarrativeSlideData,
+    label: "We have a deep relationship with GFANZ",
+    description: "Accelerating the net zero transition in financial services across North America, Southeast Asia, and beyond.",
+  },
+  {
+    data: slide34 as NarrativeSlideData,
+    label: "To build on our momentum, from 2025-2035 we are committing more",
+    description: "Our 2025–2035 sustainability commitments.",
+  },
+  {
+    data: slide35 as NarrativeSlideData,
+    label: "Energy & Natural Resources, Advanced Manufacturing & Services",
+    description: "Sector and practice coverage underpinning our sustainability work.",
+  },
+  {
+    data: slide36 as NarrativeSlideData,
+    label: "AI for Sustainable Future — a collaboration with the World Economic Forum",
+    description: "Identifying, shortlisting, prototyping, and codifying tangible AI use cases for sustainability.",
+  },
+  {
+    data: slide37 as NarrativeSlideData,
+    label: "A global ecosystem of analytics, AI, and digital talent",
+    description: "20+ senior practitioners, 1,500+ deep analytics experts, and 3,000+ AI, Insights & Solutions engagements.",
+  },
+  {
+    data: slide38 as NarrativeSlideData,
+    label: "Recognized by top analyst firms for digital, innovation, and automation consulting",
+    description: "Independent recognition for our consulting-in-action approach.",
+  },
+  {
+    data: slide39 as NarrativeSlideData,
+    label: "We will invest significant pro bono capacity to solve the world's toughest challenges",
+    description: "Encouraging every Bainie to find their sustainability passion and make an impact.",
+  },
+  {
+    data: slide40 as NarrativeSlideData,
+    label: "Our world faces unprecedented challenges — bold action has never been more urgent",
+    description: "Setting new standards of excellence.",
   },
 ];
 

@@ -1,0 +1,2545 @@
+{
+  "slideNumber": 25,
+  "title": "Bain has global experience across all industries and sustainability solutions",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Credentials (1)",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.0366,
+        "y": 7.2647,
+        "w": 1.4963,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 3
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "DCN",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.0364,
+        "y": 7.2647,
+        "w": 0.315,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 4
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 0.3462,
+        "y": 7.263,
+        "w": 7.0073,
+        "h": 0.1933,
+        "data": "image/png;base64,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"
+      },
+      "id": 5
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 7.2165,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "B4B4B4",
+          "width": 0.75
+        }
+      },
+      "id": 6
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 0.9549,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 1.5
+        }
+      },
+      "id": 7
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Bain has global experience across all industries and sustainability solutions",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 0,
+        "w": 12.6007,
+        "h": 0.9588,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "bottom",
+        "isTextBox": true
+      },
+      "id": 28
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Note: Cases across solutions include multiple counts for cases where several sustainability solutions are involved; ‘Other’ include cases belonging to other industries like Healthcare, TMT, No Industry, etc.",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Source: Bain Analysis",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 6.9151,
+        "w": 12.6007,
+        "h": 0.2693,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 31
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 2.276,
+        "y": 3.2118,
+        "w": 0.0972,
+        "h": 0,
+        "flipH": true,
+        "line": {
+          "color": "000000",
+          "width": 0.75
+        }
+      },
+      "id": 32
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 5.2231,
+        "w": 2.7915,
+        "h": 1.4334,
+        "fill": {
+          "color": "A3BCD3"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 33
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 5.1849,
+        "w": 2.7915,
+        "h": 1.4716,
+        "fill": {
+          "color": "7891AA"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 34
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 5.2136,
+        "w": 2.7915,
+        "h": 1.4429,
+        "fill": {
+          "color": "46647B"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 35
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 4.5879,
+        "w": 2.7915,
+        "h": 2.0686,
+        "fill": {
+          "color": "2D475A"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 36
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 4.134,
+        "w": 2.7915,
+        "h": 1.089,
+        "fill": {
+          "color": "7891AA"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 37
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 4.1845,
+        "w": 2.7915,
+        "h": 1.0004,
+        "fill": {
+          "color": "46647B"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 38
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 3.9234,
+        "w": 2.7915,
+        "h": 1.2901,
+        "fill": {
+          "color": "7891AA"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 39
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 3.5333,
+        "w": 2.7915,
+        "h": 1.0546,
+        "fill": {
+          "color": "7891AA"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 40
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 3.5467,
+        "w": 2.7915,
+        "h": 0.5873,
+        "fill": {
+          "color": "46647B"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 41
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 3.7192,
+        "w": 2.7915,
+        "h": 0.4653,
+        "fill": {
+          "color": "B4B4B4"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 42
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 3.2953,
+        "w": 2.7915,
+        "h": 0.6281,
+        "fill": {
+          "color": "A3BCD3"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 43
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 3.1683,
+        "w": 2.7915,
+        "h": 0.365,
+        "fill": {
+          "color": "46647B"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 44
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 3.1237,
+        "w": 2.7915,
+        "h": 0.423,
+        "fill": {
+          "color": "2D475A"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 45
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 3.2597,
+        "w": 2.7915,
+        "h": 0.4595,
+        "fill": {
+          "color": "2D475A"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 46
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 2.7521,
+        "w": 2.7915,
+        "h": 0.5432,
+        "fill": {
+          "color": "B4B4B4"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 47
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 2.9249,
+        "w": 2.7915,
+        "h": 0.2434,
+        "fill": {
+          "color": "858585"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 48
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 2.8353,
+        "w": 2.7915,
+        "h": 0.2884,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 49
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 2.8583,
+        "w": 2.7915,
+        "h": 0.4013,
+        "fill": {
+          "color": "858585"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 50
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 2.5145,
+        "w": 2.7915,
+        "h": 0.2377,
+        "fill": {
+          "color": "858585"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 51
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 2.7221,
+        "w": 2.7915,
+        "h": 0.2028,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 52
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 2.5591,
+        "w": 2.7915,
+        "h": 0.2762,
+        "fill": {
+          "color": "B4B4B4"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 53
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 2.4977,
+        "w": 2.7915,
+        "h": 0.3606,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 54
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 2.3447,
+        "w": 2.7915,
+        "h": 0.1698,
+        "fill": {
+          "color": "2D475A"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 55
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 2.5598,
+        "w": 2.7915,
+        "h": 0.1622,
+        "fill": {
+          "color": "B4B4B4"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 56
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 2.3615,
+        "w": 2.7915,
+        "h": 0.1975,
+        "fill": {
+          "color": "858585"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 57
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 2.3872,
+        "w": 2.7915,
+        "h": 0.1105,
+        "fill": {
+          "color": "A3BCD3"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 58
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 2.3108,
+        "w": 2.7915,
+        "h": 0.034,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 59
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 2.4787,
+        "w": 2.7915,
+        "h": 0.0811,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 60
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 2.3056,
+        "w": 2.7915,
+        "h": 0.0559,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 61
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 2.3349,
+        "w": 2.7915,
+        "h": 0.0523,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 62
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 2.2938,
+        "w": 2.7915,
+        "h": 0.017,
+        "fill": {
+          "color": "858585"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 63
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 2.4382,
+        "w": 2.7915,
+        "h": 0.0406,
+        "fill": {
+          "color": "A3BCD3"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 64
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 0.8283,
+        "y": 2.0731,
+        "w": 2.7915,
+        "h": 0.2325,
+        "fill": {
+          "color": "333333"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 65
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 3.899,
+        "y": 2.0731,
+        "w": 2.7915,
+        "h": 0.2617,
+        "fill": {
+          "color": "333333"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 66
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 6.9697,
+        "y": 2.0731,
+        "w": 2.7915,
+        "h": 0.2207,
+        "fill": {
+          "color": "333333"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 67
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "role": "chartBar",
+      "options": {
+        "x": 10.0404,
+        "y": 2.0731,
+        "w": 2.7915,
+        "h": 0.365,
+        "fill": {
+          "color": "333333"
+        },
+        "line": {
+          "color": "FFFFFF",
+          "width": 0.5
+        }
+      },
+      "id": 68
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "0",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "right",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.5191,
+        "y": 6.5729,
+        "w": 0.0764,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 69
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "20",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "right",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4427,
+        "y": 5.6562,
+        "w": 0.1528,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 70
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "40",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "right",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4427,
+        "y": 4.7396,
+        "w": 0.1528,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 71
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "60",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "right",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4427,
+        "y": 3.8229,
+        "w": 0.1528,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 72
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "80",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "right",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4427,
+        "y": 2.9062,
+        "w": 0.1528,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 73
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "100",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "right",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 1.9896,
+        "w": 0.2292,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 74
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 3.0035,
+        "y": 2.0451,
+        "w": 0,
+        "h": 0.2882,
+        "line": {
+          "color": "000000",
+          "width": 0.75
+        }
+      },
+      "id": 75
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 6.0747,
+        "y": 2.0451,
+        "w": 0,
+        "h": 0.316,
+        "line": {
+          "color": "000000",
+          "width": 0.75
+        }
+      },
+      "id": 76
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 7.4375,
+        "y": 2.0451,
+        "w": 0,
+        "h": 0.2812,
+        "line": {
+          "color": "000000",
+          "width": 0.75
+        }
+      },
+      "id": 77
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 10.3837,
+        "y": 2.0451,
+        "w": 0,
+        "h": 0.4132,
+        "line": {
+          "color": "000000",
+          "width": 0.75
+        }
+      },
+      "id": 78
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Social Impact",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.8733,
+        "y": 3.2691,
+        "w": 0.7014,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 79
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Financial Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.7569,
+        "y": 2.9132,
+        "w": 0.9358,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 80
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Consumer Products",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.7153,
+        "y": 2.6302,
+        "w": 1.0174,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 81
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Retail",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.066,
+        "y": 2.3941,
+        "w": 0.316,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 82
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Healthcare & Life Sciences",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.3177,
+        "y": 1.9115,
+        "w": 1.3733,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 83
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Other",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.0694,
+        "y": 2.1233,
+        "w": 0.3108,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 84
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Transition Strategy",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.6372,
+        "y": 6.7031,
+        "w": 1.1736,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "top",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 85
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Energy & Natural Resources",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.5729,
+        "y": 5.8542,
+        "w": 1.4462,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 86
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Advanced Manufacturing & Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.3785,
+        "y": 4.6181,
+        "w": 1.8333,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 87
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Consumer Products",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.7865,
+        "y": 3.8854,
+        "w": 1.0174,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 88
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Social Impact",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.9444,
+        "y": 3.4219,
+        "w": 0.7014,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 89
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Retail",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.1372,
+        "y": 2.9913,
+        "w": 0.316,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 90
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Financial Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.8281,
+        "y": 2.6111,
+        "w": 0.9358,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 91
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Private Equity (Financial Investors)",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.4184,
+        "y": 2.3767,
+        "w": 1.7552,
+        "h": 0.1337,
+        "fill": {
+          "color": "A3BCD3"
+        },
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "shape": "rect"
+      },
+      "id": 92
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Healthcare & Life Sciences",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.3889,
+        "y": 1.9115,
+        "w": 1.3733,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 93
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Other",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.1406,
+        "y": 2.1372,
+        "w": 0.3108,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 94
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Value Creation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.4062,
+        "y": 6.7031,
+        "w": 1.7795,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "top",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 95
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Advanced Manufacturing & Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.4497,
+        "y": 5.8681,
+        "w": 1.8333,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 96
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Energy & Natural Resources",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.6441,
+        "y": 4.5017,
+        "w": 1.4462,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 97
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Private Equity (Financial Investors)",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.4896,
+        "y": 3.5434,
+        "w": 1.7552,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 98
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Consumer Products",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8576,
+        "y": 2.9566,
+        "w": 1.0174,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 99
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Retail",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.2083,
+        "y": 2.566,
+        "w": 0.316,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 100
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Social Impact",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.0156,
+        "y": 2.3628,
+        "w": 0.7014,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 101
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Healthcare & Life Sciences",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.7795,
+        "y": 1.9115,
+        "w": 1.3733,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 102
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Private Equity (Financial Investors)",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.3472,
+        "y": 5.8733,
+        "w": 1.7552,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 103
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Financial Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8993,
+        "y": 2.2361,
+        "w": 0.9358,
+        "h": 0.1337,
+        "fill": {
+          "color": "858585"
+        },
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "shape": "rect"
+      },
+      "id": 104
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Other",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.2118,
+        "y": 2.1163,
+        "w": 0.3108,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 105
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Value Creation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.6441,
+        "y": 6.7031,
+        "w": 1.4444,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "top",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 106
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Social Impact",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.0851,
+        "y": 5.5556,
+        "w": 0.7014,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 107
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Energy & Natural Resources",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.7135,
+        "y": 3.9931,
+        "w": 1.4462,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 108
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Advanced Manufacturing & Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.5191,
+        "y": 3.2847,
+        "w": 1.8333,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 109
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Energy & Natural Resources",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.5017,
+        "y": 4.6111,
+        "w": 1.4462,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 110
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Financial Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.9688,
+        "y": 2.7569,
+        "w": 0.9358,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 111
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Consumer Products",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.9271,
+        "y": 2.5747,
+        "w": 1.0174,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 112
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Healthcare & Life Sciences",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.75,
+        "y": 2.4531,
+        "w": 1.3733,
+        "h": 0.1337,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "shape": "rect"
+      },
+      "id": 113
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Private Equity (Financial Investors)",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.5069,
+        "y": 1.9115,
+        "w": 1.7552,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 114
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Advanced Manufacturing & Services",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.3073,
+        "y": 3.7743,
+        "w": 1.8333,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 115
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Retail",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.2778,
+        "y": 2.9809,
+        "w": 0.316,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 116
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Resilience & Adaptation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.6962,
+        "y": 6.7031,
+        "w": 1.4792,
+        "h": 0.1667,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "top",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 117
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "2,600+",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.9931,
+        "y": 1.7448,
+        "w": 0.4635,
+        "h": 0.1667,
+        "margin": [
+          1.38,
+          1.38,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 118
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "775+",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.1215,
+        "y": 1.7448,
+        "w": 0.349,
+        "h": 0.1667,
+        "margin": [
+          1.38,
+          1.38,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 119
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "270+",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.1927,
+        "y": 1.7448,
+        "w": 0.349,
+        "h": 0.1667,
+        "margin": [
+          1.38,
+          1.38,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 120
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "110+",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.2622,
+        "y": 1.7448,
+        "w": 0.349,
+        "h": 0.1667,
+        "margin": [
+          1.38,
+          1.38,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 121
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Other",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.2812,
+        "y": 2.1892,
+        "w": 0.3108,
+        "h": 0.1337,
+        "margin": [
+          1.13,
+          1.13,
+          0,
+          0
+        ],
+        "valign": "middle",
+        "wrap": false,
+        "isTextBox": true
+      },
+      "id": 122
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability-related cases by solution and industry, 2021 - 2025",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 1.4972,
+        "w": 6.4115,
+        "h": 0.2478,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 123
+    }
+  ]
+}
