@@ -23,6 +23,14 @@ import slide07 from "./narrative-slides/slide-07.json";
 import slide08 from "./narrative-slides/slide-08.json";
 import slide09 from "./narrative-slides/slide-09.json";
 import slide10 from "./narrative-slides/slide-10.json";
+import slide11 from "./narrative-slides/slide-011.json";
+import slide12 from "./narrative-slides/slide-012.json";
+import slide15 from "./narrative-slides/slide-015.json";
+import slide16 from "./narrative-slides/slide-016.json";
+import slide17 from "./narrative-slides/slide-017.json";
+import slide18 from "./narrative-slides/slide-018.json";
+import slide19 from "./narrative-slides/slide-019.json";
+import slide20 from "./narrative-slides/slide-020.json";
 
 const ENTRIES: NarrativeSlideEntry[] = [
   {
@@ -64,6 +72,46 @@ const ENTRIES: NarrativeSlideEntry[] = [
     data: slide10 as NarrativeSlideData,
     label: "With 2030 targets now on the horizon, CEOs must take action",
     description: "Three priorities: accelerate what works, anticipate what's coming, build robustness.",
+  },
+  {
+    data: slide11 as NarrativeSlideData,
+    label: "With 2030 targets now on the horizon, CEOs must take action",
+    description: "The three priorities laid out in full: accelerate, anticipate, build robustness.",
+  },
+  {
+    data: slide12 as NarrativeSlideData,
+    label: "To learn more about sustainability, visit our pages on Iris",
+    description: "Where to find our growing collection of POVs, selling guides, and case examples.",
+  },
+  {
+    data: slide15 as NarrativeSlideData,
+    label: "Our collective ambition: further",
+    description: "Defining what \u201cfurther\u201d means for a sustainable, equitable, and inclusive world.",
+  },
+  {
+    data: slide16 as NarrativeSlideData,
+    label: "Further is our collective ambition to create a more sustainable, equitable and inclusive world",
+    description: "How we live that ambition at Bain, with clients, and in the global community.",
+  },
+  {
+    data: slide17 as NarrativeSlideData,
+    label: "We bring a differentiated offering to our clients",
+    description: "Deep expertise, sector-shaping influence, a global team, AI expertise, and sustainability in our own business.",
+  },
+  {
+    data: slide18 as NarrativeSlideData,
+    label: "Sustainability frontrunners drive competitive advantage",
+    description: "Cost leadership, customer growth, people engagement, and valuation — the four ways it pays off.",
+  },
+  {
+    data: slide19 as NarrativeSlideData,
+    label: "We offer four sustainability solutions",
+    description: "Transition Strategy, Sustainability Value Creation, Circular Value Creation, Resilience & Adaptation.",
+  },
+  {
+    data: slide20 as NarrativeSlideData,
+    label: "Over time we have built and formalized 9 Centers of Excellence",
+    description: "Our expert partners and the specialist capabilities behind each Center of Excellence.",
   },
 ];
 

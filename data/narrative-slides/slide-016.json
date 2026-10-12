@@ -1,0 +1,399 @@
+{
+  "slideNumber": 16,
+  "title": "Further is our collective ambition to create a moresustainable, equitable and inclusive world",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": -0.0008,
+        "y": 0,
+        "w": 13.3339,
+        "h": 1.9605,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA4QAAADECAYAAADH/u/KAAAEcElEQVR42u3ayRGAAAzEsOXom9KhDyyVkN+Oc2x7BgAAQM697XUGAAAAgxAAAICI0wkAAACaFEIAAACDEAAAgBIvowAAAFEKIQAAgEEIAABAiZdRAACAKIUQAAAgSiEEAACIUggBAAAMQgAAAEq8jAIAAEQphAAAAAYhAAAAJV5GAQAAohRCAAAAgxAAAIASL6MAAABRCiEAAIBBCAAAQImXUQAAgCiFEAAAwCAEAACgxMsoAABAlEIIAABgEAIAAFDiZRQAACBKIQQAAIhSCAEAAKIUQgAAAIMQAACAEi+jAAAAUQohAACAQQgAAECJl1EAAIAohRAAAMAgBAAAoMTLKAAAQJRCCAAAYBACAABQ4mUUAAAgSiEEAAAwCAEAACjxMgoAABClEAIAABiEAAAAlHgZBQAAiFIIAQAADEIAAABKvIwCAABEKYQAAABRCiEAAECUQggAAGAQAgAAUOJlFAAAIEohBAAAMAgBAAAo8TIKAAAQpRACAAAYhAAAAJR4GQUAAIhSCAEAAAxCAAAASryMAgAARCmEAAAABiEAAAAlXkYBAACiFEIAAACDEAAAgBIvowAAAFEKIQAAQJRCCAAAEKUQAgAAGIQAAACUeBkFAACIUggBAAAMQgAAAEq8jAIAAEQphAAAAAYhAAAAJV5GAQAAohRCAAAAgxAAAIASL6MAAABRCiEAAIBBCAAAQImXUQAAgCiFEAAAwCAEAACgxMsoAABAlEIIAAAQpRACAABEKYQAAAAGIQAAACVeRgEAAKIUQgAAAIMQAACAEi+jAAAAUQohAACAQQgAAECJl1EAAIAohRAAAMAgBAAAoMTLKAAAQJRCCAAAYBACAABQ4mUUAAAgSiEEAAAwCAEAACjxMgoAABClEAIAAEQphAAAAFEKIQAAgEEIAABAiZdRAACAKIUQAADAIAQAAKDEyygAAECUQggAAGAQAgAAUOJlFAAAIEohBAAAMAgBAAAo8TIKAAAQpRACAAAYhAAAAJR4GQUAAIhSCAEAAAxCAAAASryMAgAARCmEAAAAUQohAABAlEIIAABgEAIAAFDiZRQAACBKIQQAADAIAQAAKPEyCgAAEKUQAgAAGIQAAACUeBkFAACIUggBAAAMQgAAAEq8jAIAAEQphAAAAAYhAAAAJV5GAQAAohRCAAAAgxAAAIASL6MAAABRCiEAAIBBCAAAQImXUQAAgCiFEAAAIEohBAAAiFIIAQAADEIAAABKvIwCAABEKYQAAAAGIQAAACVeRgEAAKIUQgAAAIMQAACAEi+jAAAAUQohAACAQQgAAECJl1EAAIAohRAAAMAgBAAAoMTLKAAAQJRCCAAAYBACAABQ4mUUAAAgSiEEAACIUggBAACiFEIAAACDEAAAgBIvowAAAFEKIQAAgEEIAABAiZdRAACAKIUQAADAIAQAAKDEyygAAECUQggAAGAQAgAAUOJlFAAAIOradjgDAACAQQgAAECEl1EAAICoywkAAAAAAAAAAAAA/u4DGgd9g9/1yQsAAAAASUVORK5CYII="
+      },
+      "id": 22
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "With clients",
+          "options": {
+            "fontSize": 20,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "46647B",
+            "align": "left",
+            "paraSpaceBefore": 6,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.38,
+        "y": 3.6913,
+        "w": 3.8044,
+        "h": 0.4174,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.88,
+          2.88,
+          2.88,
+          2.88
+        ],
+        "valign": "middle",
+        "fit": "resize",
+        "shape": "rect"
+      },
+      "id": 23
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "In the global community",
+          "options": {
+            "fontSize": 20,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "973B74",
+            "align": "left",
+            "paraSpaceBefore": 6,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.7713,
+        "y": 3.6913,
+        "w": 3.8044,
+        "h": 0.4174,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.88,
+          2.88,
+          2.88,
+          2.88
+        ],
+        "valign": "middle",
+        "fit": "resize",
+        "shape": "rect"
+      },
+      "id": 24
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "We take an integrated approach that embeds sustainability into core strategy – linking impact to measurable business results",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false,
+            "breakLine": true
+          }
+        },
+        {
+          "text": "We focus on the world’s most critical sustainability priorities: Sustainable value creation, Transition strategy, Circular value creation, and Resilience & adaptation",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.38,
+        "y": 4.1193,
+        "w": 3.9852,
+        "h": 1.9825,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.88,
+          2.88,
+          2.88,
+          2.88
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "shape": "rect"
+      },
+      "id": 25
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Through our ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false
+          }
+        },
+        {
+          "text": "renewed $2B Social Impact ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false
+          }
+        },
+        {
+          "text": "pledge ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false
+          }
+        },
+        {
+          "text": "w",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false
+          }
+        },
+        {
+          "text": "e continue to partner with leading social pioneers to develop and scale transformative solutions ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false,
+            "breakLine": true
+          }
+        },
+        {
+          "text": "This work reinforces our broader sustainability agenda and long-term value creation priorities",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.7713,
+        "y": 4.1193,
+        "w": 3.8044,
+        "h": 2.0498,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.88,
+          2.88,
+          2.88,
+          2.88
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "shape": "rect"
+      },
+      "id": 26
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Our dedication to social and environmental standards starts at home – we embed these values in our firm strategy",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 24,
+            "bullet": false,
+            "breakLine": true
+          }
+        },
+        {
+          "text": "We welcome and celebrate different perspectives to achieve extraordinary, enduring results",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 24,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.1626,
+        "y": 4.1193,
+        "w": 3.8044,
+        "h": 1.831,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.88,
+          2.88,
+          2.88,
+          2.88
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "shape": "rect"
+      },
+      "id": 27
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "At Bain",
+          "options": {
+            "fontSize": 20,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "left",
+            "paraSpaceBefore": 6,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.1626,
+        "y": 3.6913,
+        "w": 3.8044,
+        "h": 0.4174,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.88,
+          2.88,
+          2.88,
+          2.88
+        ],
+        "valign": "middle",
+        "fit": "resize",
+        "shape": "rect"
+      },
+      "id": 28
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "As advisers to thousands of organizations – including many of the world’s most influential companies – nearly 5,000 Bain employees engage in client work and global responsibility efforts each year",
+          "options": {
+            "fontSize": 18,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 6.5847,
+        "w": 12.6007,
+        "h": 0.7068,
+        "margin": [
+          7.2,
+          7.2,
+          3.6,
+          3.6
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 29
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Further is our collective ambition to create a more",
+          "options": {
+            "fontSize": 32,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        },
+        {
+          "text": "sustainable, equitable and inclusive world",
+          "options": {
+            "fontSize": 32,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "softBreakBefore": true,
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.38,
+        "y": 0.18,
+        "w": 12.6,
+        "h": 1.2,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "middle",
+        "isTextBox": true
+      },
+      "id": 30
+    }
+  ]
+}
