@@ -1,0 +1,1006 @@
+{
+  "slideNumber": 46,
+  "title": "Transition Strategy: Many of our clients are facing massive disruption through global sustainability transitions; we can help with three products",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Credentials (1)",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.0366,
+        "y": 7.2647,
+        "w": 1.4963,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 3
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "DCN",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.0364,
+        "y": 7.2647,
+        "w": 0.315,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 4
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 0.3462,
+        "y": 7.263,
+        "w": 7.0073,
+        "h": 0.1933,
+        "data": "image/png;base64,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"
+      },
+      "id": 5
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 7.2165,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "B4B4B4",
+          "width": 0.75
+        }
+      },
+      "id": 6
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 0.9549,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 1.5
+        }
+      },
+      "id": 7
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Transition Strategy: ",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        },
+        {
+          "text": "Many of our clients are facing massive disruption through global sustainability transitions; we can help with three products",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 0,
+        "w": 12.6007,
+        "h": 0.9588,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "bottom",
+        "isTextBox": true
+      },
+      "id": 16
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 1.734,
+        "y": 5.9264,
+        "w": 3.5111,
+        "h": 1.0388,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV8AAABnCAYAAACn60H1AAAFF0lEQVR42u3dQW7bMBBA0XgwB+wpeoUen920SBdpTFnkiLReNgWaifyB0M+qbFaPH79+to9nX88n/sy008d5tM4f6G568kOHm84d6/8zbUDTF8c71fTPwJCmv4drH+PW3PfD/U0dDz5ozT1GrZMhv982oGnGmvtcJ+2LP9s33xs9M+sxA7zgBS94wVsLb2vtCb7gBS94wQveKTMJXvDeEt7W+eDgvSW8FTgHeMELXvCCt/6sOMALXvCCF7z1lyMCvOAFL3jBW38dOMALXvCCF7z1b8AleME7FN7WGQVe8G4E7wycE7zgBS94V4B3hY9/VZ4Vx5AnFHjBC17wgvfQTJx+QoEXvOAFL3gPzyR4wfve8M5fc+AF7yszCd5N4H1puyx4wQveVT/5kOAFL3jBC956nBO84AUveFeD9w5nxbkPvG1QE3jBC17wXt8V4AUveMEL3ss2WdwY3tPIgRe84AXv8eMleMELXvCCtx7nBC94wQve1eF9x7PiU3eyAC94wbsxvMPWHHhfmY0xyIEXvOAFL3in38kCvOAFL3jBO3yTxQB4i+8cC17wghe8m2+yAC94wQte8Fa052uggBe84D2zTsDrrDjAC17wghe89V0JXvCCdxV426Am8O7QFeAFL3jBC96FNlmAF7zgBS94580keMELXvDuDO+uOCd4Z8DbBjWB9/zvF7zgXbMrwQte8IL3O3jvfq+1WV0BXvCCF7zgre8K8IIXvOAFb31Xghe84AUveOtnErw3h/dwN3jB6w24ETMJXvCCF7x3/Gf/1TMBXvCCF7zgrZ8J8IIXvOAFb/1MgBe84AUveC/eZAHegfC2zmjwghe8t8Q5wAte8IIXvPUzCV7wghe8/qvH+pkAL3jBC17w1s8EeMELXvCC97JNFuC9N7xtUBN4wQve3pncCt7W+U3wghe84F28PcELXvCCF84L3MkCvOAF76LwdncDboeuAC94wQte8F65yQK84AUveMFbNpO9TwDwghe84H0neK9uD/CCF7zgBe+ld7IAL3hvCm/nmgOvyxGTNlmAF7zg3Q1ewO3bFeAFL3jBC95L7mQBXvCCF7zgrX7MBC94wQveu8N7RXuCF7zgBS+c67sSvOCdAm/r+0vwjoUXcPt0BXjBC17wgrf+MRO84N0L3nlrDrzgrd1kAV7wghe84C1vD/CCF7zgBW99e4J3M3hb3zB4wQu4tbvyOniPHwu84AUv4N6lK8ALXvCCF7z1XQFe8IIXvOC9eJMFeMELXvCCt6Y9wfv5BOj5Ai94wQvnYZsswAte8L4/vM6K1+oK8IIXvOAF7xKbLMALXvCCV1fxJgvwghe84NVV0R7gBS94waurvj2nwtu5KMELXvAC7m4vGgle8IL3fvA6K76+K8ELXvBOghdwukbdyQK84AUveHUV38kCvOAFL3h1jWtP8IIXvOD1Blx9V4J30LHAC17A6Rp1JwvwgndFeB/dnzIAL3jX7Urwghe88+EFnK6+M1/wghe84NU1tT3AC17wgldXfXuCF7zgBa/r0/VdCV7wghe8XjTquxK84D2PHHgBp+vobIAXvOAFr65lNlmAF7zgBa+umTMJXvCCF7yuT9fPJHjBC17wetGo70rwzoX3NVDAC17AvXtXghe84L0WXsDdsyvBC17wgldX/UyAF7zgBa+u+pkE77vB2wY1gRckrk/PnMld4e1/8oIXvODVvl5Xghe84AWJrvqZAC94wQsSXfUzvwFZUlhSLE16ZAAAAABJRU5ErkJggg=="
+      },
+      "id": 17
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embed in Future-back Strategy/ ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "10 Year Plan",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "softBreakBefore": true,
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.734,
+        "y": 5.9264,
+        "w": 3.5111,
+        "h": 1.0388,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 18
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Client needs",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 2.5043,
+        "w": 1.1417,
+        "h": 3.1304,
+        "margin": [
+          2.84,
+          14.19,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "isTextBox": true
+      },
+      "id": 19
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 1.5028,
+        "y": 2.5043,
+        "w": 0,
+        "h": 3.1304,
+        "line": {
+          "color": "000000",
+          "width": 6
+        }
+      },
+      "id": 20
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Which business model should I pursue ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "to capture new profit pools?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "What is the ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "new market",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": ", who are the ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "new customers",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": ", what do I need to ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "change to capture this market",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 5.5923,
+        "y": 2.5366,
+        "w": 3.5111,
+        "h": 1.51,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 21
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "How will global sustainability transitions ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "disrupt my sector’s profit pools and create new business opportunities?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How much value is at risk",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "/ how high is the potential value?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "What is the ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "speed of the transition",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "? Where are the ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "tipping points",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 1.734,
+        "y": 2.5366,
+        "w": 3.5111,
+        "h": 2.4693,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 22
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "How do I set the strategic course ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "towards sustainability and profitability?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Which sustainability commitments ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "should I focus my efforts on? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How do I communicate my sustainability strategy ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "to stakeholders and the board?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 9.4507,
+        "y": 2.5366,
+        "w": 3.5111,
+        "h": 2.4693,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 23
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Products",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 5.8958,
+        "w": 1.1417,
+        "h": 1.0694,
+        "margin": [
+          2.84,
+          14.19,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "isTextBox": true
+      },
+      "id": 24
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 1.5028,
+        "y": 5.8958,
+        "w": 0,
+        "h": 1.0694,
+        "line": {
+          "color": "000000",
+          "width": 6
+        }
+      },
+      "id": 25
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Future-proof and create value through global transitions",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.734,
+        "y": 1.4008,
+        "w": 3.5111,
+        "h": 0.8351,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 26
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Build sustainable business models",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.5923,
+        "y": 1.4008,
+        "w": 3.5111,
+        "h": 0.8351,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 27
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Align sustainability commitments and resources against value",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.4507,
+        "y": 1.4008,
+        "w": 3.5111,
+        "h": 0.8351,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 28
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 5.5923,
+        "y": 5.9264,
+        "w": 3.5111,
+        "h": 1.0388,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV8AAABnCAYAAACn60H1AAAFF0lEQVR42u3dQW7bMBBA0XgwB+wpeoUen920SBdpTFnkiLReNgWaifyB0M+qbFaPH79+to9nX88n/sy008d5tM4f6G568kOHm84d6/8zbUDTF8c71fTPwJCmv4drH+PW3PfD/U0dDz5ozT1GrZMhv982oGnGmvtcJ+2LP9s33xs9M+sxA7zgBS94wVsLb2vtCb7gBS94wQveKTMJXvDeEt7W+eDgvSW8FTgHeMELXvCCt/6sOMALXvCCF7z1lyMCvOAFL3jBW38dOMALXvCCF7z1b8AleME7FN7WGQVe8G4E7wycE7zgBS94V4B3hY9/VZ4Vx5AnFHjBC17wgvfQTJx+QoEXvOAFL3gPzyR4wfve8M5fc+AF7yszCd5N4H1puyx4wQveVT/5kOAFL3jBC956nBO84AUveFeD9w5nxbkPvG1QE3jBC17wXt8V4AUveMEL3ss2WdwY3tPIgRe84AXv8eMleMELXvCCtx7nBC94wQve1eF9x7PiU3eyAC94wbsxvMPWHHhfmY0xyIEXvOAFL3in38kCvOAFL3jBO3yTxQB4i+8cC17wghe8m2+yAC94wQte8Fa052uggBe84D2zTsDrrDjAC17wghe89V0JXvCCdxV426Am8O7QFeAFL3jBC96FNlmAF7zgBS94580keMELXvDuDO+uOCd4Z8DbBjWB9/zvF7zgXbMrwQte8IL3O3jvfq+1WV0BXvCCF7zgre8K8IIXvOAFb31Xghe84AUveOtnErw3h/dwN3jB6w24ETMJXvCCF7x3/Gf/1TMBXvCCF7zgrZ8J8IIXvOAFb/1MgBe84AUveC/eZAHegfC2zmjwghe8t8Q5wAte8IIXvPUzCV7wghe8/qvH+pkAL3jBC17w1s8EeMELXvCC97JNFuC9N7xtUBN4wQve3pncCt7W+U3wghe84F28PcELXvCCF84L3MkCvOAF76LwdncDboeuAC94wQte8F65yQK84AUveMFbNpO9TwDwghe84H0neK9uD/CCF7zgBe+ld7IAL3hvCm/nmgOvyxGTNlmAF7zg3Q1ewO3bFeAFL3jBC95L7mQBXvCCF7zgrX7MBC94wQveu8N7RXuCF7zgBS+c67sSvOCdAm/r+0vwjoUXcPt0BXjBC17wgrf+MRO84N0L3nlrDrzgrd1kAV7wghe84C1vD/CCF7zgBW99e4J3M3hb3zB4wQu4tbvyOniPHwu84AUv4N6lK8ALXvCCF7z1XQFe8IIXvOC9eJMFeMELXvCCt6Y9wfv5BOj5Ai94wQvnYZsswAte8L4/vM6K1+oK8IIXvOAF7xKbLMALXvCCV1fxJgvwghe84NVV0R7gBS94waurvj2nwtu5KMELXvAC7m4vGgle8IL3fvA6K76+K8ELXvBOghdwukbdyQK84AUveHUV38kCvOAFL3h1jWtP8IIXvOD1Blx9V4J30LHAC17A6Rp1JwvwgndFeB/dnzIAL3jX7Urwghe88+EFnK6+M1/wghe84NU1tT3AC17wgldXfXuCF7zgBa/r0/VdCV7wghe8XjTquxK84D2PHHgBp+vobIAXvOAFr65lNlmAF7zgBa+umTMJXvCCF7yuT9fPJHjBC17wetGo70rwzoX3NVDAC17AvXtXghe84L0WXsDdsyvBC17wgldX/UyAF7zgBa+u+pkE77vB2wY1gRckrk/PnMld4e1/8oIXvODVvl5Xghe84AWJrvqZAC94wQsSXfUzvwFZUlhSLE16ZAAAAABJRU5ErkJggg=="
+      },
+      "id": 29
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainable Business Building",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.5923,
+        "y": 5.9264,
+        "w": 3.5111,
+        "h": 1.0388,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 30
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 9.4507,
+        "y": 5.9264,
+        "w": 3.5111,
+        "h": 1.0388,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAV8AAABnCAYAAACn60H1AAAFF0lEQVR42u3dQW7bMBBA0XgwB+wpeoUen920SBdpTFnkiLReNgWaifyB0M+qbFaPH79+to9nX88n/sy008d5tM4f6G568kOHm84d6/8zbUDTF8c71fTPwJCmv4drH+PW3PfD/U0dDz5ozT1GrZMhv982oGnGmvtcJ+2LP9s33xs9M+sxA7zgBS94wVsLb2vtCb7gBS94wQveKTMJXvDeEt7W+eDgvSW8FTgHeMELXvCCt/6sOMALXvCCF7z1lyMCvOAFL3jBW38dOMALXvCCF7z1b8AleME7FN7WGQVe8G4E7wycE7zgBS94V4B3hY9/VZ4Vx5AnFHjBC17wgvfQTJx+QoEXvOAFL3gPzyR4wfve8M5fc+AF7yszCd5N4H1puyx4wQveVT/5kOAFL3jBC956nBO84AUveFeD9w5nxbkPvG1QE3jBC17wXt8V4AUveMEL3ss2WdwY3tPIgRe84AXv8eMleMELXvCCtx7nBC94wQve1eF9x7PiU3eyAC94wbsxvMPWHHhfmY0xyIEXvOAFL3in38kCvOAFL3jBO3yTxQB4i+8cC17wghe8m2+yAC94wQte8Fa052uggBe84D2zTsDrrDjAC17wghe89V0JXvCCdxV426Am8O7QFeAFL3jBC96FNlmAF7zgBS94580keMELXvDuDO+uOCd4Z8DbBjWB9/zvF7zgXbMrwQte8IL3O3jvfq+1WV0BXvCCF7zgre8K8IIXvOAFb31Xghe84AUveOtnErw3h/dwN3jB6w24ETMJXvCCF7x3/Gf/1TMBXvCCF7zgrZ8J8IIXvOAFb/1MgBe84AUveC/eZAHegfC2zmjwghe8t8Q5wAte8IIXvPUzCV7wghe8/qvH+pkAL3jBC17w1s8EeMELXvCC97JNFuC9N7xtUBN4wQve3pncCt7W+U3wghe84F28PcELXvCCF84L3MkCvOAF76LwdncDboeuAC94wQte8F65yQK84AUveMFbNpO9TwDwghe84H0neK9uD/CCF7zgBe+ld7IAL3hvCm/nmgOvyxGTNlmAF7zg3Q1ewO3bFeAFL3jBC95L7mQBXvCCF7zgrX7MBC94wQveu8N7RXuCF7zgBS+c67sSvOCdAm/r+0vwjoUXcPt0BXjBC17wgrf+MRO84N0L3nlrDrzgrd1kAV7wghe84C1vD/CCF7zgBW99e4J3M3hb3zB4wQu4tbvyOniPHwu84AUv4N6lK8ALXvCCF7z1XQFe8IIXvOC9eJMFeMELXvCCt6Y9wfv5BOj5Ai94wQvnYZsswAte8L4/vM6K1+oK8IIXvOAF7xKbLMALXvCCV1fxJgvwghe84NVV0R7gBS94waurvj2nwtu5KMELXvAC7m4vGgle8IL3fvA6K76+K8ELXvBOghdwukbdyQK84AUveHUV38kCvOAFL3h1jWtP8IIXvOD1Blx9V4J30LHAC17A6Rp1JwvwgndFeB/dnzIAL3jX7Urwghe88+EFnK6+M1/wghe84NU1tT3AC17wgldXfXuCF7zgBa/r0/VdCV7wghe8XjTquxK84D2PHHgBp+vobIAXvOAFr65lNlmAF7zgBa+umTMJXvCCF7yuT9fPJHjBC17wetGo70rwzoX3NVDAC17AvXtXghe84L0WXsDdsyvBC17wgldX/UyAF7zgBa+u+pkE77vB2wY1gRckrk/PnMld4e1/8oIXvODVvl5Xghe84AWJrvqZAC94wQsSXfUzvwFZUlhSLE16ZAAAAABJRU5ErkJggg=="
+      },
+      "id": 31
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Strategy",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.4507,
+        "y": 5.9264,
+        "w": 3.5111,
+        "h": 1.0388,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 32
+    }
+  ]
+}

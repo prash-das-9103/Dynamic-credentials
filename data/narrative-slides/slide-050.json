@@ -1,0 +1,1163 @@
+{
+  "slideNumber": 50,
+  "title": "Circular Value Creation: Addressing our clients’ key needs through our circular solutions",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Credentials (1)",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.0366,
+        "y": 7.2647,
+        "w": 1.4963,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 3
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "DCN",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.0364,
+        "y": 7.2647,
+        "w": 0.315,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 4
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 0.3462,
+        "y": 7.263,
+        "w": 7.0073,
+        "h": 0.1933,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAABBsAAAAdCAYAAADrVGTKAAAQGklEQVR42u2df4wcR5XHX9Xs/CD2khBYo+z2JqwRMehOOYQD4Q9bA1hIgBaUoIG4Z5bjiE6Hjj84Xbgj/4BIhPgZ+Q9QRACBEbAzY8hADFgo/JHAEEDYl0QkR3RxdIoVdj2WMhBirxNP7+xU8Qddq3ZvdXf1r9m19/uR/Id3pqpevffqvdfdVT1EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5A+L+kKtVpsrl8uPMsZe4f9MSrlKRP9CRF9yHGdvp9Ppa9p2dZ9FjGfUpl6vH+Kc3y6EeOzcuXP7jx079tJmKTLJXMfZXxqUnl2bv+g4zpxfpmq1WrEs6wkhxEK73T4xTp3mras85rZdCNJdtVqdsCzrx0KIVrvdPpLCPzbEJinlqhBif5St0viNbdv7CoXCw+54R5vN5i1xZDVpsx3Ic41nnR+2UkxOG8s3M2d69UhEO8ep062SU3KOualj67jtmWeOHbc+kuLLKUY57FKvT8LW2bjXYJp6wlTWer1+iDG20mw279zq1yDbKS+C/JmI+kKn0zlFRFcHOZX7t7C218YRyLRNtVqtMMbeOxqNbtqMAOvXRZK5ZqGHcVwsjkvPeesUXJacHwwGe7xJzrbtfZzzh2q12lxY8kvqX9VqtcI5PzwajW7q9XpPWJZ10rbtg0GFrCvPA+omnSp+G43G/bjhsHXj1uVWRG12zswrz8Wxk3e8sHbjyj1b6WLrcqpbLjVqtdoc5/w+tTZNc9ilfjFpuh7HOJdE9cRW8PvNkiHMhtv1RgRuwGyEX6qCT01NXUNEleFweApmhJ4BUPR6vUeIqFcsFufyXhPdbncgpexwzl8fcmOiKYT4V5V0ut3umuM4/0FEb7Vt+y2wGOIWdALA9qXT6ZxqNpvXqJuAeecwsDn1BGPsSSHEU9Aq2G5MZNVRqVTav7Cw8CMiotFoZLfb7SP+uzsm28R0W/KklPdyzj/vtrvLcZzvqu1OlUrlOdu27eFweFz9zdu32993pJSSMfbm0Wh0faFQ+LqU8gRj7Hb3+0cdx7nd0359i7NXZnf8o8vLy3a5XP4VY2y2XC4v27a9fzgc9jV39ILk2TAn/7aqJLrztFvfCqZs4f/MRCa/nuv1+qcZY/8WINMv/BdZlmWdZIxd6z16ETTW8vLyF6N0qrNF1JPhoDZRdgibmzu/i7ZmKt0KIT7WbreP2La9jzH2lXPnzu2fnJx8U5DcJnatVqsTMzMzbSI6zjm/WzOPdf92HGeu3++v6HQf1o+BrozGMNGdF8752xcWFtpe/btbDXd7bdtoNG4jovea7ASYnp6+kYieVHqM8oGwWKPb7tjv95csy/pDuVz+pm3bhxhjH3UcZy5EllcOh8MH/cUlEV2jW7deP1B+ZhKvUtpXO/c4tgjz5aD56W7OBPmVIkom71hx84NnrVR08Sgo15nKHvXkJ0yHJv0H6dqNpRfpxLsTJyo36OR118wG3ZnkoiB9ZJE32u32iaDtyqqf1dXVfaVSaUO7pPk3Kp/o9Nvr9Z7Qya5srfvMdB0FxdaYfmoc8+PaM06eSFtLZZVr8o6fXizLqkspV1ZWVv6os0WxWNwTpbss8j3n/G3qc+WHjLFbo+ZkWh+tra19uFgs/ly3HqPibdyYFbXmTeqJtLVEs9k8bJIvk9R+o9HoQKFQuM/wGkSX8+LY7B7/uH791uv1dzLGvu/Xd9wYr1vPWV7nBNT83hosk5y03W82ZLWzYSdj7EOLi4tsNBrt55x/q1arTWme8B0ejUY3LS4uMiHEAcbYvfPz81cY9F1WfRPRfxHRecdx9koplwaDwa5er3e0XC7/SgjxMdW3u+1JyXCDlPIbzWZz55kzZ55z/3bL2bNnraWlpZcR0ZtKpVLn7Nmz1mAw2K2eOKqnkqPRyPaM/57p6ekbHMd5m5RyyXEcSxMgKhHybJiTX19JdOcfdzAY7Oacf7lWq00lkcmv59XV1ab/ia3SDRH9kIiu8ySaHwoh7nA/+3ipVHrAI++GsaampiajdKqzRdiTYYM2WjuEzU3R7XbXiOgo5/xWIqJisThDRP+nnnBzzq9njP1sZWVFBMkQZ00wxsqMsTsHg8Eu5bONRuNOv3/3+/2/huk+qB8DXRmNYaI7L1LKG1944YUdriwfsW374Orq6j1EtFf5ZrVanSCim4UQP9DFh0ql8tzCwoJU/9yE8XgCvzFal91ud00I8WXG2M3e4xEhczw5GAxeDPPTiLVpFK9S2lc7d1NbhPmy4fxM4gYREUXJ1Ol0TiXND57dJ4OAeKTNdaayhxGhQ6P+g3Ttj+Xei35T+wSwQXdRuShk/pnljVar9Ymwc9FSygth+SZh7RKYT3T6Dct5Ov+LayddbI3pp8Z5Ja49TfNElrVUmlyTd/z0XkQ1Go3nieheKeW/e96p4rXFimmOTZvv1dr1+qHJnEzrIyHEixHrMSjexo5Zhms+sJ7IspbIo/ZbW1t7Lsa60eW8ODbbMK5fv61W69eaGBY7xuuuJbO8zvHU/Bvs0Wg0Xp71tQxuNqTDEUJ8gYhoOByeJqLnA75XJqLdRETtdvs3rVZrr8ELqhwhxM/D+na3hzL19FCz7ckhomd8gedud+w1Inpc/b/f7y8R0f8Q0e5utztoNpvXqcLM7ffZKGWYyBM1pyS6m56evlFK+eeVlZWferbmXdvpdPpZy+Qfa3l5uaV0MzU1NUtEb1RjLS8vtxhjk5OTk/+YdP5JbGHQRitH2NwuckzH+SUR7Zyfn7+Cc/4eIrpHSjnrSb5PGchgvCbUVvxutzsgoruI6J/8/m2ge20/JroyGcNUd/516DmOcKu7Bv9QLBYP6MbzcX4wGOxaXFxk6p97Af5R27bfEtNvjPyy0WjcVigUHpZSfvPvOTnd9kqDtWkUr9LaVzf3mLbQ+rLJ/Ex9N4FMifJD3FxnKnvSOG/av6mu07bRxQXTXBQiR+Z5I0NM4rRWvpT6TWwnXWyN6aex8koce5rmiSzrljS5ZkzxU62TqzUXSeu2iJtj0+Z73c4+kzmZ1Ecp4m0maypOPTE9PX1DxrVEprVfFjkvhs3i5MxMY3yO1zkb7OE4ziu3cE66pMjqGMUw6hxot9sdVKvVPZZlnVRb2XTbKpP0XSwWZ6SUfc/TwzUiesp1nL5JHyZb+NT2mqg2WctjqjvO+fVSyrHIFDaW7w4xafSWyB5JbBHRRiuHwdxU0j1jWdZ1O3bseKOU8jXD4fDrxWLxU7t27ZqWUr5WBaggGVKsCRJCPM0Yu5ZzvkMzjzDda/uZn5+/olKpvDqGrrRjmOou4CnMk+5NvrVGo6HusB8pl8tvJ6LDpi/ace2y6vr2iRh+E+mXtVptjojuHAwGuzqdTr9er5/nnD9Ur9f/mTH2Pd0uB8bYnkqlsoOIXkqwNh9LE5hT2Hf9CZWJLcJ82SD2UBzfjesfGce+sO8ar7uEcT6y/5i6Ttwmqxg6jryRlhhxWitfSv2a9nPCJLbG9NPEeSWrPJFXbZck1ySpJZLmsl6v94hlWb1isTjnHidY7z9Njk2bD+LMybA+2pkkvmS1puLWE7VarZ9FLZFj7Zdq3cSwWZpYnCrG53GdE2SP4XB4fCvmpO18s8E4aZO73Uu9ob1Wqz2Y9m2dw+HwdLlcnvIU9BNE9Pokd940yeV3Qoh3ec7uPLEZ8pjozg1CY5EpbCzPHeI9ujOd47JFUvsZzG3dJvV6/WeFQuEdjLGpCxcu/LlUKv2kWCx+kDH2tOdcV6AMSdcE5/x6IvqT2oZoonv37rS2H7fwiKMr7Ri2bZdMdBfw5OkfGGOPqzvIMzMznzh48OC0lPLdUsq7Y3bnENEzSX3AtPg9ffr0HZZlvY5z/qPRaGT79eEWjX9xnwJdtHXdsqyTQog73PcJZB6/Utp3HVNbBPlyzNhjFDfi+Ede+cFU9izivGn/Seaah35MY2jeeWMr1C5Z6TdNP97YmsJPk9gmVZ7Ia+3GzTVp8kgGuSyrtZVJPjCdk2F9tDPJPMYY09frCc45y7KWyKn2S6WfPG2WVYzP6zpHZ4+JiYkDWzUnXWqM7dco3LNoZ/J4+3q/3z9DRFJt63Jf6DKd9o6Te2ZpUvUzMzPzObr4bJx2C3XW8pjqrtfrPcIYe9Xk5OT7/O2ylsk/lmVZdaUb/zY7V44/GZ4B1urUwBaURZuouWmKlvsZY+8mot+6W+D+nzF2C7nvDAiTIe6aYIz9tzrvSkSf0Z37NNG9rp84ugobI47uvLLUarU5xthH1DY9N/A/wDm/jTF21crKyh9NfdP7cq2kPhCWxBljc2p+urloEthdnPPvKjurc4tqK2DWazOtfQOScKgtwnzZdH5x4kYc/0ipX6NjMqay+2VxnwpebaDDRP2bzDWsTZi8SXNRWh2msVOSdmlrFwObhMmw/llc2+pia1IdJ2mXRZ7IMjamyTV5x0/btvc1Go3zSp/udvBndd9NmmNT5oOLfNQ0/kbVRynibZqYFStWqHpCCPF8VrVEHrVfVusmgc2ibOiNYWlifG7XOSH22IychJsNaeh0OqeEEB8oFArHFxYWJOf8QSHEO7L4DVL1MiXO+dey7LvX6/2eiB5SL4whogtE9Asi2q3OShcKheO2bR/MUx5T3fnHrVQqzwgh/rPdbp/IWiZ/f0S0h9zza91ud215efmDnPMvLSwsyHK5/JQQohY1VphOw2yRxH5J56a7+CSiN6jCRQjxNBHdqM5xhckQd00wxh656qqrXpydnb1ARN/Rbbkz0b2unzi6Chsjju68slQqlWeI6KveOUkp7+ecf1YI8e2Qd7tseKETEX11dXX1XceOHXspqQ+ErUXHcfaq+c3Ozg6FEK2lpaWXMcZedeWVV37S36bZbB4WQhxQdp6dnR0S0Uid0cx6baa1b1ABEmaLMF82nV/cuGHoH4njcVg8SrLuvDefCoVCW60PKeWzBjo07j/uXMPahMkbJ4Z6c1FaHZrYqV6vH/K8RC2VfdPWLmH6DZPB/1lc2+pia1IdJ2mXRZ7IMjamyTV5x892u/0bIvq46r9cLv+v4zh13XeT5tik+SDIR03ib1R9lCLeJopZBmME1hO9Xu/BrGqJPGq/rNZNHJtF2VATwxLFn7yvc4LsceTIkV7W1zLbFQYVALC18f8k0Wb3My78P2EFT9g8+25FW8A/QJhvlEql97darUPQBtjsWLIZsSrvfI/4e+nbEIBxwaECAMBWxN3++CgKGdgC/gHiUCqV9kkpH4YmwFaIJZdjrEL8BQCYMgEVAAC2Euqt30RUchwHZ95gC/gHiEWr1fo+tAA2O5ZcjrEK8RcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwFbkb5T8mel6a6AOAAAAAElFTkSuQmCC"
+      },
+      "id": 5
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 7.2165,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "B4B4B4",
+          "width": 0.75
+        }
+      },
+      "id": 6
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 0.9549,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 1.5
+        }
+      },
+      "id": 7
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "How can we seize growing circular materials market? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "(e.g. recycled content-rich packaging, plastics, metals)",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How can we set-up new circular business models ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "and monetize them?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 4.5171,
+        "y": 2.5532,
+        "w": 2.6937,
+        "h": 2.2168,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 28
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "How can we amplify",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": " ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "We have been working on circular pilots for years, yet we don’t succeed to scale up ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How can we capture more value pools",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "We have 5% circular revenues, less than competitors",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 1.6289,
+        "y": 2.5532,
+        "w": 2.6937,
+        "h": 2.4525,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 29
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "How can we build resource resilience ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "in a world with new resource constrains (e.g. tariffs, geopolitics)?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How can we maximize resource efficiency ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "and ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "monetization",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": " of all ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "waste",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 10.2733,
+        "y": 2.5532,
+        "w": 2.6671,
+        "h": 2.2168,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 30
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "How can we maximize ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "our assets lifecycle value?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How can we capture value ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "throughout our products’ lifetimes, beyond current services scope. ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "Which partnerships",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "?",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "charSpacing": 0,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 18,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 7.3952,
+        "y": 2.5532,
+        "w": 2.6937,
+        "h": 1.9812,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 31
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Value Creation: ",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        },
+        {
+          "text": "Addressing our clients’ key needs through our circular solutions",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        },
+        {
+          "text": " ",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 0,
+        "w": 12.6007,
+        "h": 0.9588,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "bottom",
+        "isTextBox": true
+      },
+      "id": 32
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Client needs",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 2.5532,
+        "w": 1.1417,
+        "h": 2.8099,
+        "margin": [
+          2.84,
+          14.19,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "isTextBox": true
+      },
+      "id": 33
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 1.5028,
+        "y": 2.5532,
+        "w": 0,
+        "h": 2.8099,
+        "line": {
+          "color": "000000",
+          "width": 6
+        }
+      },
+      "id": 34
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Products",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 5.6341,
+        "w": 1.1417,
+        "h": 0.8877,
+        "margin": [
+          2.84,
+          14.19,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "isTextBox": true
+      },
+      "id": 35
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 1.5028,
+        "y": 5.6341,
+        "w": 0,
+        "h": 0.8877,
+        "line": {
+          "color": "000000",
+          "width": 6
+        }
+      },
+      "id": 36
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 1.639,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAABXCAYAAAAecBAtAAADmklEQVR42u3dYW7bMAwGUIYn3Cl2hR1f+1MsHbbEpFQ3SvIKFEgh+3NbNw9OydCXH79+jrj1cXvlY22097uMg40Oj3ljw9Ix+/v+f21MHPPTvveOdzd3TB7z4HwtnOvL7PlaONeXE87X0b79Y66e64gYI8YYHw/Hn8/PX996PLtW2S6BAQxgAKOzXQIDGMAARicjgQEMYACjk5HAAAYwgNFZS2AAAxjA6KwlMIABDGB01hIYwADGXmBcl/YDo1ByBQYwgPHdYKyicPZVSgIDGMAARicjgQEMYACjk5HAAAYwgNHJSGAAAxjA6GQkMIABDGB0MhIYwAAGMJodocAABjCA0e0IBQYwgAGMckcoMIABDGBMd4QC4z4YAQxgvDcY5Xe5AmNMHhMYwPi6J/QOYJTe5QoMYADj8WDsdJWSwAAGMIAxN4QHGMAABjBmS67AAAYwgFEuuQIDGMAARrnkCgxgAAMY5ZIrMIABDGCUh/AAAxjAAEZ5CA8wgAEMYEwM4QEGMIABjPIQHmAAAxjPCsb1W/zOITzAAAYwnhaMR1ylJDCAAQxgzHeEAgMYwABGVDtCgQEMYAAjqh2hwAAGMIAR1Y5QYADjLDACGK9Ymk1gzK0BowDGAMargfH3/zSA8c8fETCAAYx2yRUYwAAGMMolV2AAAxjAKJdcgQEMYACjXHIFBjCA8cxgXH/Ms4bwAAMYwHgpMM6+SklgAAMYwGgN4QEGMIABjOYQHmAAAxjAaA3hAQYwgAGMmSE8wAAGMIAR1Y5QYAADGMCIakcoMIABDGDETEcoMIABDGBEtSMUGMAABjCi2hEKDGAA4y3AuP6qvnAIDzCAAQwZR2sJDGAAQ0a75AoMYABDRnUtgQEMYMjorCUwgAEMGZMlV2AAAxgyyiVXYAADGDLKQ3iAAQxgyGgP4QEGMIABjPIQHmAAAxjA6A7hAQYwgKG9vNwRCgxgAEPG0m0ZgQEMYMiI6m0ZgQEMYMiI7hAeYAADGDLWSq7AAAYwZJRLrsAABjBklEuuwAAGMGSUS67AAAYwZJRLrsAABjBklEuuwABGLGQC482G8AADGOvnCxhvM4QHGMAAhoza+1ESGMAAhoz+yxNgAAMYMsovT4ABDGDIWLktIzCAsQMY915Te7I/NiOBAYwdwdjhRscyDm7LCAxgAENGZS2BAQxgyJjqCAUGMIAho1xy3Q6MAAYwPFG3HcKzJRgDGMDwRN014zdGzo4yc4kZYAAAAABJRU5ErkJggg=="
+      },
+      "id": 37
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Full Potential",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.639,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 38
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 4.5171,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAABXCAYAAAAecBAtAAADmklEQVR42u3dYW7bMAwGUIYn3Cl2hR1f+1MsHbbEpFQ3SvIKFEgh+3NbNw9OydCXH79+jrj1cXvlY22097uMg40Oj3ljw9Ix+/v+f21MHPPTvveOdzd3TB7z4HwtnOvL7PlaONeXE87X0b79Y66e64gYI8YYHw/Hn8/PX996PLtW2S6BAQxgAKOzXQIDGMAARicjgQEMYACjk5HAAAYwgNFZS2AAAxjA6KwlMIABDGB01hIYwADGXmBcl/YDo1ByBQYwgPHdYKyicPZVSgIDGMAARicjgQEMYACjk5HAAAYwgNHJSGAAAxjA6GQkMIABDGB0MhIYwAAGMJodocAABjCA0e0IBQYwgAGMckcoMIABDGBMd4QC4z4YAQxgvDcY5Xe5AmNMHhMYwPi6J/QOYJTe5QoMYADj8WDsdJWSwAAGMIAxN4QHGMAABjBmS67AAAYwgFEuuQIDGMAARrnkCgxgAAMY5ZIrMIABDGCUh/AAAxjAAEZ5CA8wgAEMYEwM4QEGMIABjPIQHmAAAxjPCsb1W/zOITzAAAYwnhaMR1ylJDCAAQxgzHeEAgMYwABGVDtCgQEMYAAjqh2hwAAGMIAR1Y5QYADjLDACGK9Ymk1gzK0BowDGAMargfH3/zSA8c8fETCAAYx2yRUYwAAGMMolV2AAAxjAKJdcgQEMYACjXHIFBjCA8cxgXH/Ms4bwAAMYwHgpMM6+SklgAAMYwGgN4QEGMIABjOYQHmAAAxjAaA3hAQYwgAGMmSE8wAAGMIAR1Y5QYAADGMCIakcoMIABDGDETEcoMIABDGBEtSMUGMAABjCi2hEKDGAA4y3AuP6qvnAIDzCAAQwZR2sJDGAAQ0a75AoMYABDRnUtgQEMYMjorCUwgAEMGZMlV2AAAxgyyiVXYAADGDLKQ3iAAQxgyGgP4QEGMIABjPIQHmAAAxjA6A7hAQYwgKG9vNwRCgxgAEPG0m0ZgQEMYMiI6m0ZgQEMYMiI7hAeYAADGDLWSq7AAAYwZJRLrsAABjBklEuuwAAGMGSUS67AAAYwZJRLrsAABjBklEuuwABGLGQC482G8AADGOvnCxhvM4QHGMAAhoza+1ESGMAAhoz+yxNgAAMYMsovT4ABDGDIWLktIzCAsQMY915Te7I/NiOBAYwdwdjhRscyDm7LCAxgAENGZS2BAQxgyJjqCAUGMIAho1xy3Q6MAAYwPFG3HcKzJRgDGMDwRN014zdGzo4yc4kZYAAAAABJRU5ErkJggg=="
+      },
+      "id": 39
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Offer Strategy",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.5171,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 40
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 7.3952,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAABXCAYAAAAecBAtAAADmklEQVR42u3dYW7bMAwGUIYn3Cl2hR1f+1MsHbbEpFQ3SvIKFEgh+3NbNw9OydCXH79+jrj1cXvlY22097uMg40Oj3ljw9Ix+/v+f21MHPPTvveOdzd3TB7z4HwtnOvL7PlaONeXE87X0b79Y66e64gYI8YYHw/Hn8/PX996PLtW2S6BAQxgAKOzXQIDGMAARicjgQEMYACjk5HAAAYwgNFZS2AAAxjA6KwlMIABDGB01hIYwADGXmBcl/YDo1ByBQYwgPHdYKyicPZVSgIDGMAARicjgQEMYACjk5HAAAYwgNHJSGAAAxjA6GQkMIABDGB0MhIYwAAGMJodocAABjCA0e0IBQYwgAGMckcoMIABDGBMd4QC4z4YAQxgvDcY5Xe5AmNMHhMYwPi6J/QOYJTe5QoMYADj8WDsdJWSwAAGMIAxN4QHGMAABjBmS67AAAYwgFEuuQIDGMAARrnkCgxgAAMY5ZIrMIABDGCUh/AAAxjAAEZ5CA8wgAEMYEwM4QEGMIABjPIQHmAAAxjPCsb1W/zOITzAAAYwnhaMR1ylJDCAAQxgzHeEAgMYwABGVDtCgQEMYAAjqh2hwAAGMIAR1Y5QYADjLDACGK9Ymk1gzK0BowDGAMargfH3/zSA8c8fETCAAYx2yRUYwAAGMMolV2AAAxjAKJdcgQEMYACjXHIFBjCA8cxgXH/Ms4bwAAMYwHgpMM6+SklgAAMYwGgN4QEGMIABjOYQHmAAAxjAaA3hAQYwgAGMmSE8wAAGMIAR1Y5QYAADGMCIakcoMIABDGDETEcoMIABDGBEtSMUGMAABjCi2hEKDGAA4y3AuP6qvnAIDzCAAQwZR2sJDGAAQ0a75AoMYABDRnUtgQEMYMjorCUwgAEMGZMlV2AAAxgyyiVXYAADGDLKQ3iAAQxgyGgP4QEGMIABjPIQHmAAAxjA6A7hAQYwgKG9vNwRCgxgAEPG0m0ZgQEMYMiI6m0ZgQEMYMiI7hAeYAADGDLWSq7AAAYwZJRLrsAABjBklEuuwAAGMGSUS67AAAYwZJRLrsAABjBklEuuwABGLGQC482G8AADGOvnCxhvM4QHGMAAhoza+1ESGMAAhoz+yxNgAAMYMsovT4ABDGDIWLktIzCAsQMY915Te7I/NiOBAYwdwdjhRscyDm7LCAxgAENGZS2BAQxgyJjqCAUGMIAho1xy3Q6MAAYwPFG3HcKzJRgDGMDwRN014zdGzo4yc4kZYAAAAABJRU5ErkJggg=="
+      },
+      "id": 41
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Services Boost",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.3952,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 42
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 10.2733,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQ0AAABXCAYAAAAecBAtAAADmklEQVR42u3dYW7bMAwGUIYn3Cl2hR1f+1MsHbbEpFQ3SvIKFEgh+3NbNw9OydCXH79+jrj1cXvlY22097uMg40Oj3ljw9Ix+/v+f21MHPPTvveOdzd3TB7z4HwtnOvL7PlaONeXE87X0b79Y66e64gYI8YYHw/Hn8/PX996PLtW2S6BAQxgAKOzXQIDGMAARicjgQEMYACjk5HAAAYwgNFZS2AAAxjA6KwlMIABDGB01hIYwADGXmBcl/YDo1ByBQYwgPHdYKyicPZVSgIDGMAARicjgQEMYACjk5HAAAYwgNHJSGAAAxjA6GQkMIABDGB0MhIYwAAGMJodocAABjCA0e0IBQYwgAGMckcoMIABDGBMd4QC4z4YAQxgvDcY5Xe5AmNMHhMYwPi6J/QOYJTe5QoMYADj8WDsdJWSwAAGMIAxN4QHGMAABjBmS67AAAYwgFEuuQIDGMAARrnkCgxgAAMY5ZIrMIABDGCUh/AAAxjAAEZ5CA8wgAEMYEwM4QEGMIABjPIQHmAAAxjPCsb1W/zOITzAAAYwnhaMR1ylJDCAAQxgzHeEAgMYwABGVDtCgQEMYAAjqh2hwAAGMIAR1Y5QYADjLDACGK9Ymk1gzK0BowDGAMargfH3/zSA8c8fETCAAYx2yRUYwAAGMMolV2AAAxjAKJdcgQEMYACjXHIFBjCA8cxgXH/Ms4bwAAMYwHgpMM6+SklgAAMYwGgN4QEGMIABjOYQHmAAAxjAaA3hAQYwgAGMmSE8wAAGMIAR1Y5QYAADGMCIakcoMIABDGDETEcoMIABDGBEtSMUGMAABjCi2hEKDGAA4y3AuP6qvnAIDzCAAQwZR2sJDGAAQ0a75AoMYABDRnUtgQEMYMjorCUwgAEMGZMlV2AAAxgyyiVXYAADGDLKQ3iAAQxgyGgP4QEGMIABjPIQHmAAAxjA6A7hAQYwgKG9vNwRCgxgAEPG0m0ZgQEMYMiI6m0ZgQEMYMiI7hAeYAADGDLWSq7AAAYwZJRLrsAABjBklEuuwAAGMGSUS67AAAYwZJRLrsAABjBklEuuwABGLGQC482G8AADGOvnCxhvM4QHGMAAhoza+1ESGMAAhoz+yxNgAAMYMsovT4ABDGDIWLktIzCAsQMY915Te7I/NiOBAYwdwdjhRscyDm7LCAxgAENGZS2BAQxgyJjqCAUGMIAho1xy3Q6MAAYwPFG3HcKzJRgDGMDwRN014zdGzo4yc4kZYAAAAABJRU5ErkJggg=="
+      },
+      "id": 43
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Resources Strategy",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.2733,
+        "y": 5.6517,
+        "w": 2.6937,
+        "h": 0.8701,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 44
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": " Focus and maximize value of current   circular approach",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.639,
+        "y": 1.413,
+        "w": 2.6937,
+        "h": 0.8451,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 45
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": " Drive value from circular offering/ new business building",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.5171,
+        "y": 1.413,
+        "w": 2.6937,
+        "h": 0.8451,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 46
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Drive value from installed-base circular services",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.3952,
+        "y": 1.413,
+        "w": 2.6937,
+        "h": 0.8451,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 47
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": " Secure and future-proof resource strategy",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.2733,
+        "y": 1.413,
+        "w": 2.6937,
+        "h": 0.8451,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 48
+    }
+  ]
+}

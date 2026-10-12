@@ -1,0 +1,3071 @@
+{
+  "slideNumber": 45,
+  "title": "We offer four Sustainability solutions, and have developed the frameworks for each solution",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 6.8403,
+        "y": 4.4731,
+        "w": 6.4931,
+        "h": 3.0269,
+        "fill": {
+          "color": "E3DAD4",
+          "transparency": 25
+        }
+      },
+      "id": 15
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 11.8982,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAAA8CAYAAABFAQnGAAAB+klEQVR42u3dXXKDMAxGUeFhgV1Ft9DdS30oBEMw/02Iv5snZzyQMZyJiCU7zdfPd1j/GlrZ+7BSf7PSv+34rmP22HJ/s9K/73gzi+3jaHaO02LcaJb6V8bR7BynzYzT3S0iLCbtBAQg9O0EBCD07QQEIDyHCSBIQ3B3a+Ug7ByHCoThmwEI8hCyZwYgqEPowgQQaoIQ2Q2OQ2ECCPIQJs8MQFCG8DfpBAQgPIUJIEhDGGEAgjaER24CCECICEtAAEIWJoAAhEvqGYBQC4ST9QxAqAnCiXoGINQG4WA9AxBqhDCECSDIQ4iIrrgFCLeG4BeiWOprly7QtaVmQLgzhC5MAAEIeZgAQtUQtp4rAQEIs/UMQNCFMAoTQDhyI+uB8AgTQACCu/cpbCCoQ5hMRwNBGUKGAQjqEIZJJyDIQ1hIYQNBDUIhhQ0ERQgzKWwgqEKYpLCB8CoIr05A7VySDwR1CKvzDEDQgZBt4wOET4LwX6gSEIBQeGYAgiqE8W5vQJCBUDpX+7kQYuGzgXB4EQ0QgODu1p6BcOmNBMLbz5WAAIRT9QxAqA/CoXoGINQJYXc9AxDqhTBeUQWEUxDunne4rJ4BCPVDKGwXDARFCNmSfCC8G8IdUCUgAGEy6QQEdQjdrwkg1ADBr/6LASDoQpjZVR4IqhAiwn4Bf3GlH4GdYW8AAAAASUVORK5CYII="
+      },
+      "id": 16
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Invest in climate adaptation technologies",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.8982,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 17
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 10.5337,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAAA8CAYAAABFAQnGAAAB+klEQVR42u3dXXKDMAxGUeFhgV1Ft9DdS30oBEMw/02Iv5snZzyQMZyJiCU7zdfPd1j/GlrZ+7BSf7PSv+34rmP22HJ/s9K/73gzi+3jaHaO02LcaJb6V8bR7BynzYzT3S0iLCbtBAQg9O0EBCD07QQEIDyHCSBIQ3B3a+Ug7ByHCoThmwEI8hCyZwYgqEPowgQQaoIQ2Q2OQ2ECCPIQJs8MQFCG8DfpBAQgPIUJIEhDGGEAgjaER24CCECICEtAAEIWJoAAhEvqGYBQC4ST9QxAqAnCiXoGINQG4WA9AxBqhDCECSDIQ4iIrrgFCLeG4BeiWOprly7QtaVmQLgzhC5MAAEIeZgAQtUQtp4rAQEIs/UMQNCFMAoTQDhyI+uB8AgTQACCu/cpbCCoQ5hMRwNBGUKGAQjqEIZJJyDIQ1hIYQNBDUIhhQ0ERQgzKWwgqEKYpLCB8CoIr05A7VySDwR1CKvzDEDQgZBt4wOET4LwX6gSEIBQeGYAgiqE8W5vQJCBUDpX+7kQYuGzgXB4EQ0QgODu1p6BcOmNBMLbz5WAAIRT9QxAqA/CoXoGINQJYXc9AxDqhTBeUQWEUxDunne4rJ4BCPVDKGwXDARFCNmSfCC8G8IdUCUgAGEy6QQEdQjdrwkg1ADBr/6LASDoQpjZVR4IqhAiwn4Bf3GlH4GdYW8AAAAASUVORK5CYII="
+      },
+      "id": 18
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Secure & future-proof resource strategy",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.5337,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 19
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 9.1693,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAAA8CAYAAABFAQnGAAAB+klEQVR42u3dXXKDMAxGUeFhgV1Ft9DdS30oBEMw/02Iv5snZzyQMZyJiCU7zdfPd1j/GlrZ+7BSf7PSv+34rmP22HJ/s9K/73gzi+3jaHaO02LcaJb6V8bR7BynzYzT3S0iLCbtBAQg9O0EBCD07QQEIDyHCSBIQ3B3a+Ug7ByHCoThmwEI8hCyZwYgqEPowgQQaoIQ2Q2OQ2ECCPIQJs8MQFCG8DfpBAQgPIUJIEhDGGEAgjaER24CCECICEtAAEIWJoAAhEvqGYBQC4ST9QxAqAnCiXoGINQG4WA9AxBqhDCECSDIQ4iIrrgFCLeG4BeiWOprly7QtaVmQLgzhC5MAAEIeZgAQtUQtp4rAQEIs/UMQNCFMAoTQDhyI+uB8AgTQACCu/cpbCCoQ5hMRwNBGUKGAQjqEIZJJyDIQ1hIYQNBDUIhhQ0ERQgzKWwgqEKYpLCB8CoIr05A7VySDwR1CKvzDEDQgZBt4wOET4LwX6gSEIBQeGYAgiqE8W5vQJCBUDpX+7kQYuGzgXB4EQ0QgODu1p6BcOmNBMLbz5WAAIRT9QxAqA/CoXoGINQJYXc9AxDqhTBeUQWEUxDunne4rJ4BCPVDKGwXDARFCNmSfCC8G8IdUCUgAGEy6QQEdQjdrwkg1ADBr/6LASDoQpjZVR4IqhAiwn4Bf3GlH4GdYW8AAAAASUVORK5CYII="
+      },
+      "id": 20
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Build resilient supply chain",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.1693,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 21
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 7.8049,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIMAAAA8CAYAAABFAQnGAAAB+klEQVR42u3dXXKDMAxGUeFhgV1Ft9DdS30oBEMw/02Iv5snZzyQMZyJiCU7zdfPd1j/GlrZ+7BSf7PSv+34rmP22HJ/s9K/73gzi+3jaHaO02LcaJb6V8bR7BynzYzT3S0iLCbtBAQg9O0EBCD07QQEIDyHCSBIQ3B3a+Ug7ByHCoThmwEI8hCyZwYgqEPowgQQaoIQ2Q2OQ2ECCPIQJs8MQFCG8DfpBAQgPIUJIEhDGGEAgjaER24CCECICEtAAEIWJoAAhEvqGYBQC4ST9QxAqAnCiXoGINQG4WA9AxBqhDCECSDIQ4iIrrgFCLeG4BeiWOprly7QtaVmQLgzhC5MAAEIeZgAQtUQtp4rAQEIs/UMQNCFMAoTQDhyI+uB8AgTQACCu/cpbCCoQ5hMRwNBGUKGAQjqEIZJJyDIQ1hIYQNBDUIhhQ0ERQgzKWwgqEKYpLCB8CoIr05A7VySDwR1CKvzDEDQgZBt4wOET4LwX6gSEIBQeGYAgiqE8W5vQJCBUDpX+7kQYuGzgXB4EQ0QgODu1p6BcOmNBMLbz5WAAIRT9QxAqA/CoXoGINQJYXc9AxDqhTBeUQWEUxDunne4rJ4BCPVDKGwXDARFCNmSfCC8G8IdUCUgAGEy6QQEdQjdrwkg1ADBr/6LASDoQpjZVR4IqhAiwn4Bf3GlH4GdYW8AAAAASUVORK5CYII="
+      },
+      "id": 22
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Protect & grow asset values",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 4.9052,
+        "w": 1.3102,
+        "h": 0.6018,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 23
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 0,
+        "y": 1.1736,
+        "w": 6.4931,
+        "h": 3.0269,
+        "fill": {
+          "color": "E3DAD4",
+          "transparency": 25
+        }
+      },
+      "id": 24
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 6.8403,
+        "y": 1.1736,
+        "w": 6.4931,
+        "h": 3.0269,
+        "fill": {
+          "color": "E3DAD4",
+          "transparency": 25
+        }
+      },
+      "id": 25
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "We offer four Sustainability solutions, and have developed the frameworks for each solution",
+          "options": {
+            "fontSize": 32,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.38,
+        "y": 0.0467,
+        "w": 12.6,
+        "h": 1.2,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "middle",
+        "isTextBox": true
+      },
+      "id": 26
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Transition Strategy",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 1.2153,
+        "w": 4.29,
+        "h": 0.3488,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 27
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Value Creation",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9653,
+        "y": 1.2153,
+        "w": 4.29,
+        "h": 0.3488,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 28
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Resilience & Adaptation",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9653,
+        "y": 4.5147,
+        "w": 4.29,
+        "h": 0.3488,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 29
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Risk Exposure & Opportunity Heat Map",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 5.5719,
+        "w": 5.4113,
+        "h": 0.3337,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 30
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Key products",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 4.9052,
+        "w": 0.7168,
+        "h": 0.6018,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 31
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Starting Point",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 1.6167,
+        "w": 0.7168,
+        "h": 0.3808,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 32
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Go-to-market",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 2.5759,
+        "w": 0.7168,
+        "h": 0.4536,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 33
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embed across Bain",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 3.124,
+        "w": 0.7168,
+        "h": 0.9852,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 34
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Industry-specific",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9519,
+        "y": 2.5759,
+        "w": 0.8425,
+        "h": 0.4536,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 35
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Strategy",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9519,
+        "y": 3.124,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 36
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embedded in strategy",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.8672,
+        "y": 2.5759,
+        "w": 0.8425,
+        "h": 0.4536,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 37
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Industry-specific",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.7826,
+        "y": 2.5759,
+        "w": 0.8425,
+        "h": 0.4536,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 38
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Industry-specific",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.6132,
+        "y": 2.5759,
+        "w": 0.8425,
+        "h": 0.4536,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 39
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9519,
+        "y": 3.3808,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 40
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 0.9519,
+        "y": 2.1006,
+        "w": 1.7579,
+        "h": 0.4,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAYAAACIJ6oVAAABpklEQVR42u3bUYqDMBSFYXNWOKuYLczuc+dhCqM22kar5pi/IDQaLkE+LseI6evnO4bxbzp6jGNYm5Pmc+Y1SnWKNWYXi2tZn/NUZ3Et43Gs1CjPeec+pcX1x4s6/3/S6vrfuU9/J1LU3YOlOTE6cs6T8Zbze2oIuMB1hDvFC1zgngh36aipIeAC9wq4n+jEAi5wHeHmnEuZF7jAbR9uIfMCF7jnwt2TfQVc4F4Jd08nFnCB6wj30XmBC1w/uC9fUgAXuC1nXwEXuC3A3dKJBVzgOsItvqQALnB9dhuAC9yG4NZkXwEXuC3BrenEqoM7ABe4zUQI1cEN4AK3pd0G4ALXdbcBuMA1fWjTVrjFycAF7omdWFvhpjCGO5jDHerhfuKzmyZ3G7qDG+Zwox7uER9AXr7bAFzgumZfARe4rp1YwO0L7p2yr4DbF9w7ZV8BF7iu2VfABa5rJxZwgesaIQTc/uDe5aFNwO0P7l2yr4ALXNcIoePgDsAF7qHndRzcAG7jcN2zr4DbL1z3FxYCLnBdH9oEXOC6Zl8BF7iu2VfABa5rJ/4FqljiKcgm/+kAAAAASUVORK5CYII="
+      },
+      "id": 41
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embed in Long-term Strategy",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9519,
+        "y": 2.1006,
+        "w": 1.7579,
+        "h": 0.4,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 42
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 2.7826,
+        "y": 2.1006,
+        "w": 1.7579,
+        "h": 0.4,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAYAAACIJ6oVAAABpklEQVR42u3bUYqDMBSFYXNWOKuYLczuc+dhCqM22kar5pi/IDQaLkE+LseI6evnO4bxbzp6jGNYm5Pmc+Y1SnWKNWYXi2tZn/NUZ3Et43Gs1CjPeec+pcX1x4s6/3/S6vrfuU9/J1LU3YOlOTE6cs6T8Zbze2oIuMB1hDvFC1zgngh36aipIeAC9wq4n+jEAi5wHeHmnEuZF7jAbR9uIfMCF7jnwt2TfQVc4F4Jd08nFnCB6wj30XmBC1w/uC9fUgAXuC1nXwEXuC3A3dKJBVzgOsItvqQALnB9dhuAC9yG4NZkXwEXuC3BrenEqoM7ABe4zUQI1cEN4AK3pd0G4ALXdbcBuMA1fWjTVrjFycAF7omdWFvhpjCGO5jDHerhfuKzmyZ3G7qDG+Zwox7uER9AXr7bAFzgumZfARe4rp1YwO0L7p2yr4DbF9w7ZV8BF7iu2VfABa5rJxZwgesaIQTc/uDe5aFNwO0P7l2yr4ALXNcIoePgDsAF7qHndRzcAG7jcN2zr4DbL1z3FxYCLnBdH9oEXOC6Zl8BF7iu2VfABa5rJ/4FqljiKcgm/+kAAAAASUVORK5CYII="
+      },
+      "id": 43
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainable Business Building",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.7826,
+        "y": 2.1006,
+        "w": 1.7579,
+        "h": 0.4,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 44
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 4.6132,
+        "y": 2.1006,
+        "w": 1.7579,
+        "h": 0.4,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAYAAACIJ6oVAAABpklEQVR42u3bUYqDMBSFYXNWOKuYLczuc+dhCqM22kar5pi/IDQaLkE+LseI6evnO4bxbzp6jGNYm5Pmc+Y1SnWKNWYXi2tZn/NUZ3Et43Gs1CjPeec+pcX1x4s6/3/S6vrfuU9/J1LU3YOlOTE6cs6T8Zbze2oIuMB1hDvFC1zgngh36aipIeAC9wq4n+jEAi5wHeHmnEuZF7jAbR9uIfMCF7jnwt2TfQVc4F4Jd08nFnCB6wj30XmBC1w/uC9fUgAXuC1nXwEXuC3A3dKJBVzgOsItvqQALnB9dhuAC9yG4NZkXwEXuC3BrenEqoM7ABe4zUQI1cEN4AK3pd0G4ALXdbcBuMA1fWjTVrjFycAF7omdWFvhpjCGO5jDHerhfuKzmyZ3G7qDG+Zwox7uER9AXr7bAFzgumZfARe4rp1YwO0L7p2yr4DbF9w7ZV8BF7iu2VfABa5rJxZwgesaIQTc/uDe5aFNwO0P7l2yr4ALXNcIoePgDsAF7qHndRzcAG7jcN2zr4DbL1z3FxYCLnBdH9oEXOC6Zl8BF7iu2VfABa5rJ/4FqljiKcgm/+kAAAAASUVORK5CYII="
+      },
+      "id": 45
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Strategy",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.6132,
+        "y": 2.1006,
+        "w": 1.7579,
+        "h": 0.4,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 46
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Future-back point of view",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9519,
+        "y": 1.6143,
+        "w": 5.4192,
+        "h": 0.3832,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 47
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Key Products",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 2.1006,
+        "w": 0.7168,
+        "h": 0.3808,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 48
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Client needs",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 1.6167,
+        "w": 0.7168,
+        "h": 0.3832,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 49
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Our Products",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 2.0944,
+        "w": 0.7168,
+        "h": 0.8523,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 50
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embed across Bain",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 3.0412,
+        "w": 0.7168,
+        "h": 1.0681,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 51
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 9.6318,
+        "y": 2.1006,
+        "w": 1.7575,
+        "h": 0.4,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAYAAACIJ6oVAAABoklEQVR42u3bYYrDIBCGYf1OuKfoFfb2mf3Rsk3SaDW04BffQqCmMog8DOMkzT+/t0jrz3b0GEeqzcn7OfsYR3EOY+x+PFxLfc5LnOJa1uOoxDie07JPubj+eBPn+SVX19+yT/cbOfr2oDQnVteyLJvxJ++3zBVwgesId4sXuMA1gvvEC1zgmsG94wUucAeAW7pqMQRc4I4A90wmFnCB6wh3V/MCF7g+cFc1L3CB6wX3kXmBC9wx4PYe2gRc4I4CtzcTC7jAdYRbfEgBXOB6dBuAC9zB4LbWvgIucEeD25qJBVzgOsL9xwtc4Fp2G9rhJuACd7RuQyvcAC5whzq0CbjAdc3EAi5wfbsNZzY7mcNN5nBTP9wzL3tbdBt64eYwhxvmcKMf7if+djNa7SvgAtc1Ewu4wHUtIQTcueBeqfYVcOeC65qJK+82ABe4foc2ARe4rplYwAWub7cBuNPBvcqhTcCdD+5Val8BF7iuJYSAC1zXEkLfgZuAawDXvfbVd+AGcA3guj+wEHCB63poE3CB61r7CrjA9e02AHdquM6Htj/UwuImkMpQfAAAAABJRU5ErkJggg=="
+      },
+      "id": 52
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability B2B ",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "ComEx",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.6318,
+        "y": 2.1006,
+        "w": 1.7575,
+        "h": 0.4,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 53
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 11.4587,
+        "y": 2.1006,
+        "w": 1.7575,
+        "h": 0.4,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAYAAACIJ6oVAAABoklEQVR42u3bYYrDIBCGYf1OuKfoFfb2mf3Rsk3SaDW04BffQqCmMog8DOMkzT+/t0jrz3b0GEeqzcn7OfsYR3EOY+x+PFxLfc5LnOJa1uOoxDie07JPubj+eBPn+SVX19+yT/cbOfr2oDQnVteyLJvxJ++3zBVwgesId4sXuMA1gvvEC1zgmsG94wUucAeAW7pqMQRc4I4A90wmFnCB6wh3V/MCF7g+cFc1L3CB6wX3kXmBC9wx4PYe2gRc4I4CtzcTC7jAdYRbfEgBXOB6dBuAC9zB4LbWvgIucEeD25qJBVzgOsL9xwtc4Fp2G9rhJuACd7RuQyvcAC5whzq0CbjAdc3EAi5wfbsNZzY7mcNN5nBTP9wzL3tbdBt64eYwhxvmcKMf7if+djNa7SvgAtc1Ewu4wHUtIQTcueBeqfYVcOeC65qJK+82ABe4foc2ARe4rplYwAWub7cBuNPBvcqhTcCdD+5Val8BF7iuJYSAC1zXEkLfgZuAawDXvfbVd+AGcA3guj+wEHCB63poE3CB61r7CrjA9e02AHdquM6Htj/UwuImkMpQfAAAAABJRU5ErkJggg=="
+      },
+      "id": 54
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sust. Procurement / Supply Chain Decarb",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.4587,
+        "y": 2.1006,
+        "w": 1.7575,
+        "h": 0.4,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 55
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 7.8049,
+        "y": 2.1006,
+        "w": 1.7575,
+        "h": 0.4,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAK8AAAAoCAYAAACIJ6oVAAABoklEQVR42u3bYYrDIBCGYf1OuKfoFfb2mf3Rsk3SaDW04BffQqCmMog8DOMkzT+/t0jrz3b0GEeqzcn7OfsYR3EOY+x+PFxLfc5LnOJa1uOoxDie07JPubj+eBPn+SVX19+yT/cbOfr2oDQnVteyLJvxJ++3zBVwgesId4sXuMA1gvvEC1zgmsG94wUucAeAW7pqMQRc4I4A90wmFnCB6wh3V/MCF7g+cFc1L3CB6wX3kXmBC9wx4PYe2gRc4I4CtzcTC7jAdYRbfEgBXOB6dBuAC9zB4LbWvgIucEeD25qJBVzgOsL9xwtc4Fp2G9rhJuACd7RuQyvcAC5whzq0CbjAdc3EAi5wfbsNZzY7mcNN5nBTP9wzL3tbdBt64eYwhxvmcKMf7if+djNa7SvgAtc1Ewu4wHUtIQTcueBeqfYVcOeC65qJK+82ABe4foc2ARe4rplYwAWub7cBuNPBvcqhTcCdD+5Val8BF7iuJYSAC1zXEkLfgZuAawDXvfbVd+AGcA3guj+wEHCB63poE3CB61r7CrjA9e02AHdquM6Htj/UwuImkMpQfAAAAABJRU5ErkJggg=="
+      },
+      "id": 56
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Carbon X-Ray",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 2.1006,
+        "w": 1.7575,
+        "h": 0.4,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 57
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Capture value from carbon commitments",
+          "options": {
+            "fontSize": 10.5,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 1.6143,
+        "w": 1.7575,
+        "h": 0.3832,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 58
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Achieve full comm. value from ",
+          "options": {
+            "fontSize": 10.5,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "sust",
+          "options": {
+            "fontSize": 10.5,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": ". offers",
+          "options": {
+            "fontSize": 10.5,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.6318,
+        "y": 1.6143,
+        "w": 1.7575,
+        "h": 0.3832,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 59
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Reduce cost & carbon ",
+          "options": {
+            "fontSize": 10.5,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "in supply chain",
+          "options": {
+            "fontSize": 10.5,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "softBreakBefore": true,
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.4587,
+        "y": 1.6143,
+        "w": 1.7575,
+        "h": 0.3832,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 60
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 7.8049,
+        "y": 2.5601,
+        "w": 5.4113,
+        "h": 0.3913,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAh0AAAAnCAYAAACrHvoFAAACzUlEQVR42u3dQU7DMBBA0WbkA3IKrsDxzQYWDaXYjj2hymPThVN/VzTME1LV7e3jvd5af9qv3F1fl+y/1Y4nD5+9cZNDZ2/YqB49+5MLpp39l02nnn138ZKz789T15y/9j1xO/wePu8e2abs/WRx6v73F2zT995duGz/7+vr18Pjx+w13Wt3AziAAziAAziAwwDWzejGmjc6cAAHcAAHcACHru79Wsx/owMHcAAHcAAHcOjq/lwL4AAO4AAO4AAOA1g3oxvAARzAARzAARwGsG5GN4ADOIADOIADOAxg3YxuAAdwAAdwAAdwGMC6Gd0CHMABHMDRfi1wAIcBrDv+/AAO4AAO4AAO4DCAdTO6ARzAARzAARzAYQDrZnQDOIADOIADOIDDANbN6MbYjQEcwAEcwAEcwKGr27c28N0rwAEcwAEcwAEcurr9a53fvQIcwAEcwAEcwKGrO7bW8d0rwAEcwAEcwAEcurrja43fvQIcwAEcwAEcwKGre2zvAhyLwbHwjylwAAdwAIdBqPtKrymAAziAAziAAzgMfuDI6BbgAA7gAA7gAA6D32vK6BbgAA7gAA7gAA6DXzejG8ABHMABHMABHMChm9EtwAEcwAEcwAEcBrBuRjeAAziAAziAAzgMYN2MbgEO4AAO4ACOa4HDINQ9q1uAAziAAziA4wRwGEi6F+zG9BsJOIADOIADOIBDV/fBWky9kYADOIADOIADOHR1b399ZBY4gAM4gAM4gENXd2E3gAM4gAM4gAM4dHUzugEcwAEcwAEcwKGrm9EN4AAO4AAO4AAOXd2MbgAHcAAHcAAHcOjqZnQDOIADOIADOIBDVzejW4ADOF4eHId+T8ABHMChq5vVLcABHP8PHIv+uwEcwAEcurqndqPnvgMO4AAO4AAO4NDVnfuRWeAADuAADuAADl3d2+qPzAIHcAAHcAAHcOjqLlj7BBNc0B7jCH8TAAAAAElFTkSuQmCC"
+      },
+      "id": 61
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Carbon/ Sustainability VCP",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 2.5601,
+        "w": 5.4113,
+        "h": 0.3913,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 62
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Strategy",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 3.0412,
+        "w": 1.7575,
+        "h": 0.2065,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 63
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "APT (PI)",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 3.3171,
+        "w": 1.7575,
+        "h": 0.2065,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 64
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "PE DD",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 3.869,
+        "w": 1.7575,
+        "h": 0.2065,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 65
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sales Play System (CE)",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.6318,
+        "y": 3.0412,
+        "w": 1.7575,
+        "h": 0.2065,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 66
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Procurement (PI)",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 11.4587,
+        "y": 3.0412,
+        "w": 1.7575,
+        "h": 0.2065,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 67
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "PE-backed VCP",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 3.5931,
+        "w": 1.7575,
+        "h": 0.2065,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 68
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Commercial Excellence",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.7826,
+        "y": 3.124,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 69
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Operations",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.7826,
+        "y": 3.3808,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 70
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Capital Projects",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.7826,
+        "y": 3.6375,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 71
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sust. Value Creation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.7826,
+        "y": 3.8942,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 72
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Strategy",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.6132,
+        "y": 3.124,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 73
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sust. Value Creation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.6132,
+        "y": 3.3808,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 74
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Value Creation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.6132,
+        "y": 3.6375,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 75
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Resilience & Adaptation",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.6132,
+        "y": 3.8942,
+        "w": 1.7579,
+        "h": 0.2151,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.69,
+          2.69,
+          2.69,
+          2.69
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 76
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Capture Opportunities",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.2494,
+        "y": 6.3307,
+        "w": 3.9668,
+        "h": 0.311,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 77
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Limit the Downside",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 5.9781,
+        "w": 3.9668,
+        "h": 0.311,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 78
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Choose",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 5.9781,
+        "w": 0.7168,
+        "h": 0.6453,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 79
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embedded through broader Bain toolkit (Governance, Op Model, etc.)",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "italic": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 6.6727,
+        "w": 5.4113,
+        "h": 0.3033,
+        "fill": {
+          "color": "D6D6D6",
+          "transparency": 50
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 80
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Capabilities & Enablers",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 7.8049,
+        "y": 7.033,
+        "w": 5.4113,
+        "h": 0.3033,
+        "fill": {
+          "color": "D6D6D6"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 81
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Deliver",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 6.6727,
+        "w": 0.7168,
+        "h": 0.6637,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 82
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sense",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9642,
+        "y": 5.5773,
+        "w": 0.7168,
+        "h": 0.3337,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 83
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 0,
+        "y": 4.4731,
+        "w": 6.4931,
+        "h": 3.0269,
+        "fill": {
+          "color": "E3DAD4",
+          "transparency": 25
+        }
+      },
+      "id": 84
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Value Creation",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 4.5147,
+        "w": 4.29,
+        "h": 0.3488,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 85
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Diagnose",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 4.9052,
+        "w": 0.7168,
+        "h": 0.5585,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 86
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Design",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 5.5331,
+        "w": 0.7168,
+        "h": 0.5585,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 87
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Deliver",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 6.161,
+        "w": 0.7168,
+        "h": 0.5585,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 88
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embed across Bain",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.125,
+        "y": 6.7889,
+        "w": 0.7168,
+        "h": 0.5585,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 89
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 0.9807,
+        "y": 4.9052,
+        "w": 1.2588,
+        "h": 1.8143,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAC1CAYAAAByO/D8AAAE4ElEQVR42u3dXXajOhSE0YNGeEfRU+jhqx/gGgMSP7ZBUPXlKcsBeSXbVgodHdz99/dPjtJX+dHh8bz7+C5XDqiNP/lZPvgcs4Py1viFB3c9x9s5h54jInL9F++OnpOP/f3+Hz8B7gVeRj8bPABvCb5EvwI8NwIPwJfo6uAZ8Ck64OeAx/3Ae3TAzwPPbcC3/qMlwPXAu41zEuBe4BG5lN4BVwYvpHfA1cFn6R1wB/C39A64C/iQ3gF3Al9J74Crgi/RAZcHL6R3wNXBZ+kdcAfwt/QOuAt4de0dcF3wYnoHXBt8gQ64Pvik4AK4B/jrnX49eADeCDwiIrUBz4A3Au/G9A64C/gwvQPuBF68ZANcG3yJDrg8+BQdcAvwER1wG/AeHXAr8I1mB8AVwTfSO+CK4CvpHXBV8GmHC+AW4IX0Drg6+Cy9A+4AHtWCC+Cy4MP0DrgT+Ep6B1wVfIoOuAV4Ib0Drg4+S++AO4DvaHYAXA18GeQswMMafIFeBQ8l8GwNPkFfBc+NwAPwX4O/0G8LngH/NXhEfm92AHzrAAXwbpneAa+dczb4/tffd+CzIAd4S/AuXwP+hg64C/iADrgT+HR6B9wCfEQH3Aa8RwfcCnxHswPgauCzSzbAHcCX6IDLg2+kd8AVwVfSO+Cq4H1bE+BW4FEtuAAuCz4LcoA7gL+hA+4CPqAD7gS+kt4BVwXv0QG/CDxuAX6g2QHw78HzLcBn6R1wB/AFOuD64BN0wD3AX+iA+4BHRKnZAXBl8Mi5lN4BVwbPS3TA1cFn6R1wB/C3dzrgLuADOuBO4D064FbguZzeAVcGnwU5wB3Ay+90wKXBl+iAy4NP0QG3AB/RAbcBX7lkA1wVvJLeAVcGP1RwAVwDfIYOuAP4roIL4FrgmwWXw+AB+N3BVwsuH4HnRuChDz5++x14Jb0/EDzrgx+FPZDeAd+NF88Bn88SCfDPwLv8HPBqPR1wD/AXOuA+4BHVZgfAVcHr26UAlwVf2TkDuCp4ZecM4MrghZ0zgKuDz3bOAO4A3i/DAm4FPlbZALcB37hkA1wR/ECzA+Aq4DubHQBXAu+DHOC3Ah9POwd8o9kB8Bbgv66dl4Mc4FLgnwU5wKXBDxVcANcA311wAVwHvJDeAVcH3yy4nAMegDdfhr0cPAPefhkWcCfwD5odAH86+DTIAW4BfqDZAXAV8J3NDoArgeect5odAN8Cv6IqdlovG+Cfgf+yhfiqMRLg7cBbzRIJ8HbgrWaJBPgzwb+ZJRLgzwT/bhkWcCvw6X3kALcAH4Ic4E7g+/e9Ay4DvuMm/4CrgW/vewdcDnz9I7oAlwTf0ewAuBr4chn2KvAAvOUYqQl4bgT+wDLo+bcUUwd/YBn0jDES4Pcug57Xywb4bcug5/SyAX7rMui5vWyAS9bOV9I74MoBr5DeAVdP9NX0DrjTMizgfsuwgLMMC7jdMizgZsuwgNuMkQD3GyMB7jdGAtxvjKQIzmaJ3eldB1ypDHrGGAlwv1kiAe73okmAa9xo4FgvG+B2s0QC3G+WSID7zRIJcNdlWMDNlmEBN12GBdxsGRZw12VYwJ3GSID7jZFag1MGbXJLsbbgVMVu+8kO9wWndn7KJzvogrvOEskZ3HWWSID7zRIJcL9ZIgHuN0skwP1eNAlwvzH+AeSctSCfDmIOAAAAAElFTkSuQmCC"
+      },
+      "id": 90
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false,
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Full Potential​",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9807,
+        "y": 4.9052,
+        "w": 1.2588,
+        "h": 1.8143,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 91
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 2.3245,
+        "y": 5.5331,
+        "w": 1.2588,
+        "h": 1.1864,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAB2CAYAAADlR5zmAAADRUlEQVR42u3dXXLaQBBF4ZFXmFVkC9k97QewkdD82XIS6fShyg+2hR74StB152pYfv35HWX92P62+luU0XFLVP7ZPN/4uCUqT+qer3/cEpUnDs9XSomYONf861Q7bjnwOtWO653vTfBc4Ft0wVOAlxIPdMHTgN+vdMFTgZd4/UwXHA/eGOQEJ4NXBjnB6eBPdMHTgK8GOcGzgD8GOcEzgU8lcoKzwIeJHBa85AXvJnJo8MgL3kzkBOeCL7VETnA2+G6QE5wPvkEXPAf4J7rgecBLKeVN8Fzgq6VVwbOAP97eBc8EPkzkBOeBP9EFTwN+j2EFTwXe6cgJTgXfJXKC88Ebg5zgZPDKICc4Hfz+mS54KvDV27vgWcCnEjnBWeDDRE5wHng3kROcCV4iRh05wWngEdHryAlOBN+hC84H36ALngP8E13wPOARse7ICZ4B/OUzXfAM4Ct0wbOAP9AFzwT+vNIFTwMeMezICU4DryZygrPB9+iC48G36IKnAG8McoKTwSuDnOB08OlETnAO+FQiJzgLfJjICc4D7yZygjPBY64jdwy8+hD8v4FPdOSOgy8h+JnABx05wYngnY6c4FTwRkdOcDJ4pSMnOB38dru9DnKC08H3MazgWPB6DCs4GvzjKn/GsIKnAZ/syAlOAp/oyAlOAx905AQ/BF7OCd7pyAl+GDzOCd5ZWhWcCt4Y5AQng1cGOcHp4FOJnOAs8GEiJzgPvJvICc4En+/ICY4Bn+vICY4CH3fkBMeB9ztygiPB2x05wbHg9Y6c4Gjwxiqb4GTwyiqb4HTwl1U2wTOAr8IZwc8E/g/asIKfDfxvXuUTdSnBaeCDupTgRPCJvWEFp4EPeu+CE8E7vXfBqeD7u1YFx4MPEznBeeDdRE5wJngzkROcC15N5ARng09sKSY4DXywpZjgRPDOlmKCU8EbW4oJTgYf7EQhOBG8s7Qq+JXAf2BpVfCrgX/vrlXB04C/LK0KngF8/8U9gl/m5+Bdq4KTJ/VvduQEJ4FPfn+64CTwib1hLwJeiuA/8/3pFwK/MMBJ7loVnAw+TOQE54F3EznBmeDNRE5wLng1kROcDb5L5ATng3+hIyc46wZGwVOBR0R5B+sp3i4Q5L4NAAAAAElFTkSuQmCC"
+      },
+      "id": 92
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Offer ",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "S",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "trategy",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.3245,
+        "y": 5.5331,
+        "w": 1.2588,
+        "h": 1.1864,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 93
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 3.6683,
+        "y": 5.5331,
+        "w": 1.2588,
+        "h": 1.1864,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAB2CAYAAADlR5zmAAADRUlEQVR42u3dXXLaQBBF4ZFXmFVkC9k97QewkdD82XIS6fShyg+2hR74StB152pYfv35HWX92P62+luU0XFLVP7ZPN/4uCUqT+qer3/cEpUnDs9XSomYONf861Q7bjnwOtWO653vTfBc4Ft0wVOAlxIPdMHTgN+vdMFTgZd4/UwXHA/eGOQEJ4NXBjnB6eBPdMHTgK8GOcGzgD8GOcEzgU8lcoKzwIeJHBa85AXvJnJo8MgL3kzkBOeCL7VETnA2+G6QE5wPvkEXPAf4J7rgecBLKeVN8Fzgq6VVwbOAP97eBc8EPkzkBOeBP9EFTwN+j2EFTwXe6cgJTgXfJXKC88Ebg5zgZPDKICc4Hfz+mS54KvDV27vgWcCnEjnBWeDDRE5wHng3kROcCV4iRh05wWngEdHryAlOBN+hC84H36ALngP8E13wPOARse7ICZ4B/OUzXfAM4Ct0wbOAP9AFzwT+vNIFTwMeMezICU4DryZygrPB9+iC48G36IKnAG8McoKTwSuDnOB08OlETnAO+FQiJzgLfJjICc4D7yZygjPBY64jdwy8+hD8v4FPdOSOgy8h+JnABx05wYngnY6c4FTwRkdOcDJ4pSMnOB38dru9DnKC08H3MazgWPB6DCs4GvzjKn/GsIKnAZ/syAlOAp/oyAlOAx905AQ/BF7OCd7pyAl+GDzOCd5ZWhWcCt4Y5AQng1cGOcHp4FOJnOAs8GEiJzgPvJvICc4En+/ICY4Bn+vICY4CH3fkBMeB9ztygiPB2x05wbHg9Y6c4Gjwxiqb4GTwyiqb4HTwl1U2wTOAr8IZwc8E/g/asIKfDfxvXuUTdSnBaeCDupTgRPCJvWEFp4EPeu+CE8E7vXfBqeD7u1YFx4MPEznBeeDdRE5wJngzkROcC15N5ARng09sKSY4DXywpZjgRPDOlmKCU8EbW4oJTgYf7EQhOBG8s7Qq+JXAf2BpVfCrgX/vrlXB04C/LK0KngF8/8U9gl/m5+Bdq4KTJ/VvduQEJ4FPfn+64CTwib1hLwJeiuA/8/3pFwK/MMBJ7loVnAw+TOQE54F3EznBmeDNRE5wLng1kROcDb5L5ATng3+hIyc46wZGwVOBR0R5B+sp3i4Q5L4NAAAAAElFTkSuQmCC"
+      },
+      "id": 94
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Services ",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "B",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "oost",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 0,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 3.6683,
+        "y": 5.5331,
+        "w": 1.2588,
+        "h": 1.1864,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 95
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 5.0121,
+        "y": 5.5331,
+        "w": 1.2588,
+        "h": 1.1864,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH0AAAB2CAYAAADlR5zmAAADRUlEQVR42u3dXXLaQBBF4ZFXmFVkC9k97QewkdD82XIS6fShyg+2hR74StB152pYfv35HWX92P62+luU0XFLVP7ZPN/4uCUqT+qer3/cEpUnDs9XSomYONf861Q7bjnwOtWO653vTfBc4Ft0wVOAlxIPdMHTgN+vdMFTgZd4/UwXHA/eGOQEJ4NXBjnB6eBPdMHTgK8GOcGzgD8GOcEzgU8lcoKzwIeJHBa85AXvJnJo8MgL3kzkBOeCL7VETnA2+G6QE5wPvkEXPAf4J7rgecBLKeVN8Fzgq6VVwbOAP97eBc8EPkzkBOeBP9EFTwN+j2EFTwXe6cgJTgXfJXKC88Ebg5zgZPDKICc4Hfz+mS54KvDV27vgWcCnEjnBWeDDRE5wHng3kROcCV4iRh05wWngEdHryAlOBN+hC84H36ALngP8E13wPOARse7ICZ4B/OUzXfAM4Ct0wbOAP9AFzwT+vNIFTwMeMezICU4DryZygrPB9+iC48G36IKnAG8McoKTwSuDnOB08OlETnAO+FQiJzgLfJjICc4D7yZygjPBY64jdwy8+hD8v4FPdOSOgy8h+JnABx05wYngnY6c4FTwRkdOcDJ4pSMnOB38dru9DnKC08H3MazgWPB6DCs4GvzjKn/GsIKnAZ/syAlOAp/oyAlOAx905AQ/BF7OCd7pyAl+GDzOCd5ZWhWcCt4Y5AQng1cGOcHp4FOJnOAs8GEiJzgPvJvICc4En+/ICY4Bn+vICY4CH3fkBMeB9ztygiPB2x05wbHg9Y6c4Gjwxiqb4GTwyiqb4HTwl1U2wTOAr8IZwc8E/g/asIKfDfxvXuUTdSnBaeCDupTgRPCJvWEFp4EPeu+CE8E7vXfBqeD7u1YFx4MPEznBeeDdRE5wJngzkROcC15N5ARng09sKSY4DXywpZjgRPDOlmKCU8EbW4oJTgYf7EQhOBG8s7Qq+JXAf2BpVfCrgX/vrlXB04C/LK0KngF8/8U9gl/m5+Bdq4KTJ/VvduQEJ4FPfn+64CTwib1hLwJeiuA/8/3pFwK/MMBJ7loVnAw+TOQE54F3EznBmeDNRE5wLng1kROcDb5L5ATng3+hIyc46wZGwVOBR0R5B+sp3i4Q5L4NAAAAAElFTkSuQmCC"
+      },
+      "id": 96
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Resources",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "Strategy​",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "softBreakBefore": true,
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.0121,
+        "y": 5.5331,
+        "w": 1.2588,
+        "h": 1.1864,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 97
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Embedded through broader Bain toolkit",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "italic": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9519,
+        "y": 6.7889,
+        "w": 5.4113,
+        "h": 0.5585,
+        "fill": {
+          "color": "D6D6D6",
+          "transparency": 50
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 98
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Opportunities",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9807,
+        "y": 5.0523,
+        "w": 5.2901,
+        "h": 0.2641,
+        "fill": {
+          "color": "D6D6D6",
+          "transparency": 25
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 99
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Actions",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9807,
+        "y": 5.6554,
+        "w": 5.2901,
+        "h": 0.2641,
+        "fill": {
+          "color": "D6D6D6",
+          "transparency": 25
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 100
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Circular Scaling",
+          "options": {
+            "fontSize": 11,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.9807,
+        "y": 6.364,
+        "w": 5.2901,
+        "h": 0.2641,
+        "fill": {
+          "color": "D6D6D6",
+          "transparency": 25
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 101
+    }
+  ]
+}

@@ -47,6 +47,14 @@ import slide37 from "./narrative-slides/slide-037.json";
 import slide38 from "./narrative-slides/slide-038.json";
 import slide39 from "./narrative-slides/slide-039.json";
 import slide40 from "./narrative-slides/slide-040.json";
+import slide41 from "./narrative-slides/slide-041.json";
+import slide42 from "./narrative-slides/slide-042.json";
+import slide45 from "./narrative-slides/slide-045.json";
+import slide46 from "./narrative-slides/slide-046.json";
+import slide47 from "./narrative-slides/slide-047.json";
+import slide48 from "./narrative-slides/slide-048.json";
+import slide49 from "./narrative-slides/slide-049.json";
+import slide50 from "./narrative-slides/slide-050.json";
 
 const ENTRIES: NarrativeSlideEntry[] = [
   {
@@ -208,6 +216,46 @@ const ENTRIES: NarrativeSlideEntry[] = [
     data: slide40 as NarrativeSlideData,
     label: "Our world faces unprecedented challenges — bold action has never been more urgent",
     description: "Setting new standards of excellence.",
+  },
+  {
+    data: slide41 as NarrativeSlideData,
+    label: "Our Social Impact commitment",
+    description: "An overview of Bain's Social Impact program and its reach.",
+  },
+  {
+    data: slide42 as NarrativeSlideData,
+    label: "Our renewed $2B Social Impact commitment can amplify our impact and commercial outcomes",
+    description: "How the renewed commitment ties social impact to commercial results.",
+  },
+  {
+    data: slide45 as NarrativeSlideData,
+    label: "We offer four Sustainability solutions, and have developed the frameworks for each solution",
+    description: "The four solution areas and their underlying frameworks.",
+  },
+  {
+    data: slide46 as NarrativeSlideData,
+    label: "Transition Strategy: helping clients navigate disruption through three products",
+    description: "Many clients face massive disruption through global sustainability transitions; we can help with three products.",
+  },
+  {
+    data: slide47 as NarrativeSlideData,
+    label: "We helped F&B Co develop a new future-back strategy with a key sustainability lens",
+    description: "A case example of future-back strategy work with a sustainability lens.",
+  },
+  {
+    data: slide48 as NarrativeSlideData,
+    label: "Sustainability Value Creation: our clients' key needs lead to our key products",
+    description: "Mapping client needs to Bain's sustainability value creation products.",
+  },
+  {
+    data: slide49 as NarrativeSlideData,
+    label: "We helped Packaging Co accelerate near-term sales from plastic substitution and build capabilities for new growth",
+    description: "A case example of circular/plastic-substitution value creation.",
+  },
+  {
+    data: slide50 as NarrativeSlideData,
+    label: "Circular Value Creation: addressing our clients' key needs through our circular solutions",
+    description: "Mapping client needs to Bain's circular value creation solutions.",
   },
 ];
 

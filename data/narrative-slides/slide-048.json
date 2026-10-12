@@ -1,0 +1,1153 @@
+{
+  "slideNumber": 48,
+  "title": "Sustainability Value Creation: Our clients’ key needs lead to our key products",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Credentials (1)",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.0366,
+        "y": 7.2647,
+        "w": 1.4963,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 3
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "DCN",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.0364,
+        "y": 7.2647,
+        "w": 0.315,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 4
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 0.3462,
+        "y": 7.263,
+        "w": 7.0073,
+        "h": 0.1933,
+        "data": "image/png;base64,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"
+      },
+      "id": 5
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 7.2165,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "B4B4B4",
+          "width": 0.75
+        }
+      },
+      "id": 6
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 0.9549,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 1.5
+        }
+      },
+      "id": 7
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Value Creation: ",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        },
+        {
+          "text": "Our clients’ key needs lead to our key products",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 0,
+        "w": 12.6007,
+        "h": 0.9588,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "bottom",
+        "isTextBox": true
+      },
+      "id": 28
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Reduce cost and carbon ",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "in tandem in the supply chain",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "softBreakBefore": true,
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.5514,
+        "y": 1.4262,
+        "w": 3.3793,
+        "h": 0.6349,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 29
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Achieve full commercial value from sustainable offerings",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.5268,
+        "y": 1.4262,
+        "w": 3.421,
+        "h": 0.6349,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 30
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "What is our ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "business case for a lower carbon supply chain",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "? What targets should I set? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "What are our biggest",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": " sources of emissions",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Which levers ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "are highest ROI to cut both cost and carbon? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How do we ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "collaborate with suppliers",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": " to achieve results? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 9.5511,
+        "y": 2.3907,
+        "w": 3.421,
+        "h": 2.7264,
+        "margin": [
+          7.2,
+          7.2,
+          3.6,
+          3.6
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 31
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Which customers ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "will value our sustainable offering and why? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "What value proposition ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "would effectively address their customer needs? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How can our sales force ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "be more effective? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How can we ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "capture commercial upside",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "? (e.g., price premium, share gain, retention) ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 5.5473,
+        "y": 2.3907,
+        "w": 3.421,
+        "h": 2.962,
+        "margin": [
+          7.2,
+          7.2,
+          3.6,
+          3.6
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 32
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Capture value from carbon/ sustainability commitments",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.5697,
+        "y": 1.4262,
+        "w": 3.3793,
+        "h": 0.6349,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "line": {
+          "color": "104C3E",
+          "width": 3
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 33
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "What carbon targets ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "maximize business value? Do historical targets still hold? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Where is the value",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "? (i.e., cost, revenue, investor multiple)",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Which levers ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "have the highest ROI and how should they be sequenced? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "How do we implement ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        },
+        {
+          "text": "through the business? ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 14,
+              "characterCode": "2022"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 1.5694,
+        "y": 2.3907,
+        "w": 3.421,
+        "h": 2.962,
+        "margin": [
+          7.2,
+          7.2,
+          3.6,
+          3.6
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 34
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 5.5753,
+        "y": 5.4951,
+        "w": 3.421,
+        "h": 0.7114,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVYAAABHCAYAAABcUm8JAAADOklEQVR42u3dXUrDQBSG4eQwC3QVbsHljzeKgtK0k29iYx6vJGne5qd9QAY868vba19u/dze+7G/L3saa9944dY5/HhNH2qsfeOgvgxeZx+4Fzc6w+fxub8P3Iv8c182nvt60HPfaqxD9zv72Xn8Xvyyc3fj67PTe1/6t9/v3TZyzBnbBVWoQhWqUM22G1SheklU+/YBUIXqaKegClWoQhWq2XZBFapQhSpUs+2CKlShClWoZjsFVahCFapQzXYKqlCFKlShmm0XVKEKVahCNdsuqEIVqlCF6jJx8QqqUIUqVKG6e1uDKlSfF9W+8xygCtW/aRdUoQpVqEI12y6oQhWqUIVqtl1QhSpUoQrVbLugClWoQhWq2XZBFapQhSpUs+0GVahCFapHQnQFsAuqUIUqVKGabTeoQhWqUD07cs92LQVVqEIVqlDNthtUoQpVqPpTP/t+BVWoQhWqUM2+X4MqVKEKVajOmCAAVahCFapQDf4TFqhCFapQhWp4ggBUoQpVqEI12i6oQhWqUIVqtt2gehFUAyBCFaraj46/hipUoQpVqEa2FVShClWoQnXSBAGoQhWqUIVqcIIAVKEKVahCNThBAKpQhSpUoZqeIABVqEIVqtrRdkEVqlCFqvYREwSgClWoQlV7uF1QhSpUoao9c4IAVKEKVahq724XVKEKVahqz5ggAFWoQhWq2rF2QRWqUIWqdrZdUIUqVKGqnW0XVKEKVahqZ9sFVahCFara2XZBFapQhap2tl1QhSpUoao9c4IAVKEKVahqBxevoApVqEJVO7h4BVWoQhWq2sHFK6hCFapQ1Z61eAVVqEIVqtrBxSuoQhWqUNVObWv/GtXgFwOqUIWq9sPjr6EKVahCVTs4/hqqUIUqVLWD46+hClWoQlV7xvhrqEIVqlDVDo6/hipUoQpV7Wi7QRWqUJ2D6swvNPjONv4aqlCFKlS1d7UbVKEK1fOgCuyzjb+GKlShClXtSLtBFapQvTaqwJ4x/hqqUIUqVF1LtN2gClWoQhXYE8ZfQxWqUIUqVHPtBlWoQhWqwJ46/hqqUIUqVKG6t9OgeiSqffwcoApV7dO0C6pQhSpUtbPb3gHuvOpK2h+EXgAAAABJRU5ErkJggg=="
+      },
+      "id": 35
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability B2B ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "ComEx",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 5.5753,
+        "y": 5.4951,
+        "w": 3.421,
+        "h": 0.7114,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 36
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 9.5741,
+        "y": 5.4951,
+        "w": 3.421,
+        "h": 0.7114,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVYAAABHCAYAAABcUm8JAAADOklEQVR42u3dXUrDQBSG4eQwC3QVbsHljzeKgtK0k29iYx6vJGne5qd9QAY868vba19u/dze+7G/L3saa9944dY5/HhNH2qsfeOgvgxeZx+4Fzc6w+fxub8P3Iv8c182nvt60HPfaqxD9zv72Xn8Xvyyc3fj67PTe1/6t9/v3TZyzBnbBVWoQhWqUM22G1SheklU+/YBUIXqaKegClWoQhWq2XZBFapQhSpUs+2CKlShClWoZjsFVahCFapQzXYKqlCFKlShmm0XVKEKVahCNdsuqEIVqlCF6jJx8QqqUIUqVKG6e1uDKlSfF9W+8xygCtW/aRdUoQpVqEI12y6oQhWqUIVqtl1QhSpUoQrVbLugClWoQhWq2XZBFapQhSpUs+0GVahCFapHQnQFsAuqUIUqVKGabTeoQhWqUD07cs92LQVVqEIVqlDNthtUoQpVqPpTP/t+BVWoQhWqUM2+X4MqVKEKVajOmCAAVahCFapQDf4TFqhCFapQhWp4ggBUoQpVqEI12i6oQhWqUIVqtt2gehFUAyBCFaraj46/hipUoQpVqEa2FVShClWoQnXSBAGoQhWqUIVqcIIAVKEKVahCNThBAKpQhSpUoZqeIABVqEIVqtrRdkEVqlCFqvYREwSgClWoQlV7uF1QhSpUoao9c4IAVKEKVahq724XVKEKVahqz5ggAFWoQhWq2rF2QRWqUIWqdrZdUIUqVKGqnW0XVKEKVahqZ9sFVahCFara2XZBFapQhap2tl1QhSpUoao9c4IAVKEKVahqBxevoApVqEJVO7h4BVWoQhWq2sHFK6hCFapQ1Z61eAVVqEIVqtrBxSuoQhWqUNVObWv/GtXgFwOqUIWq9sPjr6EKVahCVTs4/hqqUIUqVLWD46+hClWoQlV7xvhrqEIVqlDVDo6/hipUoQpV7Wi7QRWqUJ2D6swvNPjONv4aqlCFKlS1d7UbVKEK1fOgCuyzjb+GKlShClXtSLtBFapQvTaqwJ4x/hqqUIUqVF1LtN2gClWoQhXYE8ZfQxWqUIUqVHPtBlWoQhWqwJ46/hqqUIUqVKG6t9OgeiSqffwcoApV7dO0C6pQhSpUtbPb3gHuvOpK2h+EXgAAAABJRU5ErkJggg=="
+      },
+      "id": 37
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainable Procurement / ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        },
+        {
+          "text": "Supply Chain Decarbonization",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "softBreakBefore": true,
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.5741,
+        "y": 5.4951,
+        "w": 3.421,
+        "h": 0.7114,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 38
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 1.5766,
+        "y": 5.4951,
+        "w": 3.421,
+        "h": 0.7114,
+        "data": "image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAVYAAABHCAYAAABcUm8JAAADOklEQVR42u3dXUrDQBSG4eQwC3QVbsHljzeKgtK0k29iYx6vJGne5qd9QAY868vba19u/dze+7G/L3saa9944dY5/HhNH2qsfeOgvgxeZx+4Fzc6w+fxub8P3Iv8c182nvt60HPfaqxD9zv72Xn8Xvyyc3fj67PTe1/6t9/v3TZyzBnbBVWoQhWqUM22G1SheklU+/YBUIXqaKegClWoQhWq2XZBFapQhSpUs+2CKlShClWoZjsFVahCFapQzXYKqlCFKlShmm0XVKEKVahCNdsuqEIVqlCF6jJx8QqqUIUqVKG6e1uDKlSfF9W+8xygCtW/aRdUoQpVqEI12y6oQhWqUIVqtl1QhSpUoQrVbLugClWoQhWq2XZBFapQhSpUs+0GVahCFapHQnQFsAuqUIUqVKGabTeoQhWqUD07cs92LQVVqEIVqlDNthtUoQpVqPpTP/t+BVWoQhWqUM2+X4MqVKEKVajOmCAAVahCFapQDf4TFqhCFapQhWp4ggBUoQpVqEI12i6oQhWqUIVqtt2gehFUAyBCFaraj46/hipUoQpVqEa2FVShClWoQnXSBAGoQhWqUIVqcIIAVKEKVahCNThBAKpQhSpUoZqeIABVqEIVqtrRdkEVqlCFqvYREwSgClWoQlV7uF1QhSpUoao9c4IAVKEKVahq724XVKEKVahqz5ggAFWoQhWq2rF2QRWqUIWqdrZdUIUqVKGqnW0XVKEKVahqZ9sFVahCFara2XZBFapQhap2tl1QhSpUoao9c4IAVKEKVahqBxevoApVqEJVO7h4BVWoQhWq2sHFK6hCFapQ1Z61eAVVqEIVqtrBxSuoQhWqUNVObWv/GtXgFwOqUIWq9sPjr6EKVahCVTs4/hqqUIUqVLWD46+hClWoQlV7xvhrqEIVqlDVDo6/hipUoQpV7Wi7QRWqUJ2D6swvNPjONv4aqlCFKlS1d7UbVKEK1fOgCuyzjb+GKlShClXtSLtBFapQvTaqwJ4x/hqqUIUqVF1LtN2gClWoQhXYE8ZfQxWqUIUqVHPtBlWoQhWqwJ46/hqqUIUqVKG6t9OgeiSqffwcoApV7dO0C6pQhSpUtbPb3gHuvOpK2h+EXgAAAABJRU5ErkJggg=="
+      },
+      "id": 39
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Carbon X-Ray",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.5766,
+        "y": 5.4951,
+        "w": 3.421,
+        "h": 0.7114,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 40
+    },
+    {
+      "type": "image",
+      "role": "gradientFill",
+      "options": {
+        "x": 1.5766,
+        "y": 6.3303,
+        "w": 11.4119,
+        "h": 0.6349,
+        "data": "image/png;base64,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"
+      },
+      "id": 41
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Carbon/Sustainability VCP",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 1.5766,
+        "y": 6.3303,
+        "w": 11.4119,
+        "h": 0.6349,
+        "_meta": {
+          "gradientFill": {
+            "type": "linear",
+            "angle": 45,
+            "stops": [
+              {
+                "position": 0,
+                "color": "507867",
+                "transparency": 0
+              },
+              {
+                "position": 65,
+                "color": "585858",
+                "transparency": 0
+              },
+              {
+                "position": 100,
+                "color": "000000",
+                "transparency": 0
+              }
+            ]
+          }
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "isTextBox": true
+      },
+      "id": 42
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Client needs",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 2.3907,
+        "w": 1.1417,
+        "h": 2.955,
+        "margin": [
+          2.84,
+          14.19,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "isTextBox": true
+      },
+      "id": 43
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 1.5028,
+        "y": 2.3907,
+        "w": 0,
+        "h": 2.955,
+        "line": {
+          "color": "000000",
+          "width": 6
+        }
+      },
+      "id": 44
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Products",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 5.4776,
+        "w": 1.1417,
+        "h": 1.4877,
+        "margin": [
+          2.84,
+          14.19,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "isTextBox": true
+      },
+      "id": 45
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 1.5028,
+        "y": 5.4776,
+        "w": 0,
+        "h": 1.4877,
+        "line": {
+          "color": "000000",
+          "width": 6
+        }
+      },
+      "id": 46
+    }
+  ]
+}
