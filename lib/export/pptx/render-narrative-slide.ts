@@ -87,25 +87,45 @@ function addChartObject(slide: PptxGenJS.Slide, pptx: PptxGenJS, obj: NarrativeC
   );
 }
 
-/** Adds one new slide reproducing a narrative slide's extracted content verbatim. */
+/**
+ * Adds one new slide reproducing a narrative slide's extracted content verbatim.
+ *
+ * Each object is rendered independently and wrapped in its own try/catch:
+ * the extracted JSON comes from a PPTX scrape that can occasionally produce
+ * a malformed object (e.g. a chart part with an implausible series shape
+ * pptxgenjs can't embed). Without this guard, one bad object on one slide
+ * throws inside pptx.write() and corrupts the *entire* download for every
+ * slide in the pack — the "file gives an error, and repairing drops
+ * slides" failure mode. A skipped object just means that one piece of
+ * decoration is missing; every other slide and every other object on this
+ * slide still exports cleanly.
+ */
 export function renderNarrativeSlide(pptx: PptxGenJS, data: NarrativeSlideData): void {
   const slide = pptx.addSlide();
   slide.background = { color: data.background?.color ?? "FFFFFF" };
 
   for (const obj of data.objects) {
-    switch (obj.type) {
-      case "text":
-        addTextObject(slide, obj);
-        break;
-      case "shape":
-        addShapeObject(slide, pptx, obj);
-        break;
-      case "image":
-        addImageObject(slide, obj);
-        break;
-      case "chart":
-        addChartObject(slide, pptx, obj);
-        break;
+    try {
+      switch (obj.type) {
+        case "text":
+          addTextObject(slide, obj);
+          break;
+        case "shape":
+          addShapeObject(slide, pptx, obj);
+          break;
+        case "image":
+          addImageObject(slide, obj);
+          break;
+        case "chart":
+          addChartObject(slide, pptx, obj);
+          break;
+      }
+    } catch (error) {
+      console.warn(
+        `[narrative-slide] Skipping object ${obj.id} (${obj.type}) on slide ${data.slideNumber}: ${
+          error instanceof Error ? error.message : String(error)
+        }`
+      );
     }
   }
 }
