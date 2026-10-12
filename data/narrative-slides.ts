@@ -55,6 +55,22 @@ import slide47 from "./narrative-slides/slide-047.json";
 import slide48 from "./narrative-slides/slide-048.json";
 import slide49 from "./narrative-slides/slide-049.json";
 import slide50 from "./narrative-slides/slide-050.json";
+import slide51 from "./narrative-slides/slide-051.json";
+import slide52 from "./narrative-slides/slide-052.json";
+import slide53 from "./narrative-slides/slide-053.json";
+import slide54 from "./narrative-slides/slide-054.json";
+import slide55 from "./narrative-slides/slide-055.json";
+import slide56 from "./narrative-slides/slide-056.json";
+import slide71 from "./narrative-slides/slide-071.json";
+import slide72 from "./narrative-slides/slide-072.json";
+import slide73 from "./narrative-slides/slide-073.json";
+import slide74 from "./narrative-slides/slide-074.json";
+import slide75 from "./narrative-slides/slide-075.json";
+import slide76 from "./narrative-slides/slide-076.json";
+import slide77 from "./narrative-slides/slide-077.json";
+import slide78 from "./narrative-slides/slide-078.json";
+import slide79 from "./narrative-slides/slide-079.json";
+import slide80 from "./narrative-slides/slide-080.json";
 
 const ENTRIES: NarrativeSlideEntry[] = [
   {
@@ -256,6 +272,86 @@ const ENTRIES: NarrativeSlideEntry[] = [
     data: slide50 as NarrativeSlideData,
     label: "Circular Value Creation: addressing our clients' key needs through our circular solutions",
     description: "Mapping client needs to Bain's circular value creation solutions.",
+  },
+  {
+    data: slide51 as NarrativeSlideData,
+    label: "Resilience and Adaptation",
+    description: "An overview of the Resilience and Adaptation solution area.",
+  },
+  {
+    data: slide52 as NarrativeSlideData,
+    label: "Resilience and Adaptation: our clients have four key needs leading to our core products",
+    description: "Mapping client needs to Bain's resilience and adaptation products.",
+  },
+  {
+    data: slide53 as NarrativeSlideData,
+    label: "Resilience and Adaptation — case example",
+    description: "A detailed case example illustrating resilience and adaptation work.",
+  },
+  {
+    data: slide54 as NarrativeSlideData,
+    label: "Resilience and Adaptation — supporting detail",
+    description: "Supporting detail and evidence for the Resilience and Adaptation solution.",
+  },
+  {
+    data: slide55 as NarrativeSlideData,
+    label: "Resilience and Adaptation — supporting detail",
+    description: "Additional supporting detail for the Resilience and Adaptation solution.",
+  },
+  {
+    data: slide56 as NarrativeSlideData,
+    label: "The Social Impact landscape is increasingly challenging to navigate",
+    description: "Key pressures shaping the Social Impact landscape today.",
+  },
+  {
+    data: slide71 as NarrativeSlideData,
+    label: "Our ecosystem of partners brings best-in-class sustainability solutions",
+    description: "The full roster of partners across the sustainability ecosystem.",
+  },
+  {
+    data: slide72 as NarrativeSlideData,
+    label: "We continue to invest in strategic partnerships to be at the forefront of SI and DEI and deliver results for our clients",
+    description: "Ongoing investment in strategic partnerships across Social Impact and DEI.",
+  },
+  {
+    data: slide73 as NarrativeSlideData,
+    label: "Demonstrated success stories from working within the sustainability ecosystem",
+    description: "Proof points from collaborating with our partner ecosystem.",
+  },
+  {
+    data: slide74 as NarrativeSlideData,
+    label: "Sustainability partnerships on a page",
+    description: "A one-page summary of our sustainability partnerships.",
+  },
+  {
+    data: slide75 as NarrativeSlideData,
+    label: "Sustainability data vendors on a page",
+    description: "A one-page summary of our sustainability data vendor relationships.",
+  },
+  {
+    data: slide76 as NarrativeSlideData,
+    label: "Partner profile: Persefoni",
+    description: "With Persefoni's market leading SaaS platform, we bring an automated, auditable and value focused approach to decarbonisation.",
+  },
+  {
+    data: slide77 as NarrativeSlideData,
+    label: "Partner profile: Terralytiq",
+    description: "Terralytiq brings strong experience and tools to decarbonize battery value-chains.",
+  },
+  {
+    data: slide78 as NarrativeSlideData,
+    label: "Partner profile: Eunomia",
+    description: "Bain & Eunomia are partnering to deliver a 'best of breed' solution blending strategic and technical capabilities and deep expertise.",
+  },
+  {
+    data: slide79 as NarrativeSlideData,
+    label: "Partner profile: Climate X",
+    description: "Climate X brings distinct climate physical risk & resilience capabilities to quantify financial impacts and identify adaptation opportunities.",
+  },
+  {
+    data: slide80 as NarrativeSlideData,
+    label: "Partner profile: Copenhagen Economics",
+    description: "Copenhagen Economics is a leading player on modelling of future decarbonisation scenarios that address the economic risks of transition.",
   },
 ];
 

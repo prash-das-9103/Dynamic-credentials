@@ -1,0 +1,633 @@
+{
+  "slideNumber": 55,
+  "title": "",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Impact examples from our Energy Transition & Education pillars",
+          "options": {
+            "fontSize": 32,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.5467,
+        "y": 0.0667,
+        "w": 12.6,
+        "h": 1.2,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "middle",
+        "isTextBox": true
+      },
+      "id": 9
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 0.3611,
+        "y": 1.9019,
+        "w": 6.1268,
+        "h": 5.3481,
+        "fill": {
+          "color": "000000"
+        }
+      },
+      "id": 10
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Scalable energy transition in Southeast Asia",
+          "options": {
+            "fontSize": 18,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4965,
+        "y": 2.0119,
+        "w": 5.3854,
+        "h": 0.359,
+        "margin": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 11
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0.3611,
+        "y": 1.8273,
+        "w": 0.7143,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 4.5
+        }
+      },
+      "id": 12
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Prioritized countries and sectors with the clearest case for transition  ",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Diagnosed systemic barriers that hinder renewable energy adoption",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Mapped areas of momentum from policy developments, market liberalization and local champions",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Defined solutions and clarified RMI’s role in enabling scalable progress",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4965,
+        "y": 2.5398,
+        "w": 5.6995,
+        "h": 3.0078,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 13
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 6.8351,
+        "y": 1.9019,
+        "w": 6.1268,
+        "h": 5.3481,
+        "fill": {
+          "color": "000000"
+        }
+      },
+      "id": 14
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 6.8351,
+        "y": 1.8273,
+        "w": 0.7143,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 4.5
+        }
+      },
+      "id": 15
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Skilled trades investment in the US",
+          "options": {
+            "fontSize": 18,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9706,
+        "y": 2.0119,
+        "w": 4.2635,
+        "h": 0.359,
+        "margin": [
+          2,
+          2,
+          2,
+          2
+        ],
+        "valign": "bottom",
+        "wrap": false,
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 16
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Identified skilled trades with workforce shortages, retirement pressures, and strong career outcomes for young adults",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Developed criteria for high-quality high-school-to-apprenticeship education models",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Created internal conviction to invest in youth apprenticeships",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            },
+            "breakLine": true
+          }
+        },
+        {
+          "text": "Facilitated collaboration among schools, unions, and employers applying for funding (incl.  several Bain clients in the utilities sector)",
+          "options": {
+            "fontSize": 16,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "paraSpaceBefore": 12,
+            "bullet": {
+              "indent": 27,
+              "type": "number",
+              "style": "arabicPeriod"
+            }
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9706,
+        "y": 2.4598,
+        "w": 5.6995,
+        "h": 3.2771,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 17
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 3.3851,
+        "y": 3.0494,
+        "w": 0.0787,
+        "h": 5.6,
+        "rotate": 270,
+        "fill": {
+          "color": "CC0000"
+        }
+      },
+      "id": 18
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Contributed to several successful commercial proposals ",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.4957,
+        "y": 6.1736,
+        "w": 1.857,
+        "h": 0.9545,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 19
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Clarity on priority countries, sectors, and systemic barriers",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 2.4998,
+        "y": 6.1736,
+        "w": 1.857,
+        "h": 0.9545,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 20
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Scalable progress in Southeast Asia’s energy transition",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.5039,
+        "y": 6.1736,
+        "w": 1.857,
+        "h": 0.9545,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 21
+    },
+    {
+      "type": "shape",
+      "shape": "downArrow",
+      "options": {
+        "x": 3.0145,
+        "y": 5.8684,
+        "w": 0.82,
+        "h": 0.2468,
+        "fill": {
+          "color": "CC0000"
+        },
+        "line": {
+          "color": "CC0000",
+          "width": 0.75
+        }
+      },
+      "id": 22
+    },
+    {
+      "type": "shape",
+      "shape": "rect",
+      "options": {
+        "x": 9.8592,
+        "y": 3.0494,
+        "w": 0.0787,
+        "h": 5.6,
+        "rotate": 270,
+        "fill": {
+          "color": "CC0000"
+        }
+      },
+      "id": 23
+    },
+    {
+      "type": "shape",
+      "shape": "downArrow",
+      "options": {
+        "x": 9.4885,
+        "y": 5.8684,
+        "w": 0.82,
+        "h": 0.2468,
+        "fill": {
+          "color": "CC0000"
+        },
+        "line": {
+          "color": "CC0000",
+          "width": 0.75
+        }
+      },
+      "id": 24
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 0.3611,
+        "y": 1.1996,
+        "w": 1.9526,
+        "h": 0.5036,
+        "data": "image/png;base64,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",
+        "altText": "RMI"
+      },
+      "id": 25
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 6.8351,
+        "y": 1.1668,
+        "w": 1.9535,
+        "h": 0.6074,
+        "data": "image/png;base64,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",
+        "altText": "Bloomberg Philanthropies"
+      },
+      "id": 26
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Nearly 4,000 Registered Apprenticeship spots",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.9659,
+        "y": 6.1736,
+        "w": 1.857,
+        "h": 0.9545,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 27
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "$360M total funding ask",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.97,
+        "y": 6.1736,
+        "w": 1.857,
+        "h": 0.9545,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 28
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "21 strong, investment-ready proposals",
+          "options": {
+            "fontSize": 14,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "CC0000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 6.9741,
+        "y": 6.1736,
+        "w": 1.857,
+        "h": 0.9545,
+        "fill": {
+          "color": "FFFFFF"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "shape": "rect"
+      },
+      "id": 29
+    }
+  ]
+}
