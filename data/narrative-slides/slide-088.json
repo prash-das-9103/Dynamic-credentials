@@ -1,0 +1,1552 @@
+{
+  "slideNumber": 88,
+  "title": "Ratings providers score company performance across varying environmental, social, governance criteria to highlight sustainability commitment (or lack of) to stakeholders",
+  "width": 13.3333,
+  "height": 7.5,
+  "background": {
+    "color": "FFFFFF"
+  },
+  "objects": [
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Sustainability Credentials (1)",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 9.0366,
+        "y": 7.2647,
+        "w": 1.4963,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 3
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "DCN",
+          "options": {
+            "fontSize": 6,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 8.0364,
+        "y": 7.2647,
+        "w": 0.315,
+        "h": 0.1805,
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 4
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 0.3462,
+        "y": 7.263,
+        "w": 7.0073,
+        "h": 0.1933,
+        "data": "image/png;base64,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"
+      },
+      "id": 5
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 7.2165,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "B4B4B4",
+          "width": 0.75
+        }
+      },
+      "id": 6
+    },
+    {
+      "type": "shape",
+      "shape": "line",
+      "options": {
+        "x": 0,
+        "y": 0.9549,
+        "w": 12.967,
+        "h": 0,
+        "line": {
+          "color": "CC0000",
+          "width": 1.5
+        }
+      },
+      "id": 7
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Ratings providers score company performance across varying environmental, social, governance criteria to highlight sustainability commitment (or lack of) to stakeholders",
+          "options": {
+            "fontSize": 24,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false,
+            "_marL_pt": 14,
+            "_indent_pt": -14
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3663,
+        "y": 0,
+        "w": 12.6007,
+        "h": 0.9588,
+        "margin": [
+          2.83,
+          2.83,
+          5.67,
+          2.83
+        ],
+        "valign": "bottom",
+        "isTextBox": true
+      },
+      "id": 16
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          {
+            "text": [
+              {
+                "text": "Provider Summary",
+                "options": {
+                  "fontSize": 16,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "bold": true
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "bottom"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "Methodology",
+                "options": {
+                  "fontSize": 16,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "bold": true
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "bottom"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "Scoring Metrics",
+                "options": {
+                  "fontSize": 16,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "bold": true
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "bottom"
+            }
+          }
+        ],
+        [
+          {
+            "text": [
+              {
+                "text": "400+ Sustainability data points and 70+ Sustainability analytics –standardized for benchmarking, ",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": "for over 12,000 global companies.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "Combined score given based on metrics across 10 categories grouped by Environmental, Social and Governance pillars – as well as Sustainability controversies.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "100",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (best) –",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " 0 ",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": "(worst)",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          }
+        ],
+        [
+          {
+            "text": [
+              {
+                "text": "Analyses the environmental performance data of ~14,000 public listed companies.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "Combines assessments of Sustainability Profile, reflecting current activities, and Preparedness, evaluating the capacity to anticipate a variety of long term disruptions.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "100",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (best) – ",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": "0",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (worst)",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12,
+                  "breakLine": true
+                }
+              },
+              {
+                "text": "",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          }
+        ],
+        [
+          {
+            "text": [
+              {
+                "text": "Web-based tool for employee, environmental and governance ratings on ~26,000 companies.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "12 subcategories of CSR performance are scored. Each source is then weighted and aggregated to the category level to give an overall score.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "100",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (best) – ",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": "0",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (worst)",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12,
+                  "breakLine": true
+                }
+              },
+              {
+                "text": "",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          }
+        ],
+        [
+          {
+            "text": [
+              {
+                "text": "Specializes in private companies. Offers a rating subscription model for enterprises and their suppliers/rated companies.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "Measures the maturity of 7 \"management indicators\" across 21 Sustainability criteria. Measured via external & self-reported information.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": " (rated) /       (unrated)",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          }
+        ],
+        [
+          {
+            "text": [
+              {
+                "text": "Self-reporting",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 9
+                }
+              },
+              {
+                "text": " of sustainability for ~18,700 companies and cities – focused on GHG, deforestation and water security.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 9
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "Measures comprehensiveness of disclosure and management of environmental risks, via questionnaire on emission reduction and other data points.",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          },
+          {
+            "text": [
+              {
+                "text": "A",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (best) – ",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": "D",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " (worst) (",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": "F",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "bold": true,
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              },
+              {
+                "text": " is automatically given to those companies who have not submitted data) ",
+                "options": {
+                  "fontSize": 12,
+                  "fontFace": "Arial",
+                  "color": "000000",
+                  "align": "center",
+                  "paraSpaceBefore": 12
+                }
+              }
+            ],
+            "options": {
+              "border": [
+                {
+                  "type": "solid",
+                  "pt": 0.75,
+                  "color": "B4B4B4"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                },
+                {
+                  "type": "none"
+                }
+              ],
+              "margin": [
+                3.6,
+                7.2,
+                3.6,
+                7.2
+              ],
+              "valign": "top"
+            }
+          }
+        ]
+      ],
+      "options": {
+        "x": 2.1981,
+        "y": 1.2996,
+        "w": 10.5573,
+        "colW": [
+          3.5382,
+          4.3125,
+          2.7066
+        ],
+        "rowH": [
+          0.5268,
+          0.8314,
+          0.9004,
+          0.81,
+          0.8378,
+          0.8251
+        ]
+      },
+      "id": 17
+    },
+    {
+      "type": "shape",
+      "shape": "custGeom",
+      "options": {
+        "x": 0,
+        "y": 1.0328,
+        "w": 4.3091,
+        "h": 0.2815,
+        "fill": {
+          "color": "5C5C5C"
+        },
+        "points": [
+          {
+            "x": 4.3091,
+            "y": 0,
+            "moveTo": true
+          },
+          {
+            "x": 4.2493,
+            "y": 0.2815
+          },
+          {
+            "x": 0,
+            "y": 0.2815
+          },
+          {
+            "x": 0,
+            "y": 0
+          },
+          {
+            "close": true
+          }
+        ]
+      },
+      "id": 18
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "RATINGS BENCHMARKING",
+          "options": {
+            "fontSize": 12,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 4.5,
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0,
+        "y": 1.0328,
+        "w": 4.2492,
+        "h": 0.2815,
+        "margin": [
+          28.38,
+          28.38,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "wrap": false,
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 19
+    },
+    {
+      "type": "shape",
+      "shape": "custGeom",
+      "options": {
+        "x": 4.1616,
+        "y": 1.0328,
+        "w": 4.3829,
+        "h": 0.2815,
+        "fill": {
+          "color": "B4B4B4"
+        },
+        "points": [
+          {
+            "x": 4.3829,
+            "y": 0,
+            "moveTo": true
+          },
+          {
+            "x": 4.3231,
+            "y": 0.2815
+          },
+          {
+            "x": 0,
+            "y": 0.2815
+          },
+          {
+            "x": 0.0598,
+            "y": 0
+          },
+          {
+            "close": true
+          }
+        ]
+      },
+      "id": 20
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "PROVIDER METHODOLOGY",
+          "options": {
+            "fontSize": 12,
+            "fontFace": "Arial",
+            "bold": true,
+            "charSpacing": 4.5,
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 4.1616,
+        "y": 1.0328,
+        "w": 4.3231,
+        "h": 0.2815,
+        "margin": [
+          28.38,
+          28.38,
+          2.84,
+          2.84
+        ],
+        "valign": "top",
+        "wrap": false,
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 21
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 1.1328,
+        "y": 5.2915,
+        "w": 0.9233,
+        "h": 0.344,
+        "data": "image/png;base64,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",
+        "altText": "Home - CDP"
+      },
+      "id": 22
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 1.0427,
+        "y": 4.566,
+        "w": 1.1555,
+        "h": 0.2561,
+        "data": "image/png;base64,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",
+        "altText": "Newsbeitrag"
+      },
+      "id": 23
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 1.0797,
+        "y": 3.8054,
+        "w": 1.0237,
+        "h": 0.2097,
+        "data": "image/png;base64,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",
+        "altText": "CSRHub - Corporate Social Responsibility (CSR), Sustainability and Cause  News &amp; Media"
+      },
+      "id": 24
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Invest. spec. ",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.4088,
+        "y": 5.4427,
+        "w": 0.6566,
+        "h": 0.3543,
+        "rotate": 270,
+        "fill": {
+          "color": "333333"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 25
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Mgmt. soln.",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3117,
+        "y": 4.6139,
+        "w": 0.8509,
+        "h": 0.3543,
+        "rotate": 270,
+        "fill": {
+          "color": "333333"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 26
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Market data providers ",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3117,
+        "y": 1.9912,
+        "w": 0.8509,
+        "h": 0.3543,
+        "rotate": 270,
+        "fill": {
+          "color": "333333"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 27
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Investor rating providers ",
+          "options": {
+            "fontSize": 10,
+            "fontFace": "Arial",
+            "color": "FFFFFF",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": -0.0493,
+        "y": 3.328,
+        "w": 1.5729,
+        "h": 0.3543,
+        "rotate": 270,
+        "fill": {
+          "color": "333333"
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "middle",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 28
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 1.0797,
+        "y": 3.0514,
+        "w": 1.0708,
+        "h": 0.2342,
+        "data": "image/png;base64,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",
+        "altText": "Risultato immagini per logo s&p global"
+      },
+      "id": 29
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "Source:",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "bold": true,
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        },
+        {
+          "text": " CDP, ",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        },
+        {
+          "text": "EcoVadis",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        },
+        {
+          "text": ", LSEG, S&P Global, ",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        },
+        {
+          "text": "CSRHub",
+          "options": {
+            "fontSize": 8,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "left",
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 0.3611,
+        "y": 7.0359,
+        "w": 12.6111,
+        "h": 0.1346,
+        "margin": [
+          0,
+          0,
+          0,
+          0
+        ],
+        "valign": "bottom",
+        "fit": "resize",
+        "isTextBox": true
+      },
+      "id": 30
+    },
+    {
+      "type": "text",
+      "text": [
+        {
+          "text": "This slide can be used in backups/ appendix to elaborate on sustainability ratings benchmarking slides",
+          "options": {
+            "fontSize": 12,
+            "fontFace": "Arial",
+            "color": "000000",
+            "align": "center",
+            "paraSpaceBefore": 12,
+            "bullet": false
+          }
+        }
+      ],
+      "options": {
+        "x": 10.083,
+        "y": 0,
+        "w": 3.2411,
+        "h": 0.6972,
+        "fill": {
+          "color": "E9CD49"
+        },
+        "line": {
+          "color": "000000",
+          "width": 0.75
+        },
+        "margin": [
+          2.83,
+          2.83,
+          2.83,
+          2.83
+        ],
+        "valign": "top",
+        "_bodyRot": 0,
+        "shape": "rect"
+      },
+      "id": 31
+    },
+    {
+      "type": "image",
+      "options": {
+        "x": 1.0079,
+        "y": 2.0465,
+        "w": 1.1498,
+        "h": 0.1892,
+        "data": "image/png;base64,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",
+        "altText": "LSEG Workspace | LSEG"
+      },
+      "id": 32
+    }
+  ]
+}

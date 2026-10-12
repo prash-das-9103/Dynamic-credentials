@@ -71,6 +71,15 @@ import slide77 from "./narrative-slides/slide-077.json";
 import slide78 from "./narrative-slides/slide-078.json";
 import slide79 from "./narrative-slides/slide-079.json";
 import slide80 from "./narrative-slides/slide-080.json";
+import slide81 from "./narrative-slides/slide-081.json";
+import slide82 from "./narrative-slides/slide-082.json";
+import slide83 from "./narrative-slides/slide-083.json";
+import slide84 from "./narrative-slides/slide-084.json";
+import slide85 from "./narrative-slides/slide-085.json";
+import slide86 from "./narrative-slides/slide-086.json";
+import slide87 from "./narrative-slides/slide-087.json";
+import slide88 from "./narrative-slides/slide-088.json";
+import slide90 from "./narrative-slides/slide-090.json";
 
 const ENTRIES: NarrativeSlideEntry[] = [
   {
@@ -352,6 +361,51 @@ const ENTRIES: NarrativeSlideEntry[] = [
     data: slide80 as NarrativeSlideData,
     label: "Partner profile: Copenhagen Economics",
     description: "Copenhagen Economics is a leading player on modelling of future decarbonisation scenarios that address the economic risks of transition.",
+  },
+  {
+    data: slide81 as NarrativeSlideData,
+    label: "Partner profile: economic and risk consultancies",
+    description: "Bain can work with leading economic and risk consultancy partners to deliver best-in-class answers.",
+  },
+  {
+    data: slide82 as NarrativeSlideData,
+    label: "Partner profile: SystemIQ",
+    description: "SystemIQ brings in-depth expertise across all relevant sustainability topics in Plastics & Packaging.",
+  },
+  {
+    data: slide83 as NarrativeSlideData,
+    label: "Partner profile: Sylvera",
+    description: "Sylvera brings proprietary nature-based carbon offsets insights to enable diligence at scale and real time, automated monitoring.",
+  },
+  {
+    data: slide84 as NarrativeSlideData,
+    label: "Partner profile: Bosch",
+    description: "The combination of Bosch and Bain adds significant value to projects through a broad set of experiences across industries.",
+  },
+  {
+    data: slide85 as NarrativeSlideData,
+    label: "Partner profile: CDP",
+    description: "Disclosure, awareness and management of environmental impact are at the core of CDP.",
+  },
+  {
+    data: slide86 as NarrativeSlideData,
+    label: "Section divider",
+    description: "Section divider slide.",
+  },
+  {
+    data: slide87 as NarrativeSlideData,
+    label: "Partner profile: World Economic Forum",
+    description: "As a strategic partner of the World Economic Forum, Bain is a proactive voice in developing policy and regulatory recommendations.",
+  },
+  {
+    data: slide88 as NarrativeSlideData,
+    label: "Ratings providers on a page",
+    description: "How ratings providers score company performance across environmental, social and governance criteria.",
+  },
+  {
+    data: slide90 as NarrativeSlideData,
+    label: "Sustainability Value Creation",
+    description: "The Sustainability Value Creation framework.",
   },
 ];
 
